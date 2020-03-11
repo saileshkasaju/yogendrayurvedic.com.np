@@ -1,9 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: No medicine can compensate for un-healthy living.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: >-
+  Life is one percent what happens to you, and ninety-nine percent how you
+  respond to it.
+subheading: >-
+  The great thing about Ayurveda is that its treatments always yield side
+  benefits, not side effects.
 mainpitch:
   title: Why Kaldi
   description: >
