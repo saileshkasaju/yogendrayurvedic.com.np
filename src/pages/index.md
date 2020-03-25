@@ -14,8 +14,8 @@ mainpitch:
 description: >-
   Ayurveda is the ultimate science for health and for person who want to live a
   healthy, prosperous and spiritual life.This summer turn within yourself and
-  discover a new universe within yourself waiting for you tap into the miracle
-  working of your body mind and spirit for your growth development and
+  discover a new universe within yourself waiting for you to tap into the
+  miracle working of your body mind and spirit for your growth development and
   prosperity of your health, wealth and relationships.
 intro:
   blurbs:
@@ -34,23 +34,16 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What Ayurveda Offers
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |+
+
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: aa
+  description: aa
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: aa
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: aa
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
