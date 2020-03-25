@@ -12,7 +12,7 @@ mainpitch:
     physics makes the entire universe, panchatanmatra are energies that governs
     inside and outside of an organism and the universe. 
 description: >-
-  Ayurveda is the ultimate science for health and for person who want to live a
+  Ayurveda is the ultimate science for health and for person who wants to live a
   healthy, prosperous and spiritual life.This summer turn within yourself and
   discover a new universe within yourself waiting for you to tap into the
   miracle working of your body mind and spirit for your growth development and
