@@ -1,25 +1,19 @@
 ---
 templateKey: index-page
-title: No medicine can compensate for un-healthy living.
+title: QUANTUM HEALING WITH AYURVEDA
 image: /img/home-jumbotron.jpg
-heading: >-
-  Life is one percent what happens to you, and ninety-nine percent how you
-  respond to it.
-subheading: >-
-  The great thing about Ayurveda is that its treatments always yield side
-  benefits, not side effects.
+heading: 'Ayurveda Provides Mathematical Background For Biology and Psychology '
+subheading: 'Ayurveda Is Mathematical Solution To A Health Problem '
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: WHY AYURVEDA?
+  description: >-
+    Ayurveda understands our body is made out of different energies . Just like
+    electromagnetic force, gravitational force, weak force and strong force in
+    physics makes the entire universe, vata pitta kapha are energies that
+    governs inside and outside of an organism and the universe. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Ayurveda is the ultimate science for health and for person who want to live a
+  healthy, prosperous and spiritual life.
 intro:
   blurbs:
     - image: /img/tutorials.png
@@ -36,7 +30,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What Ayurveda Offers
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
