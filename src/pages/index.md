@@ -9,11 +9,14 @@ mainpitch:
   description: >-
     Ayurveda understands our body is made out of different energies . Just like
     electromagnetic force, gravitational force, weak force and strong force in
-    physics makes the entire universe, vata pitta kapha are energies that
-    governs inside and outside of an organism and the universe. 
+    physics makes the entire universe, panchatanmatra are energies that governs
+    inside and outside of an organism and the universe. 
 description: >-
   Ayurveda is the ultimate science for health and for person who want to live a
-  healthy, prosperous and spiritual life.
+  healthy, prosperous and spiritual life.This summer turn within yourself and
+  discover a new universe within yourself waiting for you tap into the miracle
+  working of your body mind and spirit for your growth development and
+  prosperity of your health, wealth and relationships.
 intro:
   blurbs:
     - image: /img/tutorials.png
