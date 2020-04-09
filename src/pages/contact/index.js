@@ -1,4 +1,5 @@
 import React from 'react';
+import { graphql } from 'gatsby';
 import { navigate } from 'gatsby-link';
 import PreviewCompatibleImage from '../../components/PreviewCompatibleImage';
 import Layout from '../../components/Layout';
