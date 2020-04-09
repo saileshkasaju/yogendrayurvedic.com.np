@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Yogendra Ayurvedic Pharmacy',
     description: 'Ayurvedic Clinic of Dr. Pragendra Raj Bajracharya.',
+    siteUrl: `https://www.yogendrayurvedic.com.np`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -27,6 +28,7 @@ module.exports = {
         name: 'pages',
       },
     },
+    `gatsby-plugin-sitemap`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
