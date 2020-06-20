@@ -9,8 +9,8 @@ mainpitch:
   description: >-
     Ayurveda understands our body is made out of different energies . Just like
     electromagnetic force, gravitational force, weak force and strong force in
-    physics makes the entire universe, panchatanmatra are energies that governs
-    inside and outside of an organism and the universe. 
+    physics makes the entire universe, satva, rajas, tamas are energies that
+    governs inside and outside of an organism and the universe. 
 description: >-
   Ayurveda is the ultimate science for health and for person who wants to live a
   healthy, prosperous and spiritual life.This summer turn within yourself and
