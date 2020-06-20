@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: QUANTUM HEALING WITH AYURVEDA
-image: /img/home-jumbotron.jpg
+image: /img/seven-chakras.jpg
 heading: 'Ayurveda Provides Mathematical Background For Biology and Psychology '
 subheading: 'Ayurveda Is Mathematical Solution To A Health Problem '
 mainpitch:
