@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
-title: QUANTUM HEALING WITH AYURVEDA
-image: /img/seven-chakras.jpg
-heading: "Ayurveda Provides Mathematical Background For Biology and Psychology "
-subheading: "Ayurveda Is Mathematical Solution To A Health Problem "
+title: YOGENDRA AYURVEDA
+image: /img/your-guide-to-travel-dventure.png
+heading: Prevention Is Better Than Cure
+subheading: Your Guide To Health And Longevity
 mainpitch:
-  title: WHY AYURVEDA?
-  description: "Ayurveda understands our body is made out of different energies .
-    Just like electromagnetic force, gravitational force, weak force and strong
-    force in physics makes the entire universe, satva, rajas, tamas are energies
-    that governs inside and outside of an organism and the universe. "
+  title: How Can Hack Your Biology?
+  description: >-
+    Understanding polarity of nature is a ART.
+
+    Once you know how to dance between polarities. CONGRAGULATION you have hacked your BIOLOGY!!
 intro:
   blurbs: []
   heading: What Ayurveda Offers
