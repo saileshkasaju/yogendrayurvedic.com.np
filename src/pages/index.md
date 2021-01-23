@@ -5,7 +5,7 @@ image: /img/your-guide-to-travel-dventure.png
 heading: Prevention Is Better Than Cure
 subheading: Your Guide To Health And Longevity
 mainpitch:
-  title: How Can Hack Your Biology?
+  title: How Can You Hack Your Biology?
   description: >-
     Understanding polarity of nature is a ART.
 
