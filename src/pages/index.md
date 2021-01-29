@@ -3,7 +3,7 @@ templateKey: index-page
 title: YOGENDRA AYURVEDA
 image: /img/your-guide-to-travel-dventure.png
 heading: Prevention Is Better Than Cure
-subheading: Your Guide To Health And Longevity
+subheading: Your Guide To Health And Longevity With Dr.Pragendra Raj Bajracharya
 mainpitch:
   title: How Can You Hack Your Biology?
   description: >-
