@@ -19,7 +19,7 @@ main:
   description: aa
   image1:
     alt: aa
-    image: /img/products-grid3.jpg
+    image: /img/141341246_1044980229347177_7404754951668211164_n.jpg
   image2:
     alt: aa
     image: /img/products-grid2.jpg
