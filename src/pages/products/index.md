@@ -3,7 +3,7 @@ heading: How can  herbal Preparation be consumed?
 path: /products
 templateKey: product-page
 title: Five Types of herbal Preparation
-image: /img/20200514_171433.jpg
+image: /img/unnamed.jpg
 description: "Raw herbs are gendreally prepared according to five basic methords
   of extraction: the fresh juice of plant(svarasa); the crushed pulp or paste of
   the plant (kalka); decoction (kvatha); hot infusion(phanta); and cold infusion
