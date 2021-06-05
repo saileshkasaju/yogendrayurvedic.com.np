@@ -333,6 +333,8 @@ title: ABOUT  YOGENDRA AYURVEDA
 </style>
 <!\\[endif]-->
 
+![](/img/thevediccivilization-180410175422-thumbnail-4.jpg)
+
 <!--StartFragment-->
 
 * The main aim and objective of Yogendra Ayurveda is to bring us humans close to mother nature.
