@@ -13,21 +13,30 @@ intro:
   heading: A
   description: A
 main:
-  heading: C
-  description: C
+  heading: ADDITIONAL HERBAL PREPARATIONS
+  description: |-
+    1.Milk Decoction
+    2.Powder(Churna)
+    3.Pills and tablets(Guti and Vati)
+    4.Medicated wines (Asava and Aristhas)
+    5.Medicated Jellies (Avalehas)
+    6.Medicated Oils (Siddha taila)
+    7.Medicated Ghee (Siddha ghrita)
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: d
+    image: /img/pancha-kashaya-kalpana.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: e
+    image: /img/20200514_171433.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: f
+    image: /img/141341246_1044980229347177_7404754951668211164_n.jpg
 testimonials: []
 full_image: /img/pancha-kashaya-kalpana.jpg
 pricing:
-  heading: B
-  description: BBB
+  heading: Media Of Intake (Anupana)
+  description: In Ayurveda, herbal medicines are prescribed to be taken with
+    various mediums of intake, as hot water or milk. Such vechicles for taking
+    herbs are called anupanas.
   plans: []
 ---
