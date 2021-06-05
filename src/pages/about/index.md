@@ -338,7 +338,7 @@ title: ABOUT  YOGENDRA AYURVEDA
 <!--StartFragment-->
 
 * The main aim and objective of Yogendra Ayurveda is to bring us humans close to mother nature.
-* Born in 1871 AD ,Yogendra nath Sen was one of the recent commentators on*Charaka Samhita*., and his commentary*Charakopaskāra*was originally published in 1920 AD
+* Born in 1871 AD ,Yogendra nath Sen was one of the recent commentators on*Charaka Samhita*, and his commentary*Charakopaskāra*was originally published in 1920 AD
 * Yogendra rasa is one of herbo-mineral preparation in ayurveda which is used as a catalyst and also used in diabetes and urinary disorder.
 * Just like its medical properties Yogendra Ayurveda is about acting as catalyst to deliver ayurvedic wisdom to all human being.
 * Yogendra Ayurveda wants to remind all of us that we are part of the universe and even in this information and technology age we can still have a strong, deep, and meaningful relationship with nature.
