@@ -5,8 +5,16 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import SEO from '../components/seo';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
-export const BlogPostTemplate = ({ content, contentComponent, description, tags, title }) => {
+export const BlogPostTemplate = ({
+  content,
+  contentComponent,
+  description,
+  tags,
+  title,
+  featuredimage,
+}) => {
   const PostContent = contentComponent || Content;
 
   return (
@@ -15,6 +23,7 @@ export const BlogPostTemplate = ({ content, contentComponent, description, tags,
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">{title}</h1>
+            {featuredimage && <PreviewCompatibleImage imageInfo={featuredimage} />}
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -51,7 +60,7 @@ const BlogPost = ({ data }) => {
       <SEO
         title={`${post.frontmatter.title} | Blog`}
         description={post.frontmatter.description}
-        // image={post.frontmatter.image}
+        image={post.frontmatter.featuredimage}
       />
       <BlogPostTemplate
         content={post.html}
@@ -59,6 +68,7 @@ const BlogPost = ({ data }) => {
         description={post.frontmatter.description}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredimage={post.frontmatter.featuredimage}
       />
     </Layout>
   );
@@ -82,6 +92,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

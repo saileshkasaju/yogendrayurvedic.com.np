@@ -46,7 +46,7 @@ function SEO({ description, meta, title, image, lang }) {
         },
         {
           name: 'theme-color',
-          content: '#fff',
+          content: '#58B856',
         },
         {
           property: `og:title`,
