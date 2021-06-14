@@ -3,6 +3,7 @@ module.exports = {
     title: 'Yogendra Ayurvedic Pharmacy',
     description: 'Ayurvedic Clinic of Dr. Pragendra Raj Bajracharya.',
     siteUrl: `https://www.yogendrayurvedic.com.np`,
+    author: 'Dr. Pragendra Raj Bajracharya',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

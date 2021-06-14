@@ -6,6 +6,7 @@ import Features from '../components/Features';
 import Testimonials from '../components/Testimonials';
 import Pricing from '../components/Pricing';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import SEO from '../components/seo';
 
 export const ProductPageTemplate = ({
   image,
@@ -125,6 +126,11 @@ const ProductPage = ({ data }) => {
 
   return (
     <Layout>
+      <SEO
+        title={frontmatter.title}
+        image={frontmatter.image}
+        description={frontmatter.description}
+      />
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}

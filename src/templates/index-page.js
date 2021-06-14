@@ -6,6 +6,7 @@ import Layout from '../components/Layout';
 import Features from '../components/Features';
 import BlogRoll from '../components/BlogRoll';
 import { HTMLContent } from '../components/Content';
+import SEO from '../components/seo';
 
 export const IndexPageTemplate = ({
   image,
@@ -18,6 +19,7 @@ export const IndexPageTemplate = ({
 }) => {
   return (
     <div>
+      <SEO title="Home" />
       <div
         className="full-width-image margin-top-0"
         style={{
