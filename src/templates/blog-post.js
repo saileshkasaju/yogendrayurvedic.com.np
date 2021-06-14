@@ -23,7 +23,7 @@ export const BlogPostTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">{title}</h1>
-            {featuredimage && <PreviewCompatibleImage imageInfo={featuredimage} />}
+            {featuredimage && <PreviewCompatibleImage imageInfo={{ image: featuredimage }} />}
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -55,12 +55,15 @@ BlogPostTemplate.propTypes = {
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
 
+  console.log(post.frontmatter.featuredimage);
   return (
     <Layout>
       <SEO
         title={`${post.frontmatter.title} | Blog`}
         description={post.frontmatter.description}
-        image={post.frontmatter.featuredimage}
+        image={
+          post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src
+        }
       />
       <BlogPostTemplate
         content={post.html}
@@ -95,6 +98,7 @@ export const pageQuery = graphql`
         featuredimage {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
+              src
               ...GatsbyImageSharpFluid
             }
           }
