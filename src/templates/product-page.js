@@ -48,7 +48,7 @@ export const ProductPageTemplate = ({
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
+              {intro.blurbs && <Features gridItems={intro.blurbs} />}
               <div className="columns">
                 <div className="column is-7">
                   <h3 className="has-text-weight-semibold is-size-3">{main.heading}</h3>
@@ -76,7 +76,7 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
-              <Testimonials testimonials={testimonials} />
+              {testimonials && <Testimonials testimonials={testimonials} />}
               <div
                 className="full-width-image-container"
                 style={{
@@ -87,7 +87,7 @@ export const ProductPageTemplate = ({
               />
               <h2 className="has-text-weight-semibold is-size-2">{pricing.heading}</h2>
               <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
+              {pricing.plans && <Pricing data={pricing.plans} />}
             </div>
           </div>
         </div>
@@ -165,16 +165,16 @@ export const productPageQuery = graphql`
         heading
         description
         intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
+          # blurbs {
+          #   image {
+          #     childImageSharp {
+          #       fluid(maxWidth: 240, quality: 64) {
+          #         ...GatsbyImageSharpFluid
+          #       }
+          #     }
+          #   }
+          #   text
+          # }
           heading
           description
         }
@@ -212,10 +212,10 @@ export const productPageQuery = graphql`
             }
           }
         }
-        testimonials {
-          author
-          quote
-        }
+        # testimonials {
+        #   author
+        #   quote
+        # }
         full_image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -226,12 +226,12 @@ export const productPageQuery = graphql`
         pricing {
           heading
           description
-          plans {
-            description
-            items
-            plan
-            price
-          }
+          # plans {
+          #   description
+          #   items
+          #   plan
+          #   price
+          # }
         }
       }
     }
