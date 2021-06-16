@@ -10,23 +10,21 @@ tags:
 ---
 <!--StartFragment-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OkRdFyUhsbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 [![](https://1.bp.blogspot.com/-AGIw8mlm0Po/YLSJbHBbqCI/AAAAAAAAAa4/x01St4168ocewq41gK6v3GDFurRR-u1NACNcBGAsYHQ/s320/thermometer-5185847_1280.jpg)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/5573692071146046598#)
 
-#  What is Cause For Fever According to Ayurveda?
+# What is Cause For Fever According to Ayurveda?
 
 [![](https://1.bp.blogspot.com/-7uQivicimZ0/YLSC6nLL9cI/AAAAAAAAAZ4/gESf_PfZSM06gUy1EExBf1739vEAXb_KgCNcBGAsYHQ/s320/AMA%2528Toxins%2529.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/5573692071146046598#)
-
-#  
-
-
 
 * Contrary some people believe fever is not often a sign of infection.
 * In some cases there is infection but most of the time fever is due to toxicity(*ama)* in the *plasma(rasa dhatu)* in the body is basic vital tissue.
 * When the toxins (*ama)* has been illuminated a fever will subside.
 
 [![](https://1.bp.blogspot.com/-cabAk0jptC0/YLSDMZH_jfI/AAAAAAAAAaA/YPauYSj9BFEtPqlXbAS1jrKJ2GVxghPIQCNcBGAsYHQ/s320/FASTING.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/5573692071146046598#)
-
-
 
 > Don't eat there is an old saying feed a cold and starve fever, and truly the first treatment recommended by Ayurveda for a fever is to observe a fast. For acute fever and total fast is recommended, if the person is strong enough. Is a person is debilitated or weak it is better to drink water and some kind of fruit juice or one of the herbal tea.
 
@@ -66,8 +64,6 @@ Another excellent herbal remedy for reducing fever is tea made of :
 
 [![](https://1.bp.blogspot.com/-KLXwjfe-Nzs/YLSD7MlGRtI/AAAAAAAAAag/9vGFUnUQtJIbp5gkqji7rQ6okSgN2erxgCNcBGAsYHQ/s320/GINGER.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/5573692071146046598#)
 
-
-
 * * Coriander two parts
   * Cinnamon two parts
   * Ginger 1 part
@@ -79,8 +75,6 @@ Another excellent herbal remedy for reducing fever is tea made of :
 Another simple 3 ingredient made of household herbs is this one:
 
 [![](https://1.bp.blogspot.com/-QQRdFezWGd0/YLSEKxb-ttI/AAAAAAAAAak/3nXgiYjG3e0M_uydLxzaYqBrYadCynU5wCNcBGAsYHQ/s320/3.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/5573692071146046598#)
-
->
 
 * * Cumin seeds
   * Coriander seeds
