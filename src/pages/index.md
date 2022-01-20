@@ -27,7 +27,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -69,9 +69,9 @@ main:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -327,9 +327,9 @@ main:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -356,26 +356,50 @@ main:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\[endif]-->
+<!\\\\\[endif]-->
+
+<table border="0" width="100%">
+	<tr>
+		<td bgcolor="#009933">
 
 <p align="justify">
 
+<font color="#CCFFCC">
+
 <!--StartFragment-->
 
-Ayurveda is based on gunas ie. polarities.</p>
+Ayurveda is based on gunas ie. polarities.</font></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#33CC33">
 
-<p align="justify">&nbsp;These gunas inside the body becomes dosha and outside the body becomes ritus ie. season.
+<p align="justify"><font color="#003300">These gunas inside the body becomes dosha and outside the body becomes ritus ie. season.
 
-Ayurveda is a personalized system of medicine. </p>
+Ayurveda is a personalized system of medicine. </font> </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#66FF66">
 
 <p align="justify">Everyone is unique.
 
 Because of this average workout habit and balance diet does not work for everyone.
 
-</p>
+</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#99FF99">
 <p align="justify">Eating apple a day maybe great for one person but not for everyone. Ayurveda is about equity not equality.
 
-</p>
+</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#CCFFCC">
 <p align="justify">Ayurveda focus on quality and quantity of life habit, food habit, thinking habits of a person which determines the quality of life of a person.
 
-<!--EndFragment--></p>
+<!--EndFragment--></p></td>
+
+```
+
+```
+
+</table>
