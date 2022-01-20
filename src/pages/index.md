@@ -27,7 +27,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -69,9 +69,9 @@ main:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -327,9 +327,9 @@ main:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -356,22 +356,26 @@ main:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\\[endif]-->
+
+<p align="justify">
 
 <!--StartFragment-->
 
-Ayurveda is based on gunas ie. polarities.
+Ayurveda is based on gunas ie. polarities.</p>
 
-These gunas inside the body becomes dosha and outside the body becomes ritus ie. season.
+<p align="justify">&nbsp;These gunas inside the body becomes dosha and outside the body becomes ritus ie. season.
 
-Ayurveda is a personalized system of medicine. Everyone is unique.
+Ayurveda is a personalized system of medicine. </p>
+
+<p align="justify">Everyone is unique.
 
 Because of this average workout habit and balance diet does not work for everyone.
 
-Eating apple a day maybe great for one person but not for everyone.
+</p>
+<p align="justify">Eating apple a day maybe great for one person but not for everyone. Ayurveda is about equity not equality.
 
-Ayurveda is about equity not equality.
+</p>
+<p align="justify">Ayurveda focus on quality and quantity of life habit, food habit, thinking habits of a person which determines the quality of life of a person.
 
-Ayurveda focus on quality and quantity of life habit, food habit, thinking habits of a person which determines the quality of life of a person.
-
-<!--EndFragment-->
+<!--EndFragment--></p>
