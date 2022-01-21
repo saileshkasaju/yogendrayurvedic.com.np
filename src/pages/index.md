@@ -437,20 +437,6 @@ function FP_getObjectByID(id,o) {//v1.0
 		Terms &amp; Policies</a></td>
 	</tr>
 	<tr>
-		<td width="45%" colspan="5"><span style="background-color: #008700">
-		<font size="7" color="#FFFFFF" face="Adobe Gothic Std B">&nbsp;</font><font color="#FFFFFF" face="Adobe Gothic Std B" size="6">YOGENDRA 
-		AYURVEDA&nbsp;&nbsp;&nbsp; </font>
-		<font size="7" color="#FFFFFF" face="Adobe Gothic Std B">&nbsp;&nbsp;&nbsp;
-		</font></span></td>
-		<td width="53%" colspan="9" rowspan="2">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="45%" colspan="5">
-		<font size="5" color="#FFFFFF" face="Brush Script MT">
-		<span style="background-color: #FF0000">Live Healthy, Happy &amp; Long life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</span></font></td>
-	</tr>
-	<tr>
 		<td width="9%" bgcolor="#008700">
 		&nbsp;<div class="main-menu main-menu-wrap tie-alignleft" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; float: left; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 135, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
 			<div id="main-nav-menu" class="main-menu header-menu" style="list-style-type: none; outline: none; box-sizing: border-box; float: left; width: 39px; height: 34px; border: 0.07) none rgba(255; margin: 0px; padding: 0px">
