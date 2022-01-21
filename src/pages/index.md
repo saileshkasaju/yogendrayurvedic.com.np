@@ -373,7 +373,7 @@ main:
 			Ayurvedic Consultation</a></li>
 		</ul>
 		</td>
-		<td width="266" colspan="3" bgcolor="#00CC00">
+		<td width="266" colspan="2" bgcolor="#00CC00">
 		<ul id="menu-top-menu3" class="menu" style="list-style-type: none; outline: none; box-sizing: border-box; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0.08) none rgba(0; margin: 0px; padding: 0px; background-color: rgb(239, 240, 241)">
 			<li id="menu-item-38490" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-38490" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; position: relative; display: block; float: left; border: 0.08) none rgba(0; margin: 0px; padding: 0px">
 			</li>
@@ -406,14 +406,14 @@ main:
 			Disclaimer</a></li>
 		</ul>
 		</td>
-		<td width="12%" bgcolor="#00CC00">
+		<td width="11%" bgcolor="#00CC00">
 		<a style="list-style-type: none; outline: none 0px; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; background-color: transparent">
 		Terms &amp; Policies</a></td>
 	</tr>
 	<tr>
-		<td width="9%" bgcolor="#008700">
+		<td width="5%" bgcolor="#008700">
 		&nbsp;<div class="main-menu main-menu-wrap tie-alignleft" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; float: left; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 135, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-			<div id="main-nav-menu" class="main-menu header-menu" style="list-style-type: none; outline: none; box-sizing: border-box; float: left; width: 39px; height: 34px; border: 0.07) none rgba(255; margin: 0px; padding: 0px">
+			<div id="main-nav-menu" class="main-menu header-menu" style="list-style-type: none; outline: none; box-sizing: border-box; float: left; width: 124px; height: 33px; border: 0.07) none rgba(255; margin: 0px; padding: 0px">
 				<ul id="menu-main-menu" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
 					<li id="menu-item-35957" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-35957 tie-current-menu" style="border-left:0px initial rgb(255, 87, 87); border-right:0px initial rgb(255, 87, 87); border-top:0px initial rgb(255, 87, 87); border-bottom:5px solid rgb(255, 87, 87); padding:0px; border-image: initial; outline: none; box-sizing: border-box; text-align: justify; display: block; float: left; list-style-type:none; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:-5px">
 					<p style="text-align: center">
@@ -436,33 +436,35 @@ main:
 		</ul>
 		<br class="Apple-interchange-newline">
 &nbsp;</td>
-		<td width="10%" bgcolor="#008700">
+		<td width="8%" bgcolor="#008700">
 		<ul id="menu-main-menu0" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
 			<li id="menu-item-38674" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-35957 tie-current-menu" style="border-left:0px initial rgb(255, 87, 87); border-right:0px initial rgb(255, 87, 87); border-top:0px initial rgb(255, 87, 87); border-bottom:5px solid rgb(255, 87, 87); padding:0px; border-image: initial; outline: none; box-sizing: border-box; text-align: justify; display: block; float: left; list-style-type:none; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:-5px">
 			</li>
 			<li id="menu-item-38447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-38447 mega-menu mega-links mega-links-3col " style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+			<p style="text-align: center">
 			<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/food-nutrition/">
 			Food &amp; Nutrition</a></li>
 		</ul>
 		</td>
-		<td width="186" colspan="2" bgcolor="#008700">
+		<td width="7%" bgcolor="#008700">
 		<p align="center">
 		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/healing/">
 		Healing Guides</a></td>
-		<td width="8%" bgcolor="#008700">
+		<td width="11%" bgcolor="#008700">
 		<ul id="menu-main-menu1" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
 			<li id="menu-item-38675" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34072" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
 			</li>
 			<li id="menu-item-34079" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34079" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+			<p style="text-align: center">
 			<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/plants-herbs/">
 			Plants &amp; Herbs</a></li>
 		</ul>
 &nbsp;</td>
-		<td width="17%" colspan="2" bgcolor="#008700">
+		<td width="366" colspan="2" bgcolor="#008700">
 		<p align="center">
 		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/ayurveda/">
 		Ayurveda</a></td>
-		<td width="13%" colspan="3" bgcolor="#008700">
+		<td width="62" colspan="3" bgcolor="#008700">
 		<p align="center">
 		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;">
 		More</a></td>
@@ -476,10 +478,10 @@ main:
 			</select><input type="submit" value="Follow" name="B2"></p>
 		</form>
 &nbsp;</td>
-		<td width="9%" colspan="2" bgcolor="#008700"><input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
+		<td width="271" colspan="2" bgcolor="#008700"><input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
 	</tr>
 	<tr>
-		<td colspan="9" rowspan="2">&nbsp;<iframe width="913" height="377" src="ayurvedic_principles.htm"></iframe><div class="mag-box-container clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)">
+		<td colspan="8" rowspan="2">&nbsp;<iframe width="913" height="377" src="ayurvedic_principles.htm"></iframe><div class="mag-box-container clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)">
 			<ul class="posts-items posts-list-container" style="list-style-type: none; outline: none; box-sizing: border-box; clear: both; font-size: 0px; border: 0px none; margin: 0px -15.625px; padding: 0px">
 				<li class="post-item  tie-standard" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; float: none; width: 406.625px; vertical-align: top; display: inline-block !important; border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 24px; margin-bottom: 0px; padding-left: 16.25px; padding-right: 16.25px; padding-top: 0px; padding-bottom: 0px">			
 					<h2 class="post-title" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 14px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
