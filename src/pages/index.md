@@ -369,9 +369,6 @@ o\:*         { behavior: url(#default#VML) }
 </style>
 <!\[endif]-->
 <link rel="File-List" href="new_page_1_files/filelist.xml">
-<!--\[if gte mso 9]>
-<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><!\[endif]-->
 <script language="JavaScript">
 <!--
 function FP_swapImg() {//v1.0
@@ -397,9 +394,13 @@ function FP_getObjectByID(id,o) {//v1.0
 // -->
 </script>
 
+<!--\[if gte mso 9]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><!\[endif]-->
+
 </head>
 
-<body onload="FP_preloadImgs(/*url*/'file:///C:/Users/User/Documents/button3.jpg', /*url*/'file:///C:/Users/User/Documents/button4.jpg', /*url*/'file:///C:/Users/User/Documents/buttonD.jpg', /*url*/'file:///C:/Users/User/Documents/buttonE.jpg', /*url*/'file:///C:/Users/User/Documents/button10.jpg', /*url*/'file:///C:/Users/User/Documents/button11.jpg', /*url*/'file:///C:/Users/User/Documents/button13.jpg', /*url*/'file:///C:/Users/User/Documents/button14.jpg', /*url*/'file:///C:/Users/User/Documents/button22.jpg', /*url*/'file:///C:/Users/User/Documents/button23.jpg', /*url*/'file:///C:/Users/User/Documents/button25.jpg', /*url*/'file:///C:/Users/User/Documents/button26.jpg', /*url*/'file:///C:/Users/User/Documents/button28.jpg', /*url*/'file:///C:/Users/User/Documents/button29.jpg')">
+<body onload="FP_preloadImgs(/*url*/'file:///C:/Users/User/Documents/buttonD.jpg', /*url*/'file:///C:/Users/User/Documents/buttonE.jpg', /*url*/'file:///C:/Users/User/Documents/button10.jpg', /*url*/'file:///C:/Users/User/Documents/button11.jpg', /*url*/'file:///C:/Users/User/Documents/button13.jpg', /*url*/'file:///C:/Users/User/Documents/button14.jpg', /*url*/'file:///C:/Users/User/Documents/button22.jpg', /*url*/'file:///C:/Users/User/Documents/button23.jpg', /*url*/'file:///C:/Users/User/Documents/button25.jpg', /*url*/'file:///C:/Users/User/Documents/button26.jpg', /*url*/'file:///C:/Users/User/Documents/button28.jpg', /*url*/'file:///C:/Users/User/Documents/button29.jpg', /*url*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button41.jpg', /*url*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button42.jpg')">
 
 <table border="0" width="100%">
 	<tr>
@@ -473,15 +474,15 @@ function FP_getObjectByID(id,o) {//v1.0
   <v:h position="#0,bottomRight" xrange="6629,14971"/>
  </v:handles>
  <o:lock v:ext="edit" text="t" shapetype="t"/>
-</v:shapetype><v:shape id="_x0000_s1025" type="#_x0000_t136" style='width:413.25pt;
+</v:shapetype><v:shape id="_x0000_s1027" type="#_x0000_t136" style='width:413.25pt;
  height:41.25pt' fillcolor="#063" strokecolor="green">
- <v:fill src="new_page_1133_files/image001.jpg" o:title="Paper bag" type="tile"/>
+ <v:fill src="" o:title="Paper bag" type="tile"/>
  <v:shadow on="t" type="perspective" color="#c7dfd3" opacity="52429f" origin="-.5,-.5"
   offset="-26pt,-36pt" matrix="1.25,,,1.25"/>
  <v:textpath style='font-family:"Times New Roman";v-text-kern:t' trim="t"
   fitpath="t" string="YOGENDRA AYURVEDA"/>
 </v:shape><!\[endif]--><!\[if !vml]><img border=0 width=690 height=104
-src="new_page_1133_files/image002.gif" alt="YOGENDRA AYURVEDA" v:shapes="_x0000_s1025"><!\[endif]></td>
+src="new_page_1142_files/image001.gif" alt="YOGENDRA AYURVEDA" v:shapes="_x0000_s1027"><!\[endif]></td>
 		<td width="53%" colspan="9">&nbsp;<div style="position: absolute; width: 100px; height: 46px; z-index: 3; left: 94px; top: 25px" id="layer3">
 <!--\[if gte vml 1]><v:shape
  id="_x0000_s1026" type="#_x0000_t136" alt="Live Healthy, Happy &amp; Long life"
@@ -492,13 +493,13 @@ src="new_page_1133_files/image002.gif" alt="YOGENDRA AYURVEDA" v:shapes="_x0000_
   fitpath="t" string="Live Healthy, Happy &amp; Long life"/>
 </v:shape><!\[endif]--><!\[if !vml]><span style='mso-ignore:vglayout;position:
 absolute;z-index:1;left:94px;top:25px;width:336px;height:40px'><img width=336
-height=40 src="new_page_1133_files/image003.gif"
+height=40 src="new_page_1142_files/image002.gif"
 alt="Live Healthy, Happy &amp; Long life" v:shapes="_x0000_s1026"></span><!\[endif]></div>
 		</td>
 	</tr>
 	<tr>
 		<td width="9%">
-		<img border="0" id="img1" src="file:///C:/Users/User/Documents/button2.jpg" height="33" width="100" alt="Home" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="Home" onmouseover="FP_swapImg(1,0,/\*id\*/'img1',/\*url\*/'file:///C:/Users/User/Documents/button3.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img1',/\*url\*/'file:///C:/Users/User/Documents/button2.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img1',/\*url\*/'file:///C:/Users/User/Documents/button4.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img1',/\*url\*/'file:///C:/Users/User/Documents/button3.jpg')"></td>
+		<img border="0" id="img11" src="file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button40.jpg" height="33" width="100" alt="Home" onmouseover="FP_swapImg(1,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button41.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button40.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button42.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button41.jpg')" fp-style="fp-btn: Glass Tab 2" fp-title="Home"></td>
 		<td width="12%">
 		<img border="0" id="img5" src="file:///C:/Users/User/Documents/buttonC.jpg" height="33" width="100" alt="food &amp; nutrition" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="food &amp; nutrition" onmouseover="FP_swapImg(1,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonD.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonC.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonE.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonD.jpg')"></td>
 		<td width="13%" colspan="2">
@@ -514,7 +515,7 @@ alt="Live Healthy, Happy &amp; Long life" v:shapes="_x0000_s1026"></span><!\[end
 		<td width="9%" colspan="2"><input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
 	</tr>
 	<tr>
-		<td colspan="9">&nbsp;<p>&nbsp;</p>
+		<td colspan="9" rowspan="2">&nbsp;<p>&nbsp;</p>
 		<div class="mag-box-title the-global-title" style="list-style-type: none; outline: none; box-sizing: border-box; display: flex; align-items: flex-start; position: relative; font-size: 15px; line-height: 1.3; font-weight: 500; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 20px; padding-left: 10px; padding-right: 10px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
 			<h3 style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 22px; font-weight: 600; font-size: 15px; flex: 0 0 auto; max-width: calc(100% - 145px); float: left; font-family: Poppins; border: 0px none; margin-left: 0px; margin-right: 20px; margin-top: 0px; margin-bottom: 0px; padding: 0px">
 			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: rgb(255, 255, 255); text-decoration: none; transition: all 0.15s ease 0s; border: 0px none; margin: 0px; padding: 0px; background-color: transparent" href="https://www.ayurtimes.com/category/food-nutrition/food-guide/">
@@ -589,23 +590,27 @@ alt="Live Healthy, Happy &amp; Long life" v:shapes="_x0000_s1026"></span><!\[end
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 		<p>&nbsp;</td>
-		<td colspan="5">
-		<div style="position: absolute; width: 353px; height: 266px; z-index: 2; left: 967px; top: 224px" id="layer2">
+		<td colspan="5" height="174">
+		
 			<div class="widget-title the-global-title" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; opacity: 0.99; font-size: 15px; line-height: 1.3; font-weight: 500; color: rgb(255, 255, 255); border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 20px; padding-left: 10px; padding-right: 10px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
 				<div class="the-subtitle" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 15px; min-height: 15px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
 					Subscribe to Yogendra Ayurveda</div>
 			</div>
 			<form method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; border: 0px none; margin: 0px; padding: 0px" action="https://www.ayurtimes.com/#">
 				<p id="subscribe-email" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 21px; border: 0px none; margin: 0px; padding: 0px">
-				<label id="jetpack-subscribe-label" class="screen-reader-text" for="subscribe-field-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; clip: rect(1px, 1px, 1px, 1px); clip-path: inset(50%); height: 42px; overflow: hidden; position: absolute !important; width: 283px; overflow-wrap: normal !important; border: 0px none; margin-left: 13px; margin-right: -1px; margin-top: 118px; margin-bottom: -1px; padding: 0px">
+				<label id="jetpack-subscribe-label" class="screen-reader-text" for="subscribe-field-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; clip: rect(1px, 1px, 1px, 1px); clip-path: inset(50%); height: 42px; overflow: hidden; position: absolute !important; width: 283px; overflow-wrap: normal !important; border: 0px none; margin-left: 9px; margin-right: -1px; margin-top: -9px; margin-bottom: -1px; padding: 0px">
 				Email Address</label><input type="email" name="email" required="required" value id="subscribe-field-blog_subscription-2" placeholder="Email Address" style="list-style-type: none; outline: none; box-sizing: border-box; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 13px; line-height: 23px; font-family: inherit; overflow: visible; color: rgb(44, 47, 52); border-radius: 2px; transition: 'background 0.3s ease 0s', 'border 0.3s ease 0s'; max-width: 100%; appearance: none; width: 290.672px; border: 0.1) solid rgba(0; margin: 0px; padding: 5px; background-color: transparent">
 				<button type="submit" class="wp-block-button__link" name="jetpack_subscriptions_widget" style="list-style-type: none; outline: none; box-sizing: border-box; font-style: inherit; font-variant: inherit; font-weight: normal; font-stretch: inherit; font-size: 13px; line-height: 21px; font-family: inherit; overflow: visible; text-transform: none; cursor: pointer; appearance: none; color: rgb(255, 255, 255); border-radius: 2px; box-shadow: none; display: inline-block; text-align: center; text-decoration: none; overflow-wrap: break-word; width: auto; position: relative; vertical-align: middle; transition: all 0.3s ease 0s; border: medium none; margin: 0px; padding-left: 15px; padding-right: 15px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
 				Subscribe</button></p>
 			</form>
 			<div class="clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; border: 0px none; margin: 0px; padding: 0px">
 &nbsp;</div>
-			<p>&nbsp;</div>
-		<p>&nbsp;</td>
+			</td>
+	</tr>
+	<tr>
+		<td colspan="5" height="502">
+		
+		&nbsp;</td>
 	</tr>
 </table>
 
