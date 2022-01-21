@@ -6,10 +6,9 @@ heading: Prevention Is Better Than Cure
 subheading: Your Guide To Health And Longevity With Dr.Pragendra Raj Bajracharya
 mainpitch:
   title: How Can You Hack Your Biology?
-  description: >-
+  description: |-
     Understanding polarity of nature is a ART.
-
-    Once you know how to dance between polarities. CONGRAGULATION you have hacked your BIOLOGY!!
+    Similar increases, Opposite decreases
 intro:
   blurbs: []
   heading: What Ayurveda Offers
