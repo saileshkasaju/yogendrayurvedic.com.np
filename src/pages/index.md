@@ -361,14 +361,6 @@ main:
 <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<!--\[if !mso]>
-<style>
-v\:*         { behavior: url(#default#VML) }
-o\:*         { behavior: url(#default#VML) }
-.shape       { behavior: url(#default#VML) }
-</style>
-<!\[endif]-->
-<link rel="File-List" href="new_page_1_files/filelist.xml">
 <script language="JavaScript">
 <!--
 function FP_swapImg() {//v1.0
@@ -393,10 +385,6 @@ function FP_getObjectByID(id,o) {//v1.0
 }
 // -->
 </script>
-
-<!--\[if gte mso 9]>
-<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><!\[endif]-->
 
 </head>
 
@@ -449,52 +437,14 @@ function FP_getObjectByID(id,o) {//v1.0
 		Terms &amp; Policies</a></td>
 	</tr>
 	<tr>
-		<td width="45%" colspan="5"><!--\[if gte vml 1]><v:shapetype id="_x0000_t136"
- coordsize="21600,21600" o:spt="136" adj="10800" path="m@7,l@8,m@5,21600l@6,21600e">
- <v:formulas>
-  <v:f eqn="sum #0 0 10800"/>
-  <v:f eqn="prod #0 2 1"/>
-  <v:f eqn="sum 21600 0 @1"/>
-  <v:f eqn="sum 0 0 @2"/>
-  <v:f eqn="sum 21600 0 @3"/>
-  <v:f eqn="if @0 @3 0"/>
-  <v:f eqn="if @0 21600 @1"/>
-  <v:f eqn="if @0 0 @2"/>
-  <v:f eqn="if @0 @4 21600"/>
-  <v:f eqn="mid @5 @6"/>
-  <v:f eqn="mid @8 @5"/>
-  <v:f eqn="mid @7 @8"/>
-  <v:f eqn="mid @6 @7"/>
-  <v:f eqn="sum @6 0 @5"/>
- </v:formulas>
- <v:path textpathok="t" o:connecttype="custom" o:connectlocs="@9,0;@10,10800;@11,21600;@12,10800"
-  o:connectangles="270,180,90,0"/>
- <v:textpath on="t" fitshape="t"/>
- <v:handles>
-  <v:h position="#0,bottomRight" xrange="6629,14971"/>
- </v:handles>
- <o:lock v:ext="edit" text="t" shapetype="t"/>
-</v:shapetype><v:shape id="_x0000_s1027" type="#_x0000_t136" style='width:413.25pt;
- height:41.25pt' fillcolor="#063" strokecolor="green">
- <v:fill src="" o:title="Paper bag" type="tile"/>
- <v:shadow on="t" type="perspective" color="#c7dfd3" opacity="52429f" origin="-.5,-.5"
-  offset="-26pt,-36pt" matrix="1.25,,,1.25"/>
- <v:textpath style='font-family:"Times New Roman";v-text-kern:t' trim="t"
-  fitpath="t" string="YOGENDRA AYURVEDA"/>
-</v:shape><!\[endif]--><!\[if !vml]><img border=0 width=690 height=104
-src="new_page_1142_files/image001.gif" alt="YOGENDRA AYURVEDA" v:shapes="_x0000_s1027"><!\[endif]></td>
-		<td width="53%" colspan="9">&nbsp;<div style="position: absolute; width: 100px; height: 46px; z-index: 3; left: 94px; top: 25px" id="layer3">
-<!--\[if gte vml 1]><v:shape
- id="_x0000_s1026" type="#_x0000_t136" alt="Live Healthy, Happy &amp; Long life"
- style='position:relative;left:71.25pt;top:19.5pt;width:248.25pt;height:25.5pt;
- z-index:1' fillcolor="red" strokecolor="#fc0" strokeweight="1.5pt">
- <v:shadow on="t" color="#900"/>
- <v:textpath style='font-family:"Impact";font-size:20pt;v-text-kern:t' trim="t"
-  fitpath="t" string="Live Healthy, Happy &amp; Long life"/>
-</v:shape><!\[endif]--><!\[if !vml]><span style='mso-ignore:vglayout;position:
-absolute;z-index:1;left:94px;top:25px;width:336px;height:40px'><img width=336
-height=40 src="new_page_1142_files/image002.gif"
-alt="Live Healthy, Happy &amp; Long life" v:shapes="_x0000_s1026"></span><!\[endif]></div>
+		<td width="45%" colspan="5">
+		<font size="7" color="#FFFFFF" face="Adobe Gothic Std B">
+		<span style="background-color: #008700">&nbsp;YOGENDRA</span><span style="background-color: #008700"> 
+		AYURVEDA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></td>
+		<td width="53%" colspan="9">
+		<font size="5" color="#FFFFFF" face="Brush Script MT">
+		<span style="background-color: #FF0000">Live Healthy, Happy &amp; Long life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></font>
 		</td>
 	</tr>
 	<tr>
