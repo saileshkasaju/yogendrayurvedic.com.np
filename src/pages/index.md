@@ -388,7 +388,7 @@ function FP_getObjectByID(id,o) {//v1.0
 
 </head>
 
-<body onload="FP_preloadImgs(/*url*/'file:///C:/Users/User/Documents/buttonD.jpg', /*url*/'file:///C:/Users/User/Documents/buttonE.jpg', /*url*/'file:///C:/Users/User/Documents/button10.jpg', /*url*/'file:///C:/Users/User/Documents/button11.jpg', /*url*/'file:///C:/Users/User/Documents/button13.jpg', /*url*/'file:///C:/Users/User/Documents/button14.jpg', /*url*/'file:///C:/Users/User/Documents/button22.jpg', /*url*/'file:///C:/Users/User/Documents/button23.jpg', /*url*/'file:///C:/Users/User/Documents/button25.jpg', /*url*/'file:///C:/Users/User/Documents/button26.jpg', /*url*/'file:///C:/Users/User/Documents/button28.jpg', /*url*/'file:///C:/Users/User/Documents/button29.jpg', /*url*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button41.jpg', /*url*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button42.jpg')">
+<body onload="FP_preloadImgs(/*url*/'file:///C:/Users/User/Documents/button28.jpg', /*url*/'file:///C:/Users/User/Documents/button29.jpg')">
 
 <table border="0" width="100%">
 	<tr>
@@ -432,37 +432,84 @@ function FP_getObjectByID(id,o) {//v1.0
 			Disclaimer</a></li>
 		</ul>
 		</td>
-		<td width="11%">
+		<td width="12%">
 		<a style="list-style-type: none; outline: none 0px; box-sizing: border-box; color: rgb(0, 135, 0); text-decoration: none; transition: all 0.15s ease 0s; display: block; background-color: transparent">
 		Terms &amp; Policies</a></td>
 	</tr>
 	<tr>
-		<td width="45%" colspan="5">
-		<font size="7" color="#FFFFFF" face="Adobe Gothic Std B">
-		<span style="background-color: #008700">&nbsp;YOGENDRA</span><span style="background-color: #008700"> 
-		AYURVEDA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></td>
-		<td width="53%" colspan="9">
-		<font size="5" color="#FFFFFF" face="Brush Script MT">
-		<span style="background-color: #FF0000">Live Healthy, Happy &amp; Long life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</span></font>
-		</td>
+		<td width="45%" colspan="5"><span style="background-color: #008700">
+		<font size="7" color="#FFFFFF" face="Adobe Gothic Std B">&nbsp;</font><font color="#FFFFFF" face="Adobe Gothic Std B" size="6">YOGENDRA 
+		AYURVEDA&nbsp;&nbsp;&nbsp; </font>
+		<font size="7" color="#FFFFFF" face="Adobe Gothic Std B">&nbsp;&nbsp;&nbsp;
+		</font></span></td>
+		<td width="53%" colspan="9" rowspan="2">&nbsp;</td>
 	</tr>
 	<tr>
-		<td width="9%">
-		<img border="0" id="img11" src="file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button40.jpg" height="33" width="100" alt="Home" onmouseover="FP_swapImg(1,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button41.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button40.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button42.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img11',/\*url\*/'file:///C:/Users/User/AppData/Local/Microsoft/Windows/INetCache/FrontPageTempDir/button41.jpg')" fp-style="fp-btn: Glass Tab 2" fp-title="Home"></td>
-		<td width="12%">
-		<img border="0" id="img5" src="file:///C:/Users/User/Documents/buttonC.jpg" height="33" width="100" alt="food &amp; nutrition" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="food &amp; nutrition" onmouseover="FP_swapImg(1,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonD.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonC.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonE.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img5',/\*url\*/'file:///C:/Users/User/Documents/buttonD.jpg')"></td>
-		<td width="13%" colspan="2">
-		<img border="0" id="img6" src="file:///C:/Users/User/Documents/buttonF.jpg" height="33" width="100" alt="Healing guides" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="Healing guides" onmouseover="FP_swapImg(1,0,/\*id\*/'img6',/\*url\*/'file:///C:/Users/User/Documents/button10.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img6',/\*url\*/'file:///C:/Users/User/Documents/buttonF.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img6',/\*url\*/'file:///C:/Users/User/Documents/button11.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img6',/\*url\*/'file:///C:/Users/User/Documents/button10.jpg')"></td>
-		<td width="8%">
-		<img border="0" id="img7" src="file:///C:/Users/User/Documents/button12.jpg" height="33" width="100" alt="Ayurveda" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="Ayurveda" onmouseover="FP_swapImg(1,0,/\*id\*/'img7',/\*url\*/'file:///C:/Users/User/Documents/button13.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img7',/\*url\*/'file:///C:/Users/User/Documents/button12.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img7',/\*url\*/'file:///C:/Users/User/Documents/button14.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img7',/\*url\*/'file:///C:/Users/User/Documents/button13.jpg')"></td>
-		<td width="17%" colspan="2">
-		<img border="0" id="img8" src="file:///C:/Users/User/Documents/button21.jpg" height="33" width="100" alt="Plants and herbs" onmouseover="FP_swapImg(1,0,/\*id\*/'img8',/\*url\*/'file:///C:/Users/User/Documents/button22.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img8',/\*url\*/'file:///C:/Users/User/Documents/button21.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img8',/\*url\*/'file:///C:/Users/User/Documents/button23.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img8',/\*url\*/'file:///C:/Users/User/Documents/button22.jpg')" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="Plants and herbs"></td>
-		<td width="13%" colspan="3">
-		<img border="0" id="img9" src="file:///C:/Users/User/Documents/button24.jpg" height="33" width="100" alt="More" onmouseover="FP_swapImg(1,0,/\*id\*/'img9',/\*url\*/'file:///C:/Users/User/Documents/button25.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img9',/\*url\*/'file:///C:/Users/User/Documents/button24.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img9',/\*url\*/'file:///C:/Users/User/Documents/button26.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img9',/\*url\*/'file:///C:/Users/User/Documents/button25.jpg')" fp-style="fp-btn: Glass Tab 2; fp-orig: 0" fp-title="More"></td>
-		<td width="10%" colspan="2">
-		<img border="0" id="img10" src="file:///C:/Users/User/Documents/button27.jpg" height="20" width="100" alt="Follow" onmouseover="FP_swapImg(1,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button28.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button27.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button29.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button28.jpg')" fp-style="fp-btn: Simple Block 2; fp-orig: 0" fp-title="Follow"></td>
-		<td width="9%" colspan="2"><input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
+		<td width="45%" colspan="5">
+		<font size="5" color="#FFFFFF" face="Brush Script MT">
+		<span style="background-color: #FF0000">Live Healthy, Happy &amp; Long life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></font></td>
+	</tr>
+	<tr>
+		<td width="9%" bgcolor="#008700">
+		&nbsp;<div class="main-menu main-menu-wrap tie-alignleft" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; float: left; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 135, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+			<div id="main-nav-menu" class="main-menu header-menu" style="list-style-type: none; outline: none; box-sizing: border-box; float: left; width: 39px; height: 34px; border: 0.07) none rgba(255; margin: 0px; padding: 0px">
+				<ul id="menu-main-menu" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
+					<li id="menu-item-35957" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-35957 tie-current-menu" style="padding: 0px; margin: 0px 0px -5px; list-style: none; border-width: 0px 0px 5px; border-top-style: initial; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-color: rgb(255, 87, 87); border-image: initial; outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+					<p style="text-align: center">
+					<a style="list-style-type: none; outline: none; box-sizing: border-box; color: rgb(255, 255, 255); text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600; border: 0.07) none rgba(255; margin: 0px; padding-left: 14px; padding-right: 14px; padding-top: 0px; padding-bottom: 0px; background-color: #008700 !important" href="https://www.ayurtimes.com/">
+					Home</a></li>
+					<li id="menu-item-38439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-38439" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+					</li>
+					<li id="menu-item-34072" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34072" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+					</li>
+					<li id="menu-item-38462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38462" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+					</li>
+				</ul>
+			</div>
+		</div>
+		<ul class="components" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; float: right; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 135, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+			<li class="search-compact-icon menu-item custom-menu-link" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; position: relative; float: right;">
+			<a class="tie-search-trigger" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; width: 30px; text-align: center; line-height: inherit; font-size: 16px;" href="https://www.ayurtimes.com/#">
+			<span class="tie-icon-search tie-search-icon" aria-hidden="true" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; display: inline-block; font-family: tiefonticon !important;">
+			</span></a></li>
+		</ul>
+		<br class="Apple-interchange-newline">
+&nbsp;</td>
+		<td width="10%" bgcolor="#008700">
+		<ul id="menu-main-menu0" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
+			<li id="menu-item-38674" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-35957 tie-current-menu" style="padding: 0px; margin: 0px 0px -5px; list-style: none; border-width: 0px 0px 5px; border-top-style: initial; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-color: rgb(255, 87, 87); border-image: initial; outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+			</li>
+			<li id="menu-item-38447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-38447 mega-menu mega-links mega-links-3col " style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+			<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/food-nutrition/">
+			Food &amp; Nutrition</a></li>
+		</ul>
+		</td>
+		<td width="186" colspan="2" bgcolor="#008700">
+		<p align="center">
+		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/healing/">
+		Healing Guides</a></td>
+		<td width="8%" bgcolor="#008700">
+		<ul id="menu-main-menu1" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
+			<li id="menu-item-38675" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34072" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+			</li>
+			<li id="menu-item-34079" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34079" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; text-align: justify; display: block; float: left;">
+			<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/plants-herbs/">
+			Plants &amp; Herbs</a></li>
+		</ul>
+&nbsp;</td>
+		<td width="17%" colspan="2" bgcolor="#008700">
+		<p align="center">
+		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/ayurveda/">
+		Ayurveda</a></td>
+		<td width="13%" colspan="3" bgcolor="#008700">
+		<p align="center">
+		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;">
+		More</a></td>
+		<td width="10%" colspan="2" bgcolor="#008700">
+		<span style="background-color: #008700">
+		<img border="0" id="img10" src="file:///C:/Users/User/Documents/button27.jpg" height="20" width="100" alt="Follow" onmouseover="FP_swapImg(1,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button28.jpg')" onmouseout="FP_swapImg(0,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button27.jpg')" onmousedown="FP_swapImg(1,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button29.jpg')" onmouseup="FP_swapImg(0,0,/\*id\*/'img10',/\*url\*/'file:///C:/Users/User/Documents/button28.jpg')" fp-style="fp-btn: Simple Block 2; fp-orig: 0" fp-title="Follow"></span></td>
+		<td width="9%" colspan="2" bgcolor="#008700"><input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
 	</tr>
 	<tr>
 		<td colspan="9" rowspan="2">&nbsp;<p>&nbsp;</p>
