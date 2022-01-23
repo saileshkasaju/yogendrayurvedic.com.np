@@ -26,7 +26,16 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-<!--\\\\\\\[if gte mso 9]><xml>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<!--\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -68,9 +77,9 @@ main:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\[endif]-->
+</xml><!\\\\\\\\\[endif]-->
 
-<!--\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -326,9 +335,9 @@ main:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\\\[endif]-->
+</xml><!\\\\\\\\\[endif]-->
 
-<!--\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -355,14 +364,7 @@ main:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\\\\\[endif]-->
-
-<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-</head>
-
-<body>
+<!\\\\\\\\\[endif]-->
 
 <table border="0" width="100%">
 	<tr>
@@ -390,7 +392,8 @@ main:
 		<td width="10%" colspan="3" bgcolor="#00CC00">
 		<ul id="menu-top-menu1" class="menu" style="list-style-type: none; outline: none; box-sizing: border-box; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0.08) none rgba(0; margin: 0px; padding: 0px; background-color: rgb(239, 240, 241)">
 			<li id="menu-item-38672" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-38490" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; position: relative; display: block; float: left; border: 0.08) none rgba(0; margin: 0px; padding: 0px">
-			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; background-color: transparent" href="https://www.ayurtimes.com/ayur-times-app/">&nbsp;App</a></li>
+			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; background-color: transparent" href="https://www.ayurtimes.com/ayur-times-app/">
+			&nbsp;App</a></li>
 			<li id="menu-item-38564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38564" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; position: relative; display: block; float: left; border: 0.08) none rgba(0; margin: 0px; padding: 0px">
 			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; border: 0.08) none rgba(0; margin: 0px; padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px; background-color: transparent" href="https://www.ayurtimes.com/contact/">
 			Contact Us</a></li>
@@ -399,8 +402,8 @@ main:
 		<td width="9%" colspan="2" bgcolor="#00CC00">
 		<ul id="menu-top-menu2" class="menu" style="list-style-type: none; outline: none; box-sizing: border-box; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0.08) none rgba(0; margin: 0px; padding: 0px; background-color: rgb(239, 240, 241)">
 			<li id="menu-item-38673" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-38490" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; position: relative; display: block; float: left; border: 0.08) none rgba(0; margin: 0px; padding: 0px">
-			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; background-color: transparent" href="https://www.ayurtimes.com/ayur-times-app/">&nbsp;&nbsp;
-			</a></li>
+			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; background-color: transparent" href="https://www.ayurtimes.com/ayur-times-app/">
+			&nbsp;&nbsp; </a></li>
 			<li id="menu-item-37005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37005" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; position: relative; display: block; float: left; border: 0.08) none rgba(0; margin: 0px; padding: 0px">
 			<a style="list-style-type: none; outline: none 0px; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; z-index: 2; border: 0.08) none rgba(0; margin: 0px; padding-left: 10px; padding-right: 25px; padding-top: 0px; padding-bottom: 0px; background-color: transparent">
 			Disclaimer</a></li>
@@ -411,8 +414,7 @@ main:
 		Terms &amp; Policies</a></td>
 	</tr>
 	<tr>
-		<td width="5%" bgcolor="#008700">
-		&nbsp;<div class="main-menu main-menu-wrap tie-alignleft" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; float: left; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 135, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+		<td width="5%" bgcolor="#008700">&nbsp;<div class="main-menu main-menu-wrap tie-alignleft" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; float: left; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 135, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
 			<div id="main-nav-menu" class="main-menu header-menu" style="list-style-type: none; outline: none; box-sizing: border-box; float: left; width: 124px; height: 33px; border: 0.07) none rgba(255; margin: 0px; padding: 0px">
 				<ul id="menu-main-menu" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
 					<li id="menu-item-35957" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-35957 tie-current-menu" style="border-left:0px initial rgb(255, 87, 87); border-right:0px initial rgb(255, 87, 87); border-top:0px initial rgb(255, 87, 87); border-bottom:5px solid rgb(255, 87, 87); padding:0px; border-image: initial; outline: none; box-sizing: border-box; text-align: justify; display: block; float: left; list-style-type:none; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:-5px">
@@ -435,7 +437,7 @@ main:
 			</span></a></li>
 		</ul>
 		<br class="Apple-interchange-newline">
-&nbsp;</td>
+		&nbsp;</td>
 		<td width="8%" bgcolor="#008700">
 		<ul id="menu-main-menu0" class="menu" role="menubar" style="padding: 0px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box;">
 			<li id="menu-item-38674" class="menu-have-icon menu-icon-type-fontawesome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-35957 tie-current-menu" style="border-left:0px initial rgb(255, 87, 87); border-right:0px initial rgb(255, 87, 87); border-top:0px initial rgb(255, 87, 87); border-bottom:5px solid rgb(255, 87, 87); padding:0px; border-image: initial; outline: none; box-sizing: border-box; text-align: justify; display: block; float: left; list-style-type:none; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:-5px">
@@ -459,7 +461,7 @@ main:
 			<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/plants-herbs/">
 			Plants &amp; Herbs</a></li>
 		</ul>
-&nbsp;</td>
+		&nbsp;</td>
 		<td width="366" colspan="2" bgcolor="#008700">
 		<p align="center">
 		<a style="padding: 0px 25px 0px 14px; margin: 0px; list-style: none; border: 0px rgba(255, 255, 255, 0.07); outline: none; box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255) !important; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; font-size: 13px; font-weight: 600;" href="https://www.ayurtimes.com/category/ayurveda/">
@@ -470,55 +472,56 @@ main:
 		More</a></td>
 		<td width="10%" colspan="2" bgcolor="#008700">
 		<form method="POST" action="--WEBBOT-SELF--">
-			<!--webbot bot="SaveResults" U-File="C:\Users\User\Documents\My Web Sites\mysite\_private\form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" -->
+			<!--webbot bot="SaveResults" u-file="C:\Users\User\Documents\My Web Sites\mysite\_private\form_results.csv" s-format="TEXT/CSV" s-label-fields="TRUE" -->
 			<p align="center"><select size="1" name="D1">
 			<option>Facebook</option>
 			<option>Youtube</option>
 			<option>Instagram</option>
 			</select><input type="submit" value="Follow" name="B2"></p>
 		</form>
-&nbsp;</td>
-		<td width="271" colspan="2" bgcolor="#008700"><input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
+		&nbsp;</td>
+		<td width="271" colspan="2" bgcolor="#008700">
+		<input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1"></td>
 	</tr>
 	<tr>
-		<td colspan="8" rowspan="2">&nbsp;<iframe width="913" height="377" src="ayurvedic_principles.htm"></iframe><div class="mag-box-container clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)">
+		<td colspan="8" rowspan="2">&nbsp;<!--StartFragment--><iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/q3-suV3JliE" name="I1"></iframe>
+		<div class="mag-box-container clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)">
 			<ul class="posts-items posts-list-container" style="list-style-type: none; outline: none; box-sizing: border-box; clear: both; font-size: 0px; border: 0px none; margin: 0px -15.625px; padding: 0px">
-				<li class="post-item  tie-standard" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; float: none; width: 406.625px; vertical-align: top; display: inline-block !important; border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 24px; margin-bottom: 0px; padding-left: 16.25px; padding-right: 16.25px; padding-top: 0px; padding-bottom: 0px">			
-					<h2 class="post-title" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 14px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
-					&nbsp;</h2>
-				</div>
-				&nbsp;</li>
 				<li class="post-item  tie-standard" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; float: none; width: 406.625px; vertical-align: top; display: inline-block !important; border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 24px; margin-bottom: 0px; padding-left: 16.25px; padding-right: 16.25px; padding-top: 0px; padding-bottom: 0px">
+				<h2 class="post-title" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 14px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
+				&nbsp;</h2>
 				</li>
 			</ul>
 		</div>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</td>
+		&nbsp;
+				<li class="post-item  tie-standard" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; float: none; width: 406.625px; vertical-align: top; display: inline-block !important; border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 24px; margin-bottom: 0px; padding-left: 16.25px; padding-right: 16.25px; padding-top: 0px; padding-bottom: 0px">
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</li>
+		</td>
 		<td colspan="5" height="174">
-		
-			<div class="widget-title the-global-title" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; opacity: 0.99; font-size: 15px; line-height: 1.3; font-weight: 500; color: rgb(255, 255, 255); border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 20px; padding-left: 10px; padding-right: 10px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
-				<div class="the-subtitle" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 15px; min-height: 15px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
-					Subscribe to Yogendra Ayurveda</div>
-			</div>
-			<form method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; border: 0px none; margin: 0px; padding: 0px" action="https://www.ayurtimes.com/#">
-				<p id="subscribe-email" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 21px; border: 0px none; margin: 0px; padding: 0px">
-				<label id="jetpack-subscribe-label" class="screen-reader-text" for="subscribe-field-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; clip: rect(1px, 1px, 1px, 1px); clip-path: inset(50%); height: 42px; overflow: hidden; position: absolute !important; width: 283px; overflow-wrap: normal !important; border: 0px none; margin-left: 10px; margin-right: -1px; margin-top: 63px; margin-bottom: -1px; padding: 0px">
-				Email Address</label><input type="email" name="email" required="required" value id="subscribe-field-blog_subscription-2" placeholder="Email Address" style="list-style-type: none; outline: none; box-sizing: border-box; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 13px; line-height: 23px; font-family: inherit; overflow: visible; color: rgb(44, 47, 52); border-radius: 2px; transition: 'background 0.3s ease 0s', 'border 0.3s ease 0s'; max-width: 100%; appearance: none; width: 290.672px; border: 0.1) solid rgba(0; margin: 0px; padding: 5px; background-color: transparent">
-				<button type="submit" class="wp-block-button__link" name="jetpack_subscriptions_widget" style="list-style-type: none; outline: none; box-sizing: border-box; font-style: inherit; font-variant: inherit; font-weight: normal; font-stretch: inherit; font-size: 13px; line-height: 21px; font-family: inherit; overflow: visible; text-transform: none; cursor: pointer; appearance: none; color: rgb(255, 255, 255); border-radius: 2px; box-shadow: none; display: inline-block; text-align: center; text-decoration: none; overflow-wrap: break-word; width: auto; position: relative; vertical-align: middle; transition: all 0.3s ease 0s; border: medium none; margin: 0px; padding-left: 15px; padding-right: 15px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
-				Subscribe</button></p>
-			</form>
-			<div class="clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; border: 0px none; margin: 0px; padding: 0px">
-&nbsp;</div>
-			</td>
+		<div class="widget-title the-global-title" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; opacity: 0.99; font-size: 15px; line-height: 1.3; font-weight: 500; color: rgb(255, 255, 255); border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 20px; padding-left: 10px; padding-right: 10px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
+			<div class="the-subtitle" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 15px; min-height: 15px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
+				Subscribe to Yogendra Ayurveda</div>
+		</div>
+		<form method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; border: 0px none; margin: 0px; padding: 0px" action="https://www.ayurtimes.com/#">
+			<p id="subscribe-email" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 21px; border: 0px none; margin: 0px; padding: 0px">
+			<label id="jetpack-subscribe-label" class="screen-reader-text" for="subscribe-field-blog_subscription-2" style="list-style-type: none; outline: none; box-sizing: border-box; clip: rect(1px, 1px, 1px, 1px); clip-path: inset(50%); height: 42px; overflow: hidden; position: absolute !important; width: 283px; overflow-wrap: normal !important; border: 0px none; margin-left: 10px; margin-right: -1px; margin-top: 63px; margin-bottom: -1px; padding: 0px">
+			Email Address</label><input type="email" name="email" required="required" value id="subscribe-field-blog_subscription-2" placeholder="Email Address" style="list-style-type: none; outline: none; box-sizing: border-box; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 13px; line-height: 23px; font-family: inherit; overflow: visible; color: rgb(44, 47, 52); border-radius: 2px; transition: 'background 0.3s ease 0s', 'border 0.3s ease 0s'; max-width: 100%; appearance: none; width: 290.672px; border: 0.1) solid rgba(0; margin: 0px; padding: 5px; background-color: transparent">
+			<button type="submit" class="wp-block-button__link" name="jetpack_subscriptions_widget" style="list-style-type: none; outline: none; box-sizing: border-box; font-style: inherit; font-variant: inherit; font-weight: normal; font-stretch: inherit; font-size: 13px; line-height: 21px; font-family: inherit; overflow: visible; text-transform: none; cursor: pointer; appearance: none; color: rgb(255, 255, 255); border-radius: 2px; box-shadow: none; display: inline-block; text-align: center; text-decoration: none; overflow-wrap: break-word; width: auto; position: relative; vertical-align: middle; transition: all 0.3s ease 0s; border: medium none; margin: 0px; padding-left: 15px; padding-right: 15px; padding-top: 7px; padding-bottom: 7px; background-color: rgb(0, 135, 0)">
+			Subscribe</button></p>
+		</form>
+		<div class="clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; border: 0px none; margin: 0px; padding: 0px">
+			&nbsp;</div>
+		</td>
 	</tr>
 	<tr>
-		<td colspan="5" height="502">
-		
-		&nbsp;</td>
+		<td colspan="5" height="502">&nbsp;</td>
 	</tr>
 </table>
 
 </body>
+
+</html>
