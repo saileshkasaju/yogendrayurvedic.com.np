@@ -15,11 +15,43 @@ tags:
 ---
 <!--StartFragment-->
 
+<style>
 
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+</style>
+
+<!--EndFragment-->
+
+<!--StartFragment-->
 
 [![](https://1.bp.blogspot.com/-H9B3cbTNr7g/YLh-sWchuiI/AAAAAAAAAeQ/BypLjZdZAwkK6EbsMSmZKpNuOQW260NuwCNcBGAsYHQ/s320/1.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
-
-
 
 ## How can you stay healthy in summer season?
 
@@ -31,8 +63,6 @@ tags:
 
 [![](https://1.bp.blogspot.com/-dgWHudX2uSE/YLh-2N6RnII/AAAAAAAAAeY/hzBgxmALU7kU06kTAQQubXM6MTqebthqQCNcBGAsYHQ/s320/2.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
 
-
-
 * The best colour to wear in hot weather are white, grey, blue, purple and green. Avoid red, orange, dark yellow and black which absorbs and retain heat and will aggravate pitta.
 
 - - -
@@ -43,34 +73,24 @@ tags:
 
 [![](https://1.bp.blogspot.com/-kjYettCOwAw/YLh_BiqzfUI/AAAAAAAAAeg/u9EckBFpfGMiKg_DAW_UqKbjQB6lc-BjgCNcBGAsYHQ/s320/3.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
 
-
-
 * Good fruits for summer include Apple, pear, melon, plums and prunes.
 * Watermelon and lime juice are also good in summer.
 
 [![](https://1.bp.blogspot.com/-QLt_-mnLUvc/YLh_ObzGz_I/AAAAAAAAAeo/i04WdCN8644QC-UXVgb_H4p2XosSRyVwwCNcBGAsYHQ/s320/4.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
-
-
 
 * Try steamed asparagus, broccoli, brussels sprouts, cucumber raita and basmati rice.
 * Khichdi made from basmati rice and moong dal, with little ghee and grated coconut.
 
 [![](https://1.bp.blogspot.com/-TIWPZoBSbEc/YLh_dOslrmI/AAAAAAAAAew/_XBPcfHD4poSJ-GO19aA6V1MtSNTo13HwCNcBGAsYHQ/s320/5.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
 
-
-
 * Avoid sour fruits, citrus fruit and even beets and carrots which are all heating.
 
 [![](https://1.bp.blogspot.com/-lsKdlG2Rh9I/YLh_mJMQKzI/AAAAAAAAAe4/FIEzHHORZK8tgEdMKqxF-36Q9ywhdli6QCNcBGAsYHQ/s320/6.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
-
-
 
 * Garlic onion, chilly, tomato, sour cream and salted cheese are also not recommended.
 * You can eat more salads in summer than at any other time as they are cooling, but they are best eaten for lunch.
 
 [![](https://1.bp.blogspot.com/-fQIXHRfTrdw/YLh_yI_M9oI/AAAAAAAAAfA/y2yKev_A9QYMF4YatkM3j5flTjWpfD6-QCNcBGAsYHQ/s320/7.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
-
-
 
 * If you eat meat you can have some light meat chicken Turkey or shrimp once a week. Avoid dark meats which are heating.
 * Don't drink hot water or hot drinks in the summer.
@@ -79,17 +99,10 @@ tags:
 
 [![](https://1.bp.blogspot.com/-5zjVTajBbhg/YLh_6D6Ee-I/AAAAAAAAAfI/pt501q46yN4DiafDfWC0-RQv5C_nUPDlACNcBGAsYHQ/s320/8.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
 
-
-
 * Refreshing drink is lassi.
 * Mix 1 part yogurt with 4 part water and blend 2 or 3 minutes until creamy.
 * * You can add one fourth teaspoon roasted cumin seed before blending or for a sweet flavored drink add 2 tbsp sugar or other sweetener and one drop of rose water. The juice of 1/4 lime in a cup of cool water with a pinch of cumin powder is also refreshing.
-
-
-
 * If you drink alcohol beverage avoid whisky brandy rum and red wine which are heating. Some cool beer during hot days will be alright.
-
-
 
 ## Does outside heat effect you during summer?
 
@@ -99,16 +112,12 @@ tags:
 
 [![](https://1.bp.blogspot.com/-iNflRKiW-N8/YLiAE20jEvI/AAAAAAAAAfQ/XjV2jEFHa9ElIsHLv7rnevZsHcdD-xCRQCNcBGAsYHQ/s320/9.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
 
-
-
 * Never lie in the sun in the summer if the weather is very hot.
 * * Don't wear shorts or short sleeve but wear loose fitting clothes to protect your skin. Person having multiple moles should not lie in the sun.
 
 ## Is exercise good during summer?
 
 [![](https://1.bp.blogspot.com/-QafVGMwpV28/YLiAJnhkI2I/AAAAAAAAAfY/gQvAAl500IMbesTuUnynatvvK56jvJ91ACNcBGAsYHQ/s320/10.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
-
-
 
 * Avoid strenuous exercise.
 * * If you are accustomed to running or other vigorous aerobic exercise do it early in the morning at the coolest part of the day.
@@ -118,8 +127,6 @@ tags:
 ## Which pranayama is good during summer?
 
 [![](https://1.bp.blogspot.com/-9UNmPyuMfjk/YLiAQAF78JI/AAAAAAAAAfc/FcKyA_O6cZIO-Lg9EV3_TU9JWF7_ERqCwCNcBGAsYHQ/s320/11.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/660222429431923536#)
-
-
 
 * Perform sheetali pranayama cooling breathing exercise
 
@@ -137,9 +144,5 @@ tags:
 ## What kind food are beneficial during summer?
 
 * During the summer sun evaporates the most of the earth and therefore induce hot dry and sharp qualities in the atmosphere resulting in pitta aggravation. In summer sweet cold liquid and fatty food and drinks are beneficial.
-
-
-
-
 
 <!--EndFragment-->
