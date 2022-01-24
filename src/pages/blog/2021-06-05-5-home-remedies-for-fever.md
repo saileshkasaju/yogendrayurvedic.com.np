@@ -8,6 +8,42 @@ featuredimage: /img/80480272.jpg
 tags:
   - "#fever"
 ---
+<!--StartFragment-->
+
+<style>
+
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+</style>
+
+<!--EndFragment-->
+
 <h1 class="title is-size-2 has-text-weight-bold is-bold-light" style="box-sizing: inherit; font-size: 2em; font-weight: 600; word-break: break-word; color: #FFFFFF; line-height: 1.125; font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 1.5rem; padding: 0px; background-color: #FF0000">
 5 Home remedies for fever</h1>
 <p style="box-sizing: inherit; margin: 0px 0px 1em; padding: 0px; color: rgb(51, 51, 51); font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
