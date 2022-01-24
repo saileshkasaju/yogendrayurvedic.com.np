@@ -9,6 +9,42 @@ featuredimage: /img/10091394.jpg
 tags:
   - "#overeating"
 ---
+<!--StartFragment-->
+
+<style>
+
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+</style>
+
+<!--EndFragment-->
+
 <!--StartFragment--><iframe width="560" height="315" src="https://www.youtube.com/embed/<iframe width="560" height="315" src="https://www.youtube.com/embed/y3kafdKsOc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![](https://1.bp.blogspot.com/-GdX0dcuOqX0/YLXjDjN17dI/AAAAAAAAAcc/_mGb_sUzQl8Osn2uI9xadlJRo-3xo-UiACNcBGAsYHQ/s320/111.png)](https://www.blogger.com/u/1/blog/post/edit/7168298537165131910/1068679214828199727#)
