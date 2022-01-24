@@ -81,13 +81,129 @@ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf
 
 <!--EndFragment-->
 
-</style>
+<!--StartFragment-->
+
+body,html{
+
+height: 100%;
+
+margin: 0px;
+
+padding: 0px;
+
+background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+
+}
+
+.container{
+
+width: 100%;
+
+height: 100%;
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: center;
+
+align-items: center;
+
+}
+
+.avatar{
+
+width: 200px;
+
+height: 200px;
+
+background-color: red;
+
+box-sizing: border-box;
+
+border-radius: 50%;
+
+border: 5px solid white;
+
+overflow: hidden;
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+animation: float 6s ease-in-out infinite;
+
+}
+
+img{
+
+width: 100%;
+
+height: auto;
+
+}
+
+@keyframes float{
+
+0%{
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+}
+
+50%{
+
+box-shadow: 0px 25px 15px 0px rgba(0, 0, 0, 0.2);
+
+transform: translateY(-20px);
+
+}
+
+100%{
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+}
+
+}
+
+.content{
+
+width: 100%;
+
+max-width: 600px;
+
+padding: 20px 40px;
+
+text-align: center;
+
+box-sizing: border-box;
+
+}
+
+h1{
+
+font-size: 24px;
+
+color: #eeeeee;
+
+margin: 10px 0 0 0;
+
+text-transform: uppercase;
+
+}
+
+<!--EndFragment--></style>
 
 <!--EndFragment-->
 
 <body>
 
-<!--\\\\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -129,9 +245,9 @@ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -387,9 +503,9 @@ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -416,7 +532,7 @@ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\\\\\\\\\\[endif]-->
+<!\\\\\\\\\\\\\[endif]-->
 
 <table border="0" width="100%">
 	<tr>
@@ -574,6 +690,32 @@ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf
 		<td colspan="5" height="502">&nbsp;</td>
 	</tr>
 </table>
+
+<!--StartFragment-->
+
+<div class="container">
+
+<div class="avatar">
+
+<a href="#">
+
+<img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
+
+
+
+</a>
+
+</div>
+
+<div class="content">
+
+<h1>webster css Animation</h1>
+
+</div>
+
+</div>
+
+<!--EndFragment-->
 
 </body>
 
