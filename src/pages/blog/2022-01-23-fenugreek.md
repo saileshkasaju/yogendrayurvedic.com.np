@@ -19,29 +19,49 @@ tags:
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>New Page 1</title>
 </head>
+
+
+<!--StartFragment-->
+
 <style>
-	::-webkit- Scrollbar{
-			width: 10px;
-		}
-	::-webkit-Scrollbar-track{
-		border-radius:5px
-		box-shadow:inset 0 0 10px rgba(0, 0, 0,0.25);
-		}
-			::-webkit-Scrollbar-thumb{
-				border-radius:5px;
-				background-color:#009578;
-		}
-			::-webkit-Scrollbar-thumb.hover{
-			background-color:#6dcdb1;
-		}
+
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
 
 </style>
+
+<!--EndFragment-->
 
 <body>
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>New Page 1</title>
-<!--\\\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -83,8 +103,8 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\\\[endif]-->
-<!--\\\\\\\\\\\[if gte mso 9]><xml>
+</xml><!\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -340,8 +360,8 @@ tags:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\\\[endif]-->
-<!--\\\\\\\\\\\[if gte mso 10]>
+</xml><!\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -368,7 +388,7 @@ tags:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\\\\\\\\\[endif]-->
+<!\\\\\\\\\\\\[endif]-->
 <table border="0" width="100%">
 	<tr>
 		<td width="288" colspan="3" bgcolor="#00CC00">
