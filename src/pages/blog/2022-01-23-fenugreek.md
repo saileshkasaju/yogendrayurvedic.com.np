@@ -10,6 +10,7 @@ featuredpost: true
 featuredimage: /img/fenugreek-for-testosterone-1296x728-feature.jpg
 tags:
   - herbs
+  - plants
 ---
 <html>
 
