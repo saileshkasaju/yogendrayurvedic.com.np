@@ -8,6 +8,42 @@ featuredimage: /img/gettyimages-696251125_header-1024x575.jpg
 tags:
   - piv
 ---
+
+
 ![](/img/aloe-vera-plant-1522874831.jpg)
+
+<style>
+
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+</style>
+
+<!--EndFragment-->
 
 ![](/img/aloe-vera-white-pot_sunwand24-ss_edit.jpg)
