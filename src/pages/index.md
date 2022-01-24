@@ -203,7 +203,7 @@ text-transform: uppercase;
 
 <body>
 
-<!--\\\\\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -245,9 +245,9 @@ text-transform: uppercase;
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -503,9 +503,9 @@ text-transform: uppercase;
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -532,7 +532,7 @@ text-transform: uppercase;
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\\\\\\\\\\\[endif]-->
+<!\\\\\\\\\\\\\\[endif]-->
 
 <table border="0" width="100%">
 	<tr>
@@ -654,7 +654,9 @@ text-transform: uppercase;
 	<tr>
 		<td colspan="8" rowspan="2"><!--StartFragment-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=o1RAjzMqEMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><div class="mag-box-container clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3kafdKsOc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="mag-box-container clearfix" style="list-style-type: none; outline: none; box-sizing: border-box; position: relative; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0px none; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)">
 			<ul class="posts-items posts-list-container" style="list-style-type: none; outline: none; box-sizing: border-box; clear: both; font-size: 0px; border: 0px none; margin: 0px -15.625px; padding: 0px">
 				<li class="post-item  tie-standard" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; float: none; width: 406.625px; vertical-align: top; display: inline-block !important; border: 0px none; margin-left: 0px; margin-right: 0px; margin-top: 24px; margin-bottom: 0px; padding-left: 16.25px; padding-right: 16.25px; padding-top: 0px; padding-bottom: 0px">
 				<h2 class="post-title" style="list-style-type: none; outline: none; box-sizing: border-box; line-height: 1.4; font-weight: 600; font-size: 14px; font-family: Poppins; border: 0px none; margin: 0px; padding: 0px">
@@ -700,8 +702,6 @@ text-transform: uppercase;
 <a href="#">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
-
-
 
 </a>
 
