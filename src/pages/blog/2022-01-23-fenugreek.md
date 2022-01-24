@@ -20,7 +20,9 @@ tags:
 
 <body>
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+<!--\\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -62,9 +64,8 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\[endif]-->
-
-<!--\\\\\\\\\[if gte mso 9]><xml>
+</xml><!\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -320,9 +321,8 @@ tags:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\[endif]-->
-
-<!--\\\\\\\\\[if gte mso 10]>
+</xml><!\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -349,14 +349,13 @@ tags:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\\\\\\\[endif]-->
-
+<!\\\\\\\\\\\[endif]-->
 <table border="0" width="100%">
 	<tr>
 		<td width="288" colspan="3" bgcolor="#00CC00">
 		<ul id="menu-top-menu" class="menu" style="list-style-type: none; outline: none; box-sizing: border-box; color: rgb(44, 47, 52); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Open Sans', Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 0.08) none rgba(0; margin: 0px; padding: 0px; background-color: rgb(239, 240, 241)">
 			<li id="menu-item-38671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38671" style="list-style-type: none; outline: none; box-sizing: border-box; text-align: justify; position: relative; display: block; float: left; border: 0.08) none rgba(0; margin: 0px; padding: 0px">
-			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; border: 0.08) none rgba(0; margin: 0px; padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px; background-color: transparent" href="https://ayurtimes.net/consult/">
+			<a style="list-style-type: none; outline: none; box-sizing: border-box; color: #FFFFFF; text-decoration: none; transition: all 0.15s ease 0s; display: block; position: relative; border: 0.08) none rgba(0; margin: 0px; padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px; background-color: transparent" href="">
 			Ayurvedic Consultation</a></li>
 		</ul>
 		</td>
@@ -489,101 +488,124 @@ tags:
 	</tr>
 	<tr>
 		<td colspan="8">
-		<p class="MsoNormal"><!--StartFragment-->
-<iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/watch?v=eRhJbYTyjtk" name="I1">
-		</iframe></p>
+		<p class="MsoNormal">&nbsp;</p>
 		<table border="0" width="100%">
 			<tr>
 				<td bgcolor="#660066">
-		<p class="MsoNormal"><font size="7" color="#FFFFFF">Fenugreek</font></p>
+				<p class="MsoNormal"><font size="7" color="#FFFFFF">ALOE</font></p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#9900CC">
-		<p class="MsoNormal" align="justify"><font color="#CCFFFF"><b>Part used:</b> seeds</font></p>
+				<p class="MsoNormal"><b>Part</b> <b>used</b>: gel(fresh or 
+				powdered)</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#CC00CC">
-		<p class="MsoNormal" align="justify"><b>Energetic: </b>bitter, pungent, 
-		sweet/heating/pungent VK- P+</p>
+				<p class="MsoNormal"><b>Energetic</b>: bitter astringent, 
+				pungent, sweet/cooling/sweet</p>
+				<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vkp=(gel), powder in very 
+				low doses will aggravate vata</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#FF00FF">
-		<p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, blood, marrow and 
-		nerve, reproductive</p>
+				<p class="MsoNormal"><b>Tissue</b>: works on all tissues</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#FF66FF">
-		<p class="MsoNormal" align="justify"><b>Systems</b>: digestive, respiratory, 
-		urinary, reproductive</p>
+				<p class="MsoNormal"><b>Systems</b>: circulatory, digestive, 
+				female reproductive, excreatory</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#FF99FF">
-		<p class="MsoNormal" align="justify"><b>Action</b>: stimulant, tonic, 
-		expectorant, rejuvenate, aphrodisiac, diuretic</p>
+				<p class="MsoNormal"><b>Action</b>: alterative, bitter tonic, 
+				rejuvenative, emmenagogue, purgative, vulnerary</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#FFCCFF">
-		<p class="MsoNormal" align="justify"><b>Indications</b>: dysentery, dyspepsia, 
-		chronic cough, allergies, bronchitis, influenza, convalescence, dropsy, 
-		toothache, neurasthenia, sciatica, arthritis</p>
+				<p class="MsoNormal"><b>Indications</b>: fever, constipation, 
+				obesity, inflammatory skin conditions, swollen glands, 
+				conjunctivitis, bursitis, jaundice, hepatitis, enlarged of liver 
+				or spleen, herpes, venereal diseases, amenorrhea, dysmenorrhea, 
+				menopause, vaginitis, tumors, intestinal worms</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#CCCCFF">
-		<p class="MsoNormal" align="justify"><b>Precautions</b>: pregnancy (may cause 
-		abortion, promotes vaginal breeding), high pitta conditions</p>
+				<p class="MsoNormal"><b>Precautions</b>: pregnancy, uterine 
+				bleeding</p>
 				<p>&nbsp;</td>
 			</tr>
 			<tr>
 				<td bgcolor="#CCFFFF">
-		<p class="MsoNormal" align="justify"><b>Preparation</b>: decoction, power (250 
-		mg to 1 gm), paste, gruel</p>
+				<p class="MsoNormal"><b>Preparation</b>: fresh gel, powder (100 
+				to 500mg)</p>
 				<p>&nbsp;</td>
 			</tr>
 		</table>
 		<table border="0" width="100%">
 			<tr>
 				<td bgcolor="#009933">
-		<p class="MsoNormal" align="justify">Fenugreek is good herbal food for 
-		convalescence and debility, particularly that of the nervous, 
-		respiratory and reproductive systems.</p></td>
+				<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
+				ALOE gel is a wonderful tonic for the liver and spleen, for the 
+				blood and the female reproductive system.</span></td>
 			</tr>
 			<tr>
 				<td bgcolor="#33CC33">
-				<p class="MsoNormal" align="justify">As a gruel it will increase milk 
-		flow and promote hair growth.</p></td>
+				<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
+				Aloe regulates sugar and fat metabolism and tonifies all the 
+				agnis, the digestive enzymes of the body; and at the same time 
+				it reduces pitta.</span></td>
 			</tr>
 			<tr>
 				<td bgcolor="#66FF66">
-				<p class="MsoNormal" align="justify">The seed paste can be used externally for 
-		boils, ulcers and hard to heal sores. </p></td>
+				<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
+				It is rejuvenative for pitta and for the uterus. Two teaspoons 
+				of it can be taken three times a day, with pinch of turmeric, as 
+				a general tonic.</span></td>
 			</tr>
 			<tr>
 				<td height="69" bgcolor="#99FF99">
-				<p class="MsoNormal" align="justify">It can be added to curries as a 
-		digestion, hypo-function of the liver and seminal debility.</p></td>
+				<p class="MsoNormal">It is more palatable mixed with water or 
+				apple juice. Or three ounce of the gel can be taken from a fresh 
+				plant along with three ounces of water, three teaspoons of salt, 
+				bought to boil and combined with one ounce of raw sugar and 
+				taken in teaspoonful doses. </td>
 			</tr>
 			<tr>
 				<td bgcolor="#CCFFCC">
-				<p class="MsoNormal" align="justify">As a tonic, 
-		one tablespoon of the powder can be taken daily, heated in one cup of 
-		milk.</p></td>
+				<p class="MsoNormal">As a nutritive tonic, aloe can be combined 
+				with shatavari, as a bitter tonic with gentian, and as an 
+				alterative and emmenagogue with manjistha. The fresh juice can 
+				be applied externally for burns, sores, herpes, etc.</td>
+			</tr>
+			<tr>
+				<td bgcolor="#99FFCC">
+				<p class="MsoNormal">aloe powder is a powerful laxative that 
+				must be used in small amounts.</td>
+			</tr>
+			<tr>
+				<td bgcolor="#66FFCC">
+				<p class="MsoNormal">The powder can also cause severe griping 
+				and should be taken with a carminative herb like turmeric or 
+				rose flowers.</td>
 			</tr>
 		</table>
-		<p>&nbsp;</td>
+		<p>
+		<img sizes="(width: 100px) 100vw, 100px" srcset="/static/875b37748484588ff833924f952a1758/89b9c/gettyimages-696251125_header-1024x575.jpg 512w,
+/static/875b37748484588ff833924f952a1758/26852/gettyimages-696251125_header-1024x575.jpg 1024w" src="https://www.yogendrayurvedic.com.np/static/875b37748484588ff833924f952a1758/26852/gettyimages-696251125_header-1024x575.jpg" alt="" loading="lazy" style="position: absolute; top: 1861; left: 194; width: 318px; height: 260px; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 500ms ease 0s"></td>
 		<td colspan="5" height="502" rowspan="2">
 		<table border="0" width="96%" style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);">
 			<tbody style="box-sizing: inherit;">
 				<tr style="box-sizing: inherit;">
 					<td colspan="2" height="111" style="box-sizing: inherit;">
 					<br class="Apple-interchange-newline">
-&nbsp;<table border="0" width="100%" style="box-sizing: inherit;">
+					&nbsp;<table border="0" width="100%" style="box-sizing: inherit;">
 						<tbody style="box-sizing: inherit;">
 							<tr style="box-sizing: inherit;">
 								<td bgcolor="#008DC9" style="box-sizing: inherit;">
@@ -728,7 +750,7 @@ tags:
 					</td>
 				</tr>
 		</table>
-&nbsp;</td>
+		&nbsp;</td>
 	</tr>
 	<tr>
 		<td colspan="8">&nbsp;</td>
