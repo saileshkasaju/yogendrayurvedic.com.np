@@ -33,9 +33,45 @@ main:
 <title>New Page 1</title>
 </head>
 
+<!--StartFragment-->
+
+<style>
+
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+</style>
+
+<!--EndFragment-->
+
 <body>
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -77,9 +113,9 @@ main:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -335,9 +371,9 @@ main:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -364,7 +400,7 @@ main:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\\\\\\\\\[endif]-->
+<!\\\\\\\\\\[endif]-->
 
 <table border="0" width="100%">
 	<tr>
