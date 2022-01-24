@@ -18,6 +18,23 @@ tags:
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>New Page 1</title>
 </head>
+<style>
+	::-webkit- Scrollbar{
+			width: 10px;
+		}
+	::-webkit-Scrollbar-track{
+		border-radius:5px
+		box-shadow:inset 0 0 10px rgba(0, 0, 0,0.25);
+		}
+			::-webkit-Scrollbar-thumb{
+				border-radius:5px;
+				background-color:#009578;
+		}
+			::-webkit-Scrollbar-thumb.hover{
+			background-color:#6dcdb1;
+		}
+
+</style>
 
 <body>
 
