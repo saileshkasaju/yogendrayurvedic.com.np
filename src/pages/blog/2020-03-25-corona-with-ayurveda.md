@@ -2,13 +2,15 @@
 templateKey: blog-post
 title: CORONA WITH AYURVEDA
 date: 2020-03-25T05:27:13.649Z
-description: "CONCEPT OF EPIDEMIC IN AYURVEDA:\n\tThe concept of janapdodhwamsa is the situation where there is wide spread damage to the environment as well as life forms.\n"
+description: >
+  CONCEPT OF EPIDEMIC IN AYURVEDA:
+  	The concept of janapdodhwamsa is the situation where there is wide spread damage to the environment as well as life forms.
 featuredpost: true
 featuredimage: /img/2019-n-cov.jpg
 tags:
   - CORONA
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +53,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -309,9 +311,9 @@ tags:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -336,11 +338,45 @@ tags:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
+<style>
 
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+</style>
+
+<!--EndFragment-->
+
+<!--StartFragment-->
 
 **MODES OF TRANSMISSION**
 
@@ -428,13 +464,9 @@ Simple combination for herbal smoking: If only a few ingredients are available t
 
 •Mix the of Powder above and then smear them on a thin cotton cloth dip it in a little of sesame ghee or oil then use It for dhoomapana (smoking).
 
-
-
 **Swedana (sweating treatment):**
 
 Local fomentation through various means when there is a chest congestion and cold nose. Fomentation can be in the form of pouring warm or hot liquids or oil (dhara). Using fermented gruel (kanji), fermented liquid (dhanyamla), takra for dhara is ideal. Oil such as marichadi thaila , chinchadi tahila, karpooradi thaila, etc is helpful. Bags of some dicots, monocots and legumes can be used for fomentation. Eg : sesame, wheat, black gram, horse gram etc they can be used dry or wet immersing them in amla dravya (kanji, dhanyamla, buttermilk)
-
-
 
 **Vamana treatment:**
 
