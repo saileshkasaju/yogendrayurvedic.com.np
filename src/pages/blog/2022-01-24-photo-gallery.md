@@ -14,7 +14,7 @@ tags:
 
 ![](/img/human-shoulder-muscles-777x777.jpg)
 
-![](/img/f0316228-800px-wm.jpg)
+![](/img/typical-uterus-1537472938.jpg)
 
 <style>
 
