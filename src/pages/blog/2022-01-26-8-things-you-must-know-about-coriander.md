@@ -180,7 +180,7 @@ top: px;
 
 right:100px;
 
-height:850px;
+height:1850px;
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
@@ -387,12 +387,17 @@ position:static;
 pungent/cooling/pungent</p>
 <p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VPK=</p>
 
-<IMG src="https://www.yogendrayurvedic.com.np/blog/2022-01-24-photo-gallery/">
+<IMG src="https://www.yogendrayurvedic.com.np/img/red-blood-cells.jpg/">
+
+<IMG src="https://www.yogendrayurvedic.com.np/img/human-shoulder-muscles-777x777.jpg">
+
 <p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, blood, muscle</p>
 <p class="MsoNormal" align="justify"><b>Systems</b>: digestive, respiratory, 
 urinary</p>
 <p class="MsoNormal" align="justify"><b>Actions</b>: alterative, diaphoretic, 
-diuretic, carminative, stimulant</p>
+diuretic, carminative, stimulant</p><IMG src="https://www.yogendrayurvedic.com.np/img/typical-uterus-1537472938.jpg">
+
+
 <p class="MsoNormal" align="justify"><b>Indication</b>: burning urethra, 
 cystitis, urinary track infection, urticaria, rash, burns, sore throat, 
 vomiting, indigestion, allergies, hay fever</p>
