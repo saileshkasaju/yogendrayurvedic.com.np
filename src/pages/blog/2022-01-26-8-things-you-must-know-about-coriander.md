@@ -224,7 +224,7 @@ z-index: 1;
 
 left: 0px;
 
-top: 1650px; 
+top: 1700px; 
 
 border-radius: 5%;
 
