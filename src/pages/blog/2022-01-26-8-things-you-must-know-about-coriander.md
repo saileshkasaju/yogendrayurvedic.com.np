@@ -358,8 +358,6 @@ position:static;
 
 <body>
 
-
-
 <div class="container">
 
 <div class="avatar">
@@ -388,6 +386,8 @@ position:static;
 <p class="MsoNormal" align="justify"><b>Energetics</b>: Bitter, 
 pungent/cooling/pungent</p>
 <p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VPK=</p>
+
+<IMG src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.medicalnewstoday.com%2Farticles%2F318171&psig=AOvVaw2wE9ACwPJ5kiHBvYdfy9lo&ust=1643256415422000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJi_yqvFzvUCFQAAAAAdAAAAABAJ"/>
 <p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, blood, muscle</p>
 <p class="MsoNormal" align="justify"><b>Systems</b>: digestive, respiratory, 
 urinary</p>
