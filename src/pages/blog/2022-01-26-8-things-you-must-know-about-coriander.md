@@ -184,7 +184,7 @@ height:2500px;
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
-border-radius: 2%;
+border-radius: 15px;
 
 
 
