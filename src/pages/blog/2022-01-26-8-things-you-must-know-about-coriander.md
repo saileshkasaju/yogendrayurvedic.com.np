@@ -180,7 +180,7 @@ top: px;
 
 right:100px;
 
-height:2000px;
+height:2500px;
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
@@ -224,7 +224,7 @@ z-index: 1;
 
 left: 0px;
 
-top: 2900px; 
+top: 3500px; 
 
 border-radius: 5%;
 
@@ -397,7 +397,9 @@ urinary</p>
 <p class="MsoNormal" align="justify"><b>Actions</b>: alterative, diaphoretic, 
 diuretic, carminative, stimulant</p><IMG src="https://www.yogendrayurvedic.com.np/img/typical-uterus-1537472938.jpg">
 
+<IMG src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
 
+<IMG src="https://www.yogendrayurvedic.com.np/img/80480272.jpg">
 <p class="MsoNormal" align="justify"><b>Indication</b>: burning urethra, 
 cystitis, urinary track infection, urticaria, rash, burns, sore throat, 
 vomiting, indigestion, allergies, hay fever</p>
