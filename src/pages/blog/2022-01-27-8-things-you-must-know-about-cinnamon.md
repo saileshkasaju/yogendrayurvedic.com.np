@@ -18,7 +18,118 @@ tags:
 
 <style>
 
-\*
+.wrapper{
+
+position: absolute;
+
+top: 30%;
+
+left: 50%;
+
+perspective: 1000px;
+
+}
+
+.b-area{
+
+position: relative;
+
+transform-style: preserve-3d;
+
+animation-name: rotate;
+
+animation-duration: 30s;
+
+animation-timing-function: linear;
+
+animation-iteration-count: infinite;
+
+}
+
+@keyframes rotate{
+
+0%{
+
+transform: rotate3d(0,0,0,0);
+
+}
+
+100%{
+
+transform: rotate3d(0,1,0,360deg);
+
+}
+
+}
+
+.b{
+
+position: absolute;
+
+width: 300px;
+
+height: 300px;
+
+border: 2px solid #262626;
+
+}
+
+.b-front{
+
+transform: translateX(-200px) translateY(-200px) translateZ(200px);
+
+background: rgba(255,16,107,0.5);
+
+}
+
+.b-back{
+
+transform: translateX(-200px) translateY(-200px) translateZ(-200px);
+
+background: rgba(1,251,236,0.5);
+
+
+
+}
+
+.b-right{
+
+transform: translateY(-200px) rotateY(90deg);
+
+background: rgba(4,255,116,0.5);
+
+}
+
+.b-left{
+
+transform: translatey(-200px) translateX(-400px) rotateY(90deg);
+
+background: rgba(216,255,0,0.5);
+
+}
+
+.b-bottom{
+
+transform: translateX(-200px) rotateX(90deg);
+
+background: rgba(255,30,0,0.5);
+
+}
+
+.b-top{
+
+transform: translateX(-200px) translateY(-400px) rotateX(90deg);
+
+background: rgba(0,6,246,0.5);
+
+}
+
+.b-area{
+
+transform: rotateX(90deg) rotateY(90deg);
+
+}
+
 
 {
 
@@ -415,14 +526,25 @@ position:static;
 <b>Used</b>: bark</font></p>
 <p class="MsoNormal" align="justify"><b><font size="3">Energetics</font></b><font size="3">: 
 pungent, sweet, astringent/heating/sweet</font></p>
+
+<br><br>
+<br>
+<br><br><br><br><br><br>
+<br><br><br>
+<br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p class="MsoNormal" align="justify"><b><font size="3">Tissues</font></b><font size="3">: 
 plasma, blood, muscles, marrow and nerves</font></p>
 
-<img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
+<br>
 
-<img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
-<img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg">
-<img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg">
+
 
 <p class="MsoNormal" align="justify"><b><font size="3">Systems</font></b><font size="3">: 
 circulatory, digestive, respiratory, urinary</font></p>
@@ -444,7 +566,37 @@ ginger it is universal medicine, and is less likely to aggravate pitta than
 ginger. It is good general beverage&nbsp; (its quality is sattvic ) for vata 
 constitution.</font></p>
 
+<div class="wrapper">
+
+<div class="b-area">
+
+<div class="b b-front"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
+
 </div>
+
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
+</div>
+
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg">
+</div>
+
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg">
+
+</div>
+
+<div class="b b-top"></div>
+
+<div class="b b-bottom"></div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+
 
 <div class="old"><h3>ALOE VERA</h3>
 
