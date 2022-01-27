@@ -22,7 +22,7 @@ tags:
 
 position: absolute;
 
-top: 30%;
+top: 35%;
 
 left: 50%;
 
@@ -68,7 +68,7 @@ position: absolute;
 
 width: 300px;
 
-height: 300px;
+height: 150px;
 
 border: 2px solid #262626;
 
