@@ -512,7 +512,7 @@ position:static;
 
 <div class="b-area">
 
-<div class="b b-front">
+<div class="b b-front"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
 
 </div>
 
