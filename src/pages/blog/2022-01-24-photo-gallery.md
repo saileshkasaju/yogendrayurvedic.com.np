@@ -10,6 +10,8 @@ tags:
 ---
 ![](/img/aloe-vera-plant-1522874831.jpg)
 
+![](/img/new-adobe-photoshop-image.jpg)
+
 ![](/img/nervous-system.jpg)
 
 ![](/img/circulatory_system.jpg)
