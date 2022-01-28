@@ -8,14 +8,6 @@ featuredimage: /img/cinnamon.jpg
 tags:
   - HERBS
 ---
-<html>
-
-<head>
-
-<title>New Page 1</title>
-
-</head>
-
 <style>
 
 .topic{
@@ -613,5 +605,3 @@ more>><a/></p>
 <br>
 
 </body>
-
-</html>
