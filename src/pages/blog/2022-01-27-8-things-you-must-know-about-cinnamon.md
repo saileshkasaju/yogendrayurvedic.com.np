@@ -292,9 +292,6 @@ background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2
 border-radius: 22px;
 
 
-
-
-
 border: 1px solid white;
 
 
