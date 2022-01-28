@@ -18,15 +18,22 @@ tags:
 
 <style>
 
+
+body{
+
+background: #ddd;
+
+}
+
 .wrapper{
 
 position: absolute;
 
-top: 35%;
+top: 20%;
 
 left: 50%;
 
-perspective: 1000px;
+perspective: 1500px;
 
 }
 
@@ -66,9 +73,9 @@ transform: rotate3d(0,1,0,360deg);
 
 position: absolute;
 
-width: 300px;
+width: 200px;
 
-height: 150px;
+height: 200px;
 
 border: 2px solid #262626;
 
@@ -76,7 +83,7 @@ border: 2px solid #262626;
 
 .b-front{
 
-transform: translateX(-200px) translateY(-200px) translateZ(200px);
+transform: translateX(-100px) translateY(-100px) translateZ(100px);
 
 background: rgba(255,16,107,0.5);
 
@@ -84,7 +91,7 @@ background: rgba(255,16,107,0.5);
 
 .b-back{
 
-transform: translateX(-200px) translateY(-200px) translateZ(-200px);
+transform: translateX(-100px) translateY(-100px) translateZ(-100px);
 
 background: rgba(1,251,236,0.5);
 
@@ -94,7 +101,7 @@ background: rgba(1,251,236,0.5);
 
 .b-right{
 
-transform: translateY(-200px) rotateY(90deg);
+transform: translateY(-100px) rotateY(90deg);
 
 background: rgba(4,255,116,0.5);
 
@@ -102,7 +109,7 @@ background: rgba(4,255,116,0.5);
 
 .b-left{
 
-transform: translatey(-200px) translateX(-400px) rotateY(90deg);
+transform: translatey(-100px) translateX(-200px) rotateY(90deg);
 
 background: rgba(216,255,0,0.5);
 
@@ -110,7 +117,7 @@ background: rgba(216,255,0,0.5);
 
 .b-bottom{
 
-transform: translateX(-200px) rotateX(90deg);
+transform: translateX(-100px) rotateX(90deg);
 
 background: rgba(255,30,0,0.5);
 
@@ -118,7 +125,7 @@ background: rgba(255,30,0,0.5);
 
 .b-top{
 
-transform: translateX(-200px) translateY(-400px) rotateX(90deg);
+transform: translateX(-100px) translateY(-200px) rotateX(90deg);
 
 background: rgba(0,6,246,0.5);
 
@@ -127,19 +134,6 @@ background: rgba(0,6,246,0.5);
 .b-area{
 
 transform: rotateX(90deg) rotateY(90deg);
-
-}
-
-
-{
-
-margin: 0;
-
-padding: 0;
-
-box-sizing: border-box;
-
-
 
 }
 
@@ -544,8 +538,6 @@ plasma, blood, muscles, marrow and nerves</font></p>
 
 <br>
 
-
-
 <p class="MsoNormal" align="justify"><b><font size="3">Systems</font></b><font size="3">: 
 circulatory, digestive, respiratory, urinary</font></p>
 <p class="MsoNormal" align="justify"><b><font size="3">Actions</font></b><font size="3">: 
@@ -588,15 +580,11 @@ constitution.</font></p>
 
 <div class="b b-bottom"></div>
 
-
-
 </div>
 
 </div>
 
 </div>
-
-
 
 <div class="old"><h3>ALOE VERA</h3>
 
