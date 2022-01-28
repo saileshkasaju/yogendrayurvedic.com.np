@@ -523,7 +523,6 @@ pungent, sweet, astringent/heating/sweet</font></p>
 
 <br><br>
 <br>
-<br><br><br><br><br><br>
 <br><br><br>
 <br><br><br>
 <br>
