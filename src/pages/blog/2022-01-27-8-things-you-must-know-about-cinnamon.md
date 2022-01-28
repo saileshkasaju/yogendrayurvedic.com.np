@@ -593,8 +593,6 @@ constitution.</font></p>
 
 more>><a/></p>
 
-<!--StartFragment-->
-
 <div class="wrapper">
 
 <div class="b-area">
@@ -616,8 +614,6 @@ more>><a/></p>
 </div>
 
 </div>
-
-<!--EndFragment-->
 
 </div>
 
