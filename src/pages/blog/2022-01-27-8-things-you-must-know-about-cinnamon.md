@@ -18,35 +18,6 @@ tags:
 
 <style>
 
-.topic{
-
-position: absolute;
-
-width: 360px;
-
-z-index: 2;
-
-left: 1px;
-
-top: 35%;
-
-right:100px;
-
-height:1111px;
-
-background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
-
-border-radius: 22px;
-
-border: 1px solid white;
-
-overflow: hidden;
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-align-content: center;
-
-}
 .wrapper{
 
 position: absolute;
@@ -478,8 +449,6 @@ position:static;
 
 </div>
 
-<div class="topic">
-
 <p class="MsoNormal" align="justify"><b><font size="7">CINNAMON</font></b></p>
 <p class="MsoNormal" align="justify"><font size="3">(<b>S</b>) </font><i>
 <font size="3">Twak</font></i></p>
@@ -512,8 +481,6 @@ tension. It strengthens the heart, warms the kidneys and promotes agni. Like
 ginger it is universal medicine, and is less likely to aggravate pitta than 
 ginger. It is good general beverage&nbsp; (its quality is sattvic ) for vata 
 constitution.</font></p>
-
-</div>
 
 <div class="old"><h3>ALOE VERA</h3>
 
