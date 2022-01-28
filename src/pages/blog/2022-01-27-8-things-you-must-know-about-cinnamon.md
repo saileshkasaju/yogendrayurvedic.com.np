@@ -18,13 +18,35 @@ tags:
 
 <style>
 
+.topic{
 
-body{
+position: absolute;
 
-background: #ddd;
+width: 360px;
+
+z-index: 2;
+
+left: 1px;
+
+top: 35%;
+
+right:100px;
+
+height:1111px;
+
+background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
+
+border-radius: 22px;
+
+border: 1px solid white;
+
+overflow: hidden;
+
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
+
+align-content: center;
 
 }
-
 .wrapper{
 
 position: absolute;
@@ -257,58 +279,6 @@ background-color: #6dcdb1;
 
 }
 
-
-
-
-
-.topic{
-
-
-
-position: absolute;
-
-
-
-width: 360px;
-
-
-
-z-index: 2;
-
-left: 1px;
-
-
-
-top: 35%;
-
-
-
-right:100px;
-
-height:1111px;
-
-background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
-
-border-radius: 22px;
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
-}
 
 
 
