@@ -593,6 +593,12 @@ constitution.</font></p>
 
 more>><a/></p>
 
+
+
+</div>
+
+<br>
+
 <div class="wrapper">
 
 <div class="b-area">
@@ -609,15 +615,9 @@ more>><a/></p>
 
 <div class="b b-bottom"></div>
 
-
-
 </div>
 
 </div>
-
-</div>
-
-<br>
 
 <br>
 
