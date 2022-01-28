@@ -515,17 +515,17 @@ position:static;
 
 <div class="b-area">
 
-<div class="b b-front"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
+<div class="b b-front">
 
 </div>
 
-<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
+<div class="b b-right">
 </div>
 
-<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg">
+<div class="b b-back">
 </div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg">
+<div class="b b-left">
 
 </div>
 
@@ -536,8 +536,6 @@ position:static;
 </div>
 
 </div>
-
-
 
 <div class="topic">
 
@@ -587,8 +585,6 @@ more>><a/></p>
 </div>
 
 <br>
-
-
 
 </div>
 
