@@ -29,9 +29,9 @@ background: #ddd;
 
 position: absolute;
 
-top: 22%;
+top: 20%;
 
-left: 30%;
+left: 32%;
 
 perspective: 1500px;
 
@@ -355,7 +355,7 @@ z-index: 1;
 
 left: 0px;
 
-top: 3050px; 
+top: 2650px; 
 
 border-radius: 5%;
 
