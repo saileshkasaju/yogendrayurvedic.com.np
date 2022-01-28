@@ -312,33 +312,7 @@ align-content: center;
 
 
 
-.subscribe {
 
-
-
-position: absolute;
-
-
-
-width: 100px;
-
-
-
-height: 63px;
-
-
-
-z-index: 1;
-
-
-
-left: 427px;
-
-top: 19px; border-radius: 20%;
-
-background-color:#008000;
-
-}
 
 .old{
 
