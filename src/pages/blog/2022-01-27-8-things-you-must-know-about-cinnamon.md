@@ -29,9 +29,9 @@ background: #ddd;
 
 position: absolute;
 
-top: 20%;
+top: 22%;
 
-left: 50%;
+left: 30%;
 
 perspective: 1500px;
 
@@ -140,7 +140,7 @@ transform: rotateX(90deg) rotateY(90deg);
 .box
 
 {
-
+left:-10%;
 position: relative;
 
 width: 300px;
@@ -279,13 +279,13 @@ left: 1px;
 
 
 
-top: px;
+top: 25%;
 
 
 
 right:100px;
 
-height:1850px;
+height:1250px;
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
@@ -511,52 +511,6 @@ position:static;
 
 </div>
 
-<div class="topic">
-
-<p class="MsoNormal" align="justify"><b><font size="7">CINNAMON</font></b></p>
-<p class="MsoNormal" align="justify"><font size="3">(<b>S</b>) </font><i>
-<font size="3">Twak</font></i></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Part</font></b><font size="3">
-<b>Used</b>: bark</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Energetics</font></b><font size="3">: 
-pungent, sweet, astringent/heating/sweet</font></p>
-
-<br><br>
-<br>
-<br><br><br>
-<br><br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p class="MsoNormal" align="justify"><b><font size="3">Tissues</font></b><font size="3">: 
-plasma, blood, muscles, marrow and nerves</font></p>
-
-<br>
-
-<p class="MsoNormal" align="justify"><b><font size="3">Systems</font></b><font size="3">: 
-circulatory, digestive, respiratory, urinary</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Actions</font></b><font size="3">: 
-stimulant, diaphoretic, carminative, alterative, expectorant, diuretic, 
-analgesic</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Indications</font></b><font size="3">: 
-colds, sinus congestion, bronchitis, dyspepsia</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Precautions</font></b><font size="3">: 
-high pitta, bleeding disorders</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Preparation</font></b><font size="3">: 
-infusion, dececotion, powder (500mg to 1gm)</font></p>
-<p class="MsoNormal" align="justify"><font size="3">CINNAMON is an effective 
-herb for strengthening and harmonizing the flow of circulation (vyana vayu). It 
-is good diaphoretic and expectorant in colds and flues, and is specially good 
-for those of weak constitution. It is a pain reliever for tooth ache and muscle 
-tension. It strengthens the heart, warms the kidneys and promotes agni. Like 
-ginger it is universal medicine, and is less likely to aggravate pitta than 
-ginger. It is good general beverage&nbsp; (its quality is sattvic ) for vata 
-constitution.</font></p>
-
 <div class="wrapper">
 
 <div class="b-area">
@@ -583,6 +537,43 @@ constitution.</font></p>
 
 </div>
 
+
+
+<div class="topic">
+
+<p class="MsoNormal" align="justify"><b><font size="7">CINNAMON</font></b></p>
+<p class="MsoNormal" align="justify"><font size="3">(<b>S</b>) </font><i>
+<font size="3">Twak</font></i></p>
+<p class="MsoNormal" align="justify"><b><font size="3">Part</font></b><font size="3">
+<b>Used</b>: bark</font></p>
+<p class="MsoNormal" align="justify"><b><font size="3">Energetics</font></b><font size="3">: 
+pungent, sweet, astringent/heating/sweet</font></p>
+
+<p class="MsoNormal" align="justify"><b><font size="3">Tissues</font></b><font size="3">: 
+plasma, blood, muscles, marrow and nerves</font></p>
+
+<br>
+
+<p class="MsoNormal" align="justify"><b><font size="3">Systems</font></b><font size="3">: 
+circulatory, digestive, respiratory, urinary</font></p>
+<p class="MsoNormal" align="justify"><b><font size="3">Actions</font></b><font size="3">: 
+stimulant, diaphoretic, carminative, alterative, expectorant, diuretic, 
+analgesic</font></p>
+<p class="MsoNormal" align="justify"><b><font size="3">Indications</font></b><font size="3">: 
+colds, sinus congestion, bronchitis, dyspepsia</font></p>
+<p class="MsoNormal" align="justify"><b><font size="3">Precautions</font></b><font size="3">: 
+high pitta, bleeding disorders</font></p>
+<p class="MsoNormal" align="justify"><b><font size="3">Preparation</font></b><font size="3">: 
+infusion, dececotion, powder (500mg to 1gm)</font></p>
+<p class="MsoNormal" align="justify"><font size="3">CINNAMON is an effective 
+herb for strengthening and harmonizing the flow of circulation (vyana vayu). It 
+is good diaphoretic and expectorant in colds and flues, and is specially good 
+for those of weak constitution. It is a pain reliever for tooth ache and muscle 
+tension. It strengthens the heart, warms the kidneys and promotes agni. Like 
+ginger it is universal medicine, and is less likely to aggravate pitta than 
+ginger. It is good general beverage&nbsp; (its quality is sattvic ) for vata 
+constitution.</font></p>
+
 </div>
 
 <div class="old"><h3>ALOE VERA</h3>
@@ -593,27 +584,11 @@ constitution.</font></p>
 
 more>><a/></p>
 
-
-
 </div>
 
 <br>
 
-<div class="wrapper">
 
-<div class="b-area">
-
-<div class="b b-front"></div>
-
-<div class="b b-right"></div>
-
-<div class="b b-back"></div>
-
-<div class="b b-left"></div>
-
-<div class="b b-top"></div>
-
-<div class="b b-bottom"></div>
 
 </div>
 
