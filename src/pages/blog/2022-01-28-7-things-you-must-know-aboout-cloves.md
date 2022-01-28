@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 7 THINGS YOU MUST KNOW ABOOUT CLOVES
+title: 7 THINGS YOU MUST KNOW ABOUT CLOVES
 date: 2022-01-28T03:26:20.858Z
 description: .
 featuredpost: true
