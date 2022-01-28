@@ -29,7 +29,7 @@ background: #ddd;
 
 position: absolute;
 
-top: 20%;
+top: 28%;
 
 left: 32%;
 
@@ -279,7 +279,7 @@ left: 1px;
 
 
 
-top: 25%;
+top: 35%;
 
 
 
