@@ -29,9 +29,9 @@ background: #ddd;
 
 position: absolute;
 
-top: 28%;
+top: 30%;
 
-left: 32%;
+left: 35%;
 
 perspective: 1500px;
 
