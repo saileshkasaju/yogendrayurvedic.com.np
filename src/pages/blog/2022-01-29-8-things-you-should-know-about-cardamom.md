@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 8 THINGS YOU SHOULD KNOW ABOUT CARDAMOM
+title: 8 THINGS YOU MUST KNOW ABOUT CARDAMOM
 date: 2022-01-29T03:29:20.229Z
 description: .
 featuredpost: true
