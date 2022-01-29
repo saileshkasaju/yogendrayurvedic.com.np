@@ -6,7 +6,7 @@ heading: Prevention Is Better Than Cure
 subheading: Your Guide To Health And Longevity With Dr.Pragendra Raj Bajracharya
 mainpitch:
   title: AYURVEDA IS THE SCIENCE OF LIFE
-  description: Let food be your first medicine and kitchen be your first pharmacy.
+  description: Let Food Be Your First Medicine And Kitchen Be Your First Pharmacy.
 intro:
   blurbs: []
   heading: What Ayurveda Offers
