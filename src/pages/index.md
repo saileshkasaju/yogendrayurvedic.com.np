@@ -196,7 +196,7 @@ border: 2px solid #262626;
 
 transform: translateX(-100px) translateY(-100px) translateZ(100px);
 
-background: rgba(255,16,107,0.5);
+background: black;
 
 }
 
@@ -204,7 +204,7 @@ background: rgba(255,16,107,0.5);
 
 transform: translateX(-100px) translateY(-100px) translateZ(-100px);
 
-background: rgba(1,251,236,0.5);
+background: black;
 
 
 
@@ -214,7 +214,7 @@ background: rgba(1,251,236,0.5);
 
 transform: translateY(-100px) rotateY(90deg);
 
-background: rgba(4,255,116,0.5);
+background:black;
 
 }
 
@@ -222,7 +222,7 @@ background: rgba(4,255,116,0.5);
 
 transform: translatey(-100px) translateX(-200px) rotateY(90deg);
 
-background: rgba(216,255,0,0.5);
+background: black;
 
 }
 
