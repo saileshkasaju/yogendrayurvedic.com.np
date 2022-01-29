@@ -43,29 +43,7 @@ align-content: center;
 }
 
 
-.box
 
-{
-
-position: relative;
-
-width: 300px;
-
-height: 400px;
-
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-background: rgba(0, 0, 0, 5);
-
-overflow: hidden;
-
-border-radius: 20px;
-
-}
 
 ::-webkit-scrollbar{
 
