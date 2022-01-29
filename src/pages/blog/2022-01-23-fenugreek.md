@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Fenugreek
+title: 8 THINGS YOU MUST YOU MUST KNOW ABOUT FENUGREEK
 date: 2022-01-23T07:01:44.252Z
 description: >+
   Fenugreek is good herbal food for convalescence and debility, particularly
@@ -305,7 +305,7 @@ width: 200px;
 
 height: 200px;
 
-background-color: red;
+background-color: #5BBC55;
 
 box-sizing: border-box;
 
@@ -425,7 +425,6 @@ nerve, reproductive</p>
 <img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg">
 
 <img src="https://www.yogendrayurvedic.com.np/img/typical-uterus-1537472938.jpg">
-
 
 <p class="MsoNormal" align="justify"><b>Systems</b>: digestive, respiratory, 
 urinary, reproductive</p>
