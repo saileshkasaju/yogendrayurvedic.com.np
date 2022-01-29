@@ -5,7 +5,7 @@ image: /img/your-guide-to-travel-dventure.png
 heading: Prevention Is Better Than Cure
 subheading: Your Guide To Health And Longevity With Dr.Pragendra Raj Bajracharya
 mainpitch:
-  title: AYURVEDA IS SCIENCE OF LIFE
+  title: AYURVEDA IS THE SCIENCE OF LIFE
   description: Let food be your first medicine and kitchen be your first pharmacy.
 intro:
   blurbs: []
