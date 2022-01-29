@@ -83,7 +83,7 @@ width: 200px;
 
 height: 200px;
 
-background-color: green;
+background-color: #5BBC55;
 
 box-sizing: border-box;
 
