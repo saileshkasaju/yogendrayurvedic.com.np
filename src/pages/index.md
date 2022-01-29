@@ -26,7 +26,7 @@ main:
 ---
 <style>
 
-.topic{
+.t{
 position: absolute;
 width: 360px;
 z-index: 2;
