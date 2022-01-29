@@ -250,7 +250,7 @@ z-index: 1;
 
 left: 0px;
 
-top: 3250px; 
+top: 3450px; 
 
 border-radius: 5%;
 
