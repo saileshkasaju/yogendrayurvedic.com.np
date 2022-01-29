@@ -300,7 +300,7 @@ width: 200px;
 
 height: 200px;
 
-background-color: red;
+background-color: #5BBC55;
 
 box-sizing: border-box;
 
