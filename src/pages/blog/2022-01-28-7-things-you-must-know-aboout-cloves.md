@@ -300,7 +300,7 @@ width: 200px;
 
 height: 200px;
 
-background-color: red;
+background-color: #5BBC55;
 
 box-sizing: border-box;
 
@@ -436,8 +436,6 @@ their rajasic quality.</p>
 <img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
 
 <img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg">
-
-
 
 </div>
 
