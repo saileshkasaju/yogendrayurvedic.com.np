@@ -26,6 +26,23 @@ main:
 ---
 <style>
 
+.topic{
+position: absolute;
+width: 360px;
+z-index: 2;
+left: 1px;
+top: px;
+right:100px;
+height:2250px;
+background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
+border-radius: 12PX;
+border: 1px solid white;
+overflow: hidden;
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
+align-content: center;
+}
+
+
 .box
 
 {
