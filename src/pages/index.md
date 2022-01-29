@@ -26,6 +26,128 @@ main:
 ---
 <style>
 
+.box
+
+{
+
+position: relative;
+
+width: 300px;
+
+height: 400px;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+background: rgba(0, 0, 0, 5);
+
+overflow: hidden;
+
+border-radius: 20px;
+
+}
+
+.box::before
+
+{
+
+content: '';
+
+position: absolute;
+
+width: 150px;
+
+height:140%;
+
+background: linear-gradient(#00ccff,#d400d4);
+
+animation: animate 4s linear infinite;
+
+}
+
+.box::after
+
+{
+
+content: '';
+
+position: absolute;
+
+inset: 4px;
+
+background: #0e1538;
+
+border-radius: 16px;
+
+}
+
+@keyframes animate
+
+{
+
+0%{
+
+transform: rotate(0deg);
+
+}
+
+100%{
+
+transform: rotate(360deg);
+
+}
+
+
+
+}
+
+.box h2
+
+{
+
+position: relative;
+
+color: #fff;
+
+font-size: 3em;
+
+z-index: 10;
+
+}
+
+::-webkit-scrollbar{
+
+width: 10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+border-radius: 5px;
+
+box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+border-radius: 5px;
+
+background-color: #009578;
+
+}
+
+::-webkit-scrollbar-thumb :hover{
+
+background-color: #6dcdb1;
+
+}
+
+
+
 .avatar{
 
 width: 200px;
