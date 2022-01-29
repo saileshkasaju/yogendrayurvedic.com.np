@@ -180,7 +180,7 @@ top: px;
 
 right:100px;
 
-height:1750px;
+height:2250px;
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
@@ -250,7 +250,7 @@ z-index: 1;
 
 left: 0px;
 
-top: 2950px; 
+top: 3250px; 
 
 border-radius: 5%;
 
@@ -426,9 +426,6 @@ nerve</p>
 <img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
 
 <img src="https://www.yogendrayurvedic.com.np/img/nervous-system.jpg">
-
-
-
 
 <p class="MsoNormal" align="justify"><b>System</b>: digestive, respiratory, 
 circulatory, nervous</p>
