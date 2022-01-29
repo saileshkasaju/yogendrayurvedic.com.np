@@ -77,6 +77,8 @@ background-color: #6dcdb1;
 
 .avatar{
 
+left:50%;
+
 width: 200px;
 
 height: 200px;
