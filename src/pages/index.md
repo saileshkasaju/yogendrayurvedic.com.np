@@ -140,7 +140,7 @@ position: absolute;
 
 top: 50%;
 
-left: 20%;
+left: 50%;
 
 perspective: 1500px;
 
