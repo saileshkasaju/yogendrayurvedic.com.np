@@ -150,98 +150,6 @@ transform: rotateX(90deg) rotateY(90deg);
 
 }
 
-.box
-
-{
-left:-10%;
-position: relative;
-
-width: 300px;
-
-height: 400px;
-
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-background: rgba(0, 0, 0, 5);
-
-overflow: hidden;
-
-border-radius: 20px;
-
-}
-
-.box::before
-
-{
-
-content: '';
-
-position: absolute;
-
-width: 150px;
-
-height:140%;
-
-background: linear-gradient(#00ccff,#d400d4);
-
-animation: animate 4s linear infinite;
-
-}
-
-.box::after
-
-{
-
-content: '';
-
-position: absolute;
-
-inset: 4px;
-
-background: #0e1538;
-
-border-radius: 16px;
-
-}
-
-@keyframes animate
-
-{
-
-0%{
-
-transform: rotate(0deg);
-
-}
-
-100%{
-
-transform: rotate(360deg);
-
-}
-
-
-
-}
-
-.box h2
-
-{
-
-position: relative;
-
-color: #fff;
-
-font-size: 3em;
-
-z-index: 10;
-
-}
-
 ::-webkit-scrollbar{
 
 width: 10px;
@@ -432,12 +340,6 @@ position:static;
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
 
 </a>
-
-</div>
-
-<div class="box">
-
-<h2 >YOGENDRA <BR> AYURVEDA</h2>
 
 </div>
 
