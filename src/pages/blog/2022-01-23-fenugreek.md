@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 8 THINGS YOU MUST YOU MUST KNOW ABOUT FENUGREEK
+title: 8 THINGS YOU MUST KNOW ABOUT FENUGREEK
 date: 2022-01-23T07:01:44.252Z
 description: >+
   Fenugreek is good herbal food for convalescence and debility, particularly
