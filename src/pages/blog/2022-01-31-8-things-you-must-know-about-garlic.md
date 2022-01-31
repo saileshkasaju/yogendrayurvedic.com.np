@@ -250,7 +250,7 @@ z-index: 1;
 
 left: 0px;
 
-top: 3750px; 
+top: 3850px; 
 
 border-radius: 5%;
 
@@ -431,11 +431,7 @@ elements</p>
 
 <img src="https://www.yogendrayurvedic.com.np/img/typical-uterus-1537472938.jpg">
 
-
 <img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
-
-
-
 
 <p class="MsoNormal" align="justify"><b>System</b>: digestive, respiratory, 
 nervous, reproductive, circulatory </p>
