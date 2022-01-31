@@ -180,7 +180,7 @@ top: px;
 
 right:100px;
 
-height:2250px;
+height:2450px;
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
