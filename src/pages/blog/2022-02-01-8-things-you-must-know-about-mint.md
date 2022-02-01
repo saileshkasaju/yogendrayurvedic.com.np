@@ -9,6 +9,22 @@ tags:
   - HERB
 ---
 <style>
+.box
+
+{
+
+background-color: #5BBC55;
+
+box-sizing: border-box;
+
+border-radius: 50px;
+
+border: 5px solid white;
+
+overflow: hidden;
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+}
 
 
 
@@ -235,9 +251,9 @@ transform: translateY(0px);
 
 </div>
 
-<div class="box" style="left:50%">
+<div class="box">
 
-<h2  style="left:50%">YOGENDRA <BR> AYURVEDA</h2>
+<h2 align="center">YOGENDRA <BR> AYURVEDA</h2>
 
 </div>
 
