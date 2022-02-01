@@ -152,7 +152,7 @@ perspective: 1500px;
 
 transform: translateX(-200px) translateY(-200px) translateZ(200px);
 
-background: rgba(255,16,107,0.5);
+background: black;
 
 }
 
@@ -160,7 +160,7 @@ background: rgba(255,16,107,0.5);
 
 transform: translateX(-200px) translateY(-200px) translateZ(-200px);
 
-background: rgba(1,251,236,0.5);
+background: black;
 
 
 
@@ -170,7 +170,7 @@ background: rgba(1,251,236,0.5);
 
 transform: translateY(-200px) rotateY(90deg);
 
-background: rgba(4,255,116,0.5);
+background: black;
 
 }
 
@@ -178,7 +178,7 @@ background: rgba(4,255,116,0.5);
 
 transform: translatey(-200px) translateX(-400px) rotateY(90deg);
 
-background: rgba(216,255,0,0.5);
+background: black;
 
 }
 
@@ -186,7 +186,7 @@ background: rgba(216,255,0,0.5);
 
 transform: translateX(-200px) rotateX(90deg);
 
-background: rgba(255,30,0,0.5);
+background: black;
 
 }
 
@@ -194,7 +194,7 @@ background: rgba(255,30,0,0.5);
 
 transform: translateX(-200px) translateY(-400px) rotateX(90deg);
 
-background: rgba(0,6,246,0.5);
+background: black;
 
 }
 
