@@ -140,7 +140,7 @@ transform: translateY(0px);
 
 position: absolute;
 
-top: 55%;
+top: 62%;
 
 left: 50%;
 
