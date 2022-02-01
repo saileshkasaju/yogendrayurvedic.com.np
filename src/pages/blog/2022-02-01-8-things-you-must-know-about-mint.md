@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 40%;
+top: 22%;
 
 left: 50%;
 
@@ -367,5 +367,34 @@ transform: translateY(0px);
 	</tr>
 </table>
 <p class="MsoNormal" align="justify">&nbsp;</p>
+
+<table border="0" width="100%">
+	<tr>
+		<td bgcolor="#66FF99"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
+		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
+		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
+		consist all tastes except sour taste.</p>
+		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
+		astringent in its stem, saline at top of its stem, and sweet taste in 
+		its seeds.</td>
+	</tr>
+	<tr>
+		<td bgcolor="#99FFCC">
+
+<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
+		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
+		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
+		strengthening <i>agni</i> without increasing pittia, stopping cramping 
+		and dispelling flatulence.</span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#CCFFFF"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
+		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
+		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
+		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
+		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>
+		</td>
+	</tr>
+</table>
 
 </body>
