@@ -239,11 +239,9 @@ transform: translateY(0px);
 
 <div class="avatar">
 
-<a href="#">
+<a href="https://www.yogendrayurvedic.com.np">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
-
-</a>
 
 </div>
 
@@ -251,7 +249,9 @@ transform: translateY(0px);
 
 <div class="box">
 
-<h2 align="center">YOGENDRA <BR> AYURVEDA</h2>
+<h2 align="center">YOGENDRA <BR> AYURVEDA</h2></a>
+
+
 
 </div>
 
