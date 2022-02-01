@@ -235,7 +235,7 @@ transform: translateY(0px);
 
 <body>
 
-<div class="container" style="left:30%">
+<div class="container" style="left:20%">
 
 <div class="avatar">
 
