@@ -32,6 +32,8 @@ position: absolute;
 
 top: 30%;
 
+left: 50%;
+
 perspective: 1500px;
 
 }
