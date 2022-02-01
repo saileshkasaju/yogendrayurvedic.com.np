@@ -10,11 +10,13 @@ tags:
 ---
 <style>
 
+
+
 .wrapper{
 
 position: absolute;
 
-top: 50%;
+top: 30%;
 
 left: 50%;
 
@@ -140,9 +142,104 @@ background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2
 	font-size:11.0pt;
 		}
 
+.container{
+
+width: 100%;
+
+height: 100%;
+
+display: flex;
+
+flex-direction: column;
+
+
+}
+
+.avatar{
+
+width: 200px;
+
+height: 200px;
+
+background-color: #5BBC55;
+
+box-sizing: border-box;
+
+border-radius: 50%;
+
+border: 5px solid white;
+
+overflow: hidden;
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+animation: float 6s ease-in-out infinite;
+
+}
+
+img{
+
+width: 100%;
+
+height: auto;
+
+}
+
+@keyframes float{
+
+0%{
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+}
+
+50%{
+
+box-shadow: 0px 25px 15px 0px rgba(0, 0, 0, 0.2);
+
+transform: translateY(-20px);
+
+}
+
+100%{
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+}
+
+
+
 </style>
 
 <body>
+
+<div class="head">
+
+<div class="container">
+
+<div class="avatar">
+
+<a href="#">
+
+<img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
+
+</a>
+
+</div>
+
+<div class="box">
+
+<h2 >YOGENDRA <BR> AYURVEDA</h2>
+
+</div>
+
+
 
 <div class="wrapper">
 
@@ -168,38 +265,6 @@ background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
