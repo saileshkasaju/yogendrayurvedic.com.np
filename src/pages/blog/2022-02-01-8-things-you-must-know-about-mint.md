@@ -257,8 +257,6 @@ transform: translateY(0px);
 
 </div>
 
-</div>
-
 <div class="wrapper">
 
 <div class="b-area">
