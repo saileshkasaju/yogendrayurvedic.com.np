@@ -144,6 +144,8 @@ background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2
 
 .container{
 
+
+
 width: 100%;
 
 height: 100%;
@@ -219,9 +221,7 @@ transform: translateY(0px);
 
 <body>
 
-<div class="head">
-
-<div class="container">
+<div class="container" style="left:50%">
 
 <div class="avatar">
 
@@ -233,13 +233,15 @@ transform: translateY(0px);
 
 </div>
 
-<div class="box">
+</div>
 
-<h2 >YOGENDRA <BR> AYURVEDA</h2>
+<div class="box" style="left:50%">
+
+<h2  style="left:50%">YOGENDRA <BR> AYURVEDA</h2>
 
 </div>
 
-
+</div>
 
 <div class="wrapper">
 
