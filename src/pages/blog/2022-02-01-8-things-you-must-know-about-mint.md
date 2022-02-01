@@ -148,7 +148,7 @@ background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2
 
 <div class="b-area">
 
-<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/nervous-system.jpg"></a></div>
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/nervous-system.jpg" style="height:100%"></a></div>
 
 <div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
 
