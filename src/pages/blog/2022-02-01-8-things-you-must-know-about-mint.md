@@ -376,7 +376,7 @@ transform: translateY(0px);
 		consist all tastes except sour taste.</p>
 		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
 		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds.</a></td>
+		its seeds. MORE>></a></td>
 	</tr>
 	<tr>
 		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
@@ -385,14 +385,14 @@ transform: translateY(0px);
 		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
 		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
 		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span></a></td>
+		and dispelling flatulence.</span>MORE>></a></td>
 	</tr>
 	<tr>
 		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
 		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
 		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
 		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span></a>
+		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
 		</td>
 	</tr>
 </table>
