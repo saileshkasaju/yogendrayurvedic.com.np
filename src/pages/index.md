@@ -148,6 +148,57 @@ perspective: 1500px;
 
 }
 
+.b-front{
+
+transform: translateX(-200px) translateY(-200px) translateZ(200px);
+
+background: rgba(255,16,107,0.5);
+
+}
+
+.b-back{
+
+transform: translateX(-200px) translateY(-200px) translateZ(-200px);
+
+background: rgba(1,251,236,0.5);
+
+
+
+}
+
+.b-right{
+
+transform: translateY(-200px) rotateY(90deg);
+
+background: rgba(4,255,116,0.5);
+
+}
+
+.b-left{
+
+transform: translatey(-200px) translateX(-400px) rotateY(90deg);
+
+background: rgba(216,255,0,0.5);
+
+}
+
+.b-bottom{
+
+transform: translateX(-200px) rotateX(90deg);
+
+background: rgba(255,30,0,0.5);
+
+}
+
+.b-top{
+
+transform: translateX(-200px) translateY(-400px) rotateX(90deg);
+
+background: rgba(0,6,246,0.5);
+
+}
+
+
 .b-area{
 
 position: relative;
@@ -192,55 +243,7 @@ border: 2px solid #262626;
 
 }
 
-.b-front{
 
-transform: translateX(-100px) translateY(-100px) translateZ(100px);
-
-background: black;
-
-}
-
-.b-back{
-
-transform: translateX(-100px) translateY(-100px) translateZ(-100px);
-
-background: black;
-
-
-
-}
-
-.b-right{
-
-transform: translateY(-100px) rotateY(90deg);
-
-background:black;
-
-}
-
-.b-left{
-
-transform: translatey(-100px) translateX(-200px) rotateY(90deg);
-
-background: black;
-
-}
-
-.b-bottom{
-
-transform: translateX(-100px) rotateX(90deg);
-
-background: rgba(255,30,0,0.5);
-
-}
-
-.b-top{
-
-transform: translateX(-100px) translateY(-200px) rotateX(90deg);
-
-background: rgba(0,6,246,0.5);
-
-}
 
 .b-area{
 
