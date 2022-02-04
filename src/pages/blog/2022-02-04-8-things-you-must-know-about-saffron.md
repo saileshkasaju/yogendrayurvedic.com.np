@@ -304,16 +304,13 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-
-
-
-
-
 <p class="MsoNormal" align="justify">&nbsp;</p>
 <table border="0" width="100%">
 	<tr>
 		<td bgcolor="#006600">
-		<p align="justify"><font color="#FFFFFF" size="7">SAFFRON</font></td>
+		<p align="justify"><font color="#FFFFFF" size="7"><p class="MsoNormal">&nbsp;</p>
+
+SAFFRON</font></td>
 	</tr>
 	<tr>
 		<td bgcolor="#009933" height="59">
@@ -419,7 +416,5 @@ transform: translateY(0px);
 		</td>
 	</tr>
 </table>
-
-
 
 </body>
