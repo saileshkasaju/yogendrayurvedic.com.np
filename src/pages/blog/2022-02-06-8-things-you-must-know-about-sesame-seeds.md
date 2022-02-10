@@ -4,7 +4,7 @@ title: 8 THINGS YOU MUST KNOW ABOUT SESAME SEEDS
 date: 2022-02-06T10:43:16.421Z
 description: .
 featuredpost: true
-featuredimage: /img/sesame-seeds.jpg
+featuredimage: /img/sesame_seeds-removebg-preview.png
 tags:
   - herb
 ---
