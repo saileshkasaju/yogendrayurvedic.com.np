@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 22%;
+top: 25%;
 
 left: 50%;
 
@@ -306,8 +306,6 @@ transform: translateY(0px);
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
-
-
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 <table border="0" width="100%">
