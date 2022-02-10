@@ -4,7 +4,7 @@ title: 8 THINGS YOU MUST KNOW ABOUT TURMERIC
 date: 2022-02-06T10:48:03.591Z
 description: .
 featuredpost: true
-featuredimage: /img/turmeric.jpg
+featuredimage: /img/turmeric-removebg-preview.png
 tags:
   - herb
 ---
