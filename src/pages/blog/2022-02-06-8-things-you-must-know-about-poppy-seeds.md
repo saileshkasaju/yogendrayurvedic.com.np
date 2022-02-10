@@ -4,7 +4,7 @@ title: 8 THINGS YOU MUST KNOW ABOUT POPPY  SEEDS
 date: 2022-02-06T13:27:53.795Z
 description: .
 featuredpost: true
-featuredimage: /img/poppy-seeds.jpg
+featuredimage: /img/poppy__seeds-removebg-preview.png
 tags:
   - herbs
 ---
