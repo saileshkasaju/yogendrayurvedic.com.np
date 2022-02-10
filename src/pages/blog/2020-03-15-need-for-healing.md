@@ -2,18 +2,17 @@
 templateKey: blog-post
 title: Need For Healing
 date: 2020-03-15T14:21:00.000Z
-description: >-
-  Ayurveda is the art of daily living in harmony with the law of nature. It is
-  an ancient natural wisdom of health and healing, a science of healing, a
-  science of life. The aims and objective of this is to heal the disease of an
-  unhealthy person. Both prevention (maintenance of good health) and healing are
-  carried out by entirely natural means
+description: Ayurveda is the art of daily living in harmony with the law of
+  nature. It is an ancient natural wisdom of health and healing, a science of
+  healing, a science of life. The aims and objective of this is to heal the
+  disease of an unhealthy person. Both prevention (maintenance of good health)
+  and healing are carried out by entirely natural means
 featuredpost: true
 featuredimage: /img/apple-touch-icon.png
 tags:
   - ayu
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +54,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -313,9 +312,9 @@ tags:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -340,47 +339,25 @@ tags:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eRhJbYTyjtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 According to Ayurveda, health is a perfectstate of balance among the bodies three fundamental energy (ie.*dosha-vata, pitta, kapha*) and an equally vital balance among body, mind and the soul/consciousness. Ayurveda is a profound science of living that encompasses the whole of life and relates the life of the individual to the life of the universe .It is the holistic system of healing in the truest sense. Body mind and consciousness are in contrast interaction and relationship with other people and the environment in working to create health. Ayurvedatakes into consideration these different levels of life and there interconnectedness.
 
-
-
-
-
 As a science of self-healing, Ayurveda encompasses diet and nutrition, lifestyle and exericise, rest and relaxation, meditation and breathing exercise, and medical herbs, along the cleaning and rejuvenation program for healing body, mind and sprit. Numerous adjunct therapies such as sound, color and aromatherapymay also be employed. The purpose this page is to acquaint you with these natural methods, so you can make life choices and learn the self healing methods that are right for you to create, maintain or restore health and balance.
-
-
-
-
 
 Ayurveda is a Sanskrit word that means "the science of life and longevity." According to this science, every person is both a creation of cosmic energies and a unique phenomenon, a unique personality. Ayurveda teaches that we all have a constitution, which is our individual psychobiological make up. From the moment of conception this individual constitution is created by the universal energies of Space Air Fire Water and Earth.
 
-
-
-
-
 These five element combine into the three fundamental energies, or doshas. eather and air constitute *vata*, which is the energy of movement, fir and water constitute *pitta*, the principle of digestion or metabolism, the transformation of matter into energy. and the water and earth makes up *kapha*, the energy of structure and lubrication. when the male sperm and female egg join at the time of fertilization, the *vata pitta kapha* factors from the parents bodies that are most active and predominant at the moment, due to the season, the time, the emotional state, and the quality of their relationship, from a new individual with a particular constellation of qualities.
-
-
-
-
 
 In modern terms we speak of this blue print of the individual as our inherited genetic code, from ancient times Ayurveda has called it our prakruti or individual constitution, a constant factor that does not change throughout life. It is our own combination of phycial, mental, and emotional characteristics and predispositions.
 
-
-
-
-
 Through the underlying structure of our *prakruti* remains a fixed reality, our home base or essential individuality, it is constantly bombarded by numerous forces. Changes in age and in our external environment, alternating heat and cold as the season pass, our endlessly shifting thoughts, feelings, and emotions, and the quality and quantity of the food we eat continuously affect us. Unhealthy diet, excess stress, insufficient rest or exercise, and repressed emotions all disturb our *doshic* balance. Depending on the type of changes and individual's underlying constitution, various ailments may develop.
-
-
-
-
 
 Since some people experiencing increase or aggravation of *kapha*, leading to conditions such as cold, congestion, sneezing, and allergic manifestation, as well as attachment, greed and passiveness.
 
@@ -388,35 +365,15 @@ A *pitta* person may be highly critical, angry, or perfectionist, or may develop
 
 *Vata* manifestation may manifest as constipation, abdominal distention, sciatica, arthritis, or insomnia, along with psychological symptoms symptoms such as fear, anxiety, and insecurity.
 
-
-
-
-
 All these illness and conditions, in addition to the countless others that leads to human suffering, are due to alterations in the body's inner ecology. These upsets the individual's balance, creating subtle biochemistry changes that ultimately leads to disease this is why the Ayurvedic system of medicine speaks of the need for healing for every individual in every walk of life.
 
 As the internal and external conditions of our lives changers, if we are going to remain healthy we need to maintain equilibrium. Some of this adjusting takes place automatically due to the beautiful wisdom and intelligence with which our bodies have been designed But much demands conscious choice.
 
-
-
-
-
 To maintain to juggle the three *doshas*, taking action to increase or decrease *vata*, *pitta*, or *kapha* as conditions demands. This requires moment- to-moment healing.
-
-
-
-
 
 Thus healing-healthy, balanced, conscious living in the fullness of the present moment- is really a way of life. Ayurveda is not passive form of therapy but rather asks each individual to take responsibility for his or her own daily living. Through our diet, our relationship, our job, our numerous responsibility, and our daily life as a whole, we can take simple actions for prevention, self healing, wholeness, and growth towards fulfillment.
 
-
-
-
-
 According to Ayurveda, our life has a purpose. Simply stated, that purpose is to know or realize the creator (Cosmic Consciousness) and to understand our relationship with that , which will entirely influence our daily living. The great purpose is to be achieved by balancing four fundamental aspects of life: dharma, which is duty or right action; *artha*- material success or wealth ; *karma*, positive desire ; and *moksha*, spiritual liberation. these are called *purusharthas*, the four great aims or achievements in the life of any individual.
-
-
-
-
 
 To maintain dharma and to carry out our duties and responsibilities to ourselves and others, we must be healthy Likewise, in order to create affluence and achieve success in action, good health is indispensable. To have creative, positive desire, we need a healthy mind and consciousness, a healthy body, and healthy body, and a healthy perception. (Desire *kama*- is sometimes translated as sex and refers to progeny and family life, but it is really the positive energy or force of desire that generates and propels any creative work.) And *moksha* or spiritual liberation is the perfect harmony of body mind and consciousness/soul. Thus the whole possibility of achievement and fulfillment in life rests on good health.
 
