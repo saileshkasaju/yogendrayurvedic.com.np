@@ -4,7 +4,7 @@ title: 8 THINGS YOU MUST KNOW ABOUT AMLA
 date: 2022-02-06T13:08:39.623Z
 description: .
 featuredpost: true
-featuredimage: /img/amla.jpg
+featuredimage: /img/amla-removebg-preview.png
 tags:
   - herb
 ---
