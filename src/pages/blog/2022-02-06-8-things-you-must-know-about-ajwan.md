@@ -4,7 +4,7 @@ title: 8 THINGS YOU MUST KNOW ABOUT AJWAN
 date: 2022-02-06T12:56:02.042Z
 description: .
 featuredpost: true
-featuredimage: /img/ajwan.jpg
+featuredimage: /img/ajwan-removebg-preview.png
 tags:
   - herb
 ---
