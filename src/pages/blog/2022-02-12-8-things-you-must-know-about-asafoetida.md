@@ -262,7 +262,7 @@ transform: translateY(0px);
 
 <div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
 
-<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/nervous-system.jpg"  style="height:100%"></div>
+<div class="b b-back"><img src="blob:https://www.yogendrayurvedic.com.np/df5966c1-9ebd-42d2-be18-4d314eb8b672"  style="height:100%"></div>
 
 <div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
 
@@ -317,7 +317,7 @@ border-radius:10px;">
 		<p class="MsoNormal" align="justify"><b>Energetics</b>: 
 		pungent/heating/pungent</p>
 		<p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VK-P+</p>
-		<p class="MsoNormal" align="justify">&nbsp;<b>Tissues</b>: plasma, blood, 
+		<p class="MsoNormal" align="justify"><img src="blob:https://www.yogendrayurvedic.com.np/fa5d658b-b838-4ed1-958d-038370a1aa76">&nbsp;<b>Tissues</b>: plasma, blood, 
 		muscle, bone, marrow and nerves</p>
 		<p class="MsoNormal" align="justify"><b>System</b>: digestive, nervous, 
 		respiratory, execratory, circulatory</p>
