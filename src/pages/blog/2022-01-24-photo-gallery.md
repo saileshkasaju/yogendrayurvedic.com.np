@@ -10,6 +10,14 @@ tags:
 ---
 ![](/img/aloe-vera-plant-1522874831.jpg)
 
+![](/img/circulatory_system-removebg-preview.png)
+
+![](/img/respiratory-removebg-preview.png)
+
+![](/img/the-urinary-system-removebg-preview-1-.png)
+
+![](/img/nervous_system-removebg-preview.png)
+
 ![](/img/new-adobe-photoshop-image.jpg)
 
 ![](/img/nervous-system.jpg)
