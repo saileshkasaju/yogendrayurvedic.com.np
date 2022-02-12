@@ -263,7 +263,7 @@ transform: translateY(0px);
 
 <div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg"  style="height:100%"></div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/typical-uterus-1537472938.jpg"></div>
 
 <div class="b b-top"></div>
 
