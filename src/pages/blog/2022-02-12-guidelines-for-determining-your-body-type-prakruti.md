@@ -8,6 +8,7 @@ featuredimage: /img/_paste_1598433641256.png
 tags:
   - PRAKRUTI
 ---
+
 <style>
 .box
 
@@ -242,7 +243,7 @@ transform: translateY(0px);
 <a href="https://www.yogendrayurvedic.com.np">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
-
+</a>
 </div>
 
 </div>

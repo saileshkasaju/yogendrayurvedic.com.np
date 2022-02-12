@@ -13,7 +13,14 @@ module.exports = {
         trackingId: 'UA-160411167-1',
       },
     },
-    'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        sassOptions: {
+          indentedSyntax: true,
+        },
+      },
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -29,7 +36,6 @@ module.exports = {
         name: 'pages',
       },
     },
-    `gatsby-plugin-advanced-sitemap`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -37,6 +43,7 @@ module.exports = {
         name: 'images',
       },
     },
+    `gatsby-plugin-image`,
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {

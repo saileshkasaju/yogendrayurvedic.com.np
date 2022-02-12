@@ -4,6 +4,8 @@
 // Kaldi logo brand color: #FD461E
 $kaldi-green: #58B856
 $kaldi-green-invert: #D49EC2
+$kaldi-red: #D64000
+$kaldi-red-invert: #fff
 
 $primary: $kaldi-green
 $primary-invert: $kaldi-green-invert
@@ -15,9 +17,10 @@ $light-blue: #9AD5E0
 $blue: #75C2AE
 $red: #A88E96
 $link: $blue
+$black: #2b2523
 
 .navbar .navbar-menu
-  box-shadow:none !important
+  box-shadow: none !important
 
 .content .taglist
   list-style: none
@@ -120,13 +123,13 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #D29DC1;
+  background-color: #D29DC1
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 
 @import "~bulma"
@@ -135,12 +138,12 @@ $menu-label-color: $white-ter
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
