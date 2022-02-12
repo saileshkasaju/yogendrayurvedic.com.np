@@ -8,280 +8,157 @@ featuredimage: /img/cardamom.jpg
 tags:
   - HERB
 ---
-<html>
-
-<head>
-
-<title>New Page 1</title>
-
-</head>
-
 <style>
-
-\*
-
-{
-
-margin: 0;
-
-padding: 0;
-
-box-sizing: border-box;
-
-
-
-}
-
 .box
 
 {
 
-position: relative;
+background-color: #5BBC55;
 
-width: 300px;
+box-sizing: border-box;
 
-height: 400px;
+border-radius: 50px;
 
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-background: rgba(0, 0, 0, 5);
+border: 5px solid white;
 
 overflow: hidden;
 
-border-radius: 20px;
-
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 }
 
-.box::before
-
-{
-
-content: '';
+.wrapper{
 
 position: absolute;
 
-width: 150px;
+top: 45%;
 
-height:140%;
+left: 50%;
 
-background: linear-gradient(#00ccff,#d400d4);
-
-animation: animate 4s linear infinite;
+perspective: 1500px;
 
 }
 
-.box::after
+.b-area{
 
-{
+position: relative;
 
-content: '';
+transform-style: preserve-3d;
 
-position: absolute;
+animation-name: rotate;
 
-inset: 4px;
+animation-duration: 30s;
 
-background: #0e1538;
+animation-timing-function: linear;
 
-border-radius: 16px;
+animation-iteration-count: infinite;
 
 }
 
-@keyframes animate
-
-{
+@keyframes rotate{
 
 0%{
 
-transform: rotate(0deg);
+transform: rotate3d(0,0,0,0);
 
 }
 
 100%{
 
-transform: rotate(360deg);
+transform: rotate3d(0,1,0,360deg);
 
 }
 
-
-
 }
 
-.box h2
-
-{
-
-position: relative;
-
-color: #fff;
-
-font-size: 3em;
-
-z-index: 10;
-
-}
-
-::-webkit-scrollbar{
-
-width: 10px;
-
-}
-
-::-webkit-scrollbar-track{
-
-border-radius: 5px;
-
-box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
-
-}
-
-::-webkit-scrollbar-thumb {
-
-border-radius: 5px;
-
-background-color: #009578;
-
-}
-
-::-webkit-scrollbar-thumb :hover{
-
-background-color: #6dcdb1;
-
-}
-
-
-
-
-
-.topic{
-
-
+.b{
 
 position: absolute;
 
+width: 200px;
+
+height: 200px;
+
+border: 2px solid #262626;
+
+}
+
+.b-front{
+
+transform: translateX(-100px) translateY(-100px) translateZ(100px);
+
+background: black;
+
+}
+
+.b-back{
+
+transform: translateX(-100px) translateY(-100px) translateZ(-100px);
+
+background: black;
 
 
-width: 360px;
 
+}
 
+.b-right{
 
-z-index: 2;
+transform: translateY(-100px) rotateY(90deg);
 
-left: 1px;
+background:black;
 
+}
 
+.b-left{
 
-top: px;
+transform: translatey(-100px) translateX(-200px) rotateY(90deg);
 
+background: black;
 
+}
 
-right:100px;
+.b-bottom{
 
-height:2450px;
+transform: translateX(-100px) rotateX(90deg);
+
+background: rgba(255,30,0,0.5);
+
+}
+
+.b-top{
+
+transform: translateX(-100px) translateY(-200px) rotateX(90deg);
+
+background: rgba(0,6,246,0.5);
+
+}
+
+.b-area{
+
+transform: rotateX(90deg) rotateY(90deg);
+
+}
+
+body{
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
-border-radius: 12PX;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
 }
 
 
 
-.subscribe {
-
-
-
-position: absolute;
-
-
-
-width: 100px;
-
-
-
-height: 63px;
-
-
-
-z-index: 1;
-
-
-
-left: 427px;
-
-top: 19px; border-radius: 20%;
-
-background-color:#008000;
-
-}
-
-.old{
-
-position: absolute;
-
-width: 360px;
-
-height: 373px;
-
-z-index: 1;
-
-left: 0px;
-
-top: 3450px; 
-
-border-radius: 5%;
-
-background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
-
-border-radius: 2%;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
-
-}
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+		}
 
 .container{
+
+
 
 width: 100%;
 
@@ -352,204 +229,114 @@ transform: translateY(0px);
 
 }
 
-}
 
-.content{
-
-width: 100%;
-
-max-width: 600px;
-
-padding: 20px 40px;
-
-box-sizing: border-box;
-
-}
-
-body,html{
-
-height: 100%;
-
-margin: 0px;
-
-padding: 0px;
-
-background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
-
-position:static;
-
-}
 
 </style>
 
 <body>
 
-<div class="head">
-
-<div class="container">
+<div class="container" style="left:20%">
 
 <div class="avatar">
 
-<a href="#">
+<a href="https://www.yogendrayurvedic.com.np">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
 
-</a>
+</div>
 
 </div>
 
 <div class="box">
 
-<h2 >YOGENDRA <BR> AYURVEDA</h2>
+<h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
+
+</div>
+
+<div class="wrapper">
+
+<div class="b-area">
+
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
+
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
+
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg"  style="height:100%"></div>
+
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
+
+<div class="b b-top"></div>
+
+<div class="b b-bottom"></div>
 
 </div>
 
 </div>
 
-<div class="topic">
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
 
-<body>
-
-<p class="MsoNormal" align="justify"><font size="7">CARDAMOM</font></p>
-<p class="MsoNormal" align="justify"><i>(S) Ela</i></p>
-<p class="MsoNormal" align="justify"><b>Part</b> <b>Used</b>: seed</p>
-<p class="MsoNormal" align="justify"><b>Energetics</b>: pungent, 
-sweet/heating/pungent</p>
-<p class="MsoNormal" align="justify"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VK- P+</i></p>
-<p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, blood, marrow and 
-nerve</p>
-
-<img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
-
-<img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg">
-
-<img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
-
-<img src="https://www.yogendrayurvedic.com.np/img/nervous-system.jpg">
-
-<p class="MsoNormal" align="justify"><b>System</b>: digestive, respiratory, 
-circulatory, nervous</p>
-<p class="MsoNormal" align="justify"><b>Action</b>: stimulant, expectorant, 
-carminative, stomachic, diaphoretic</p>
-<p class="MsoNormal" align="justify"><b>Indication</b>: colds, cough, 
-bronchitis, asthma, hoarse voice, loss of taste, poor absorption, indigestion</p>
-<p class="MsoNormal" align="justify"><b>Precautions</b>: ulcers, high <i>pitta</i></p>
-<p class="MsoNormal" align="justify"><b>Preparation</b>: Infusion (do not boil), 
-powder (100-500mg), milk decoction</p>
-<p class="MsoNormal" align="justify">CARDAMOM is of the best and safest 
-digestive stimulants. It awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, 
-enkindles <i>Agni</i> and removes <i>kapha</i> from the stomach and the lungs. 
-It stimulates the mind and heart and gives clarity and joy. Added with milk it 
-neutralizes its mucus forming properties and it detoxifies caffeine in coffee. 
-Its quality is <i>sattvic</i> and it is particularly good for opening and 
-soothing the flow of the <i>pranas</i> in the body.</p>
-<p class="MsoNormal" align="justify">Cardamom is good for the nervous digestion 
-upset of children or of high <i>vata</i> and in this regard combines well with 
-fennel. It helps stop vomiting, belching, or acid regurgitation. </p>
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-</body>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-</div>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<div class="old"><h3>ALOE VERA</h3>
+<p class="MsoNormal" align="justify">&nbsp;</p>
+<body>
 
-<a href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/" style="color:black"><img src="https://www.yogendrayurvedic.com.np/static/5f117223bcd128c16614c758380a50f1/26852/aloe-vera-plant-1522874831.jpg"/>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<p>Aloe gel is wonderful tonic for liver and spleen, for the blood and the female reproductive...<br>
-
-more>><a/></p>
-
-</div>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br>
-
-<br>
-
-<br>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
+	<tr>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
+		<p class="MsoNormal"><font size="7" color="#FFFFFF">CARDAMOM</font></td>
+	</tr>
+	<tr>
+		<td>
+		<p class="MsoNormal">&nbsp;</p>
+		<p class="MsoNormal">(S) <i>Ela</i></p>
+		<p class="MsoNormal"><b>Part</b> <b>Used</b>: seed</p>
+		<p class="MsoNormal"><b>Energetics</b>: pungent, sweet/heating/pungent</p>
+		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;&nbsp; VK- P+</i></p>
+		<p class="MsoNormal"><b>Tissues</b>: plasma, blood, marrow and nerve</p>
+		<p class="MsoNormal"><b>System</b>: digestive, respiratory, circulatory, 
+		nervous</p>
+		<p class="MsoNormal"><b>Action</b>: stimulant, expectorant, carminative, 
+		stomachic, diaphoretic</p>
+		<p class="MsoNormal"><b>Indication</b>: colds, cough, bronchitis, 
+		asthma, hoarse voice, loss of taste, poor absorption, indigestion</p>
+		<p class="MsoNormal"><b>Precautions</b>: ulcers, high <i>pitta</i></p>
+		<p class="MsoNormal"><b>Preparation</b>: Infusion (do not boil), powder 
+		(100-500mg), milk decoction</p>
+		<p class="MsoNormal">CARDAMOM is of the best and safest digestive 
+		stimulants. It awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, 
+		enkindles <i>Agni</i> and removes <i>kapha</i> from the stomach and the 
+		lungs. It stimulates the mind and heart and gives clarity and joy. Added 
+		with milk it neutralizes its mucus forming properties and it detoxifies 
+		caffeine in coffee. Its quality is <i>sattvic</i> and it is particularly 
+		good for opening and soothing the flow of the <i>pranas</i> in the body.</p>
+		<p class="MsoNormal">Cardamom is good for the nervous digestion upset of 
+		children or of high <i>vata</i> and in this regard combines well with 
+		fennel. It helps stop vomiting, belching, or acid regurgitation. </p>
+		<p class="MsoNormal">&nbsp;</p>
+		<p>&nbsp;</td>
+	</tr>
+	</table>
 
 </body>
-
-</html>
