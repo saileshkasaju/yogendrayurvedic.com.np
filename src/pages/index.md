@@ -286,7 +286,7 @@ transform: rotateX(90deg) rotateY(90deg);
 
 <div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg"></div>
 
-<div class="b b-top"></div>
+<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/static/372070c441b869d070570aa38b3f7ceb/2f1b1/pomegranate.jpg"></div>
 
 <div class="b b-bottom"></div>
 
@@ -414,6 +414,9 @@ border-radius:10px;">
 			<p>
 			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-style: italic; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-08-anger-and-hostility/">
 			<font size="4" color="#000000">ANGER AND HOSTILITY</font></a></p>
+			<p>
+			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/">
+			<font color="#000000" size="4">FEVER</font></a></p>
 		</blockquote>
 		<p>&nbsp;</td>
 	</tr>
