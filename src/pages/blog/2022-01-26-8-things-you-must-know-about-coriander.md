@@ -8,254 +8,157 @@ featuredimage: /img/coriander-cilantro-seeds-herb-1200x628-facebook.jpg
 tags:
   - HERBS
 ---
-<html>
-
-<head>
-
-<title>New Page 1</title>
-
-</head>
-
 <style>
-
-\*
-
-{
-
-margin: 0;
-
-padding: 0;
-
-box-sizing: border-box;
-
-
-
-}
-
 .box
 
 {
 
-position: relative;
+background-color: #5BBC55;
 
-width: 300px;
+box-sizing: border-box;
 
-height: 400px;
+border-radius: 50px;
 
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-background: rgba(0, 0, 0, 5);
+border: 5px solid white;
 
 overflow: hidden;
 
-border-radius: 20px;
-
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 }
 
-.box::before
-
-{
-
-content: '';
+.wrapper{
 
 position: absolute;
 
-width: 150px;
+top: 45%;
 
-height:140%;
+left: 50%;
 
-background: linear-gradient(#00ccff,#d400d4);
-
-animation: animate 4s linear infinite;
+perspective: 1500px;
 
 }
 
-.box::after
+.b-area{
 
-{
+position: relative;
 
-content: '';
+transform-style: preserve-3d;
 
-position: absolute;
+animation-name: rotate;
 
-inset: 4px;
+animation-duration: 30s;
 
-background: #0e1538;
+animation-timing-function: linear;
 
-border-radius: 16px;
+animation-iteration-count: infinite;
 
 }
 
-@keyframes animate
-
-{
+@keyframes rotate{
 
 0%{
 
-transform: rotate(0deg);
+transform: rotate3d(0,0,0,0);
 
 }
 
 100%{
 
-transform: rotate(360deg);
+transform: rotate3d(0,1,0,360deg);
 
 }
 
-
-
 }
 
-.box h2
-
-{
-
-position: relative;
-
-color: #fff;
-
-font-size: 3em;
-
-z-index: 10;
-
-}
-
-::-webkit-scrollbar{
-
-width: 10px;
-
-}
-
-::-webkit-scrollbar-track{
-
-border-radius: 5px;
-
-box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
-
-}
-
-::-webkit-scrollbar-thumb {
-
-border-radius: 5px;
-
-background-color: #009578;
-
-}
-
-::-webkit-scrollbar-thumb :hover{
-
-background-color: #6dcdb1;
-
-}
-
-
-
-
-
-.topic{
-
-
+.b{
 
 position: absolute;
 
+width: 200px;
 
+height: 200px;
 
-width: 360px;
+border: 2px solid #262626;
 
+}
 
+.b-front{
 
-z-index: 2;
+transform: translateX(-100px) translateY(-100px) translateZ(100px);
 
-left: 1px;
+background: black;
 
+}
 
+.b-back{
 
-top: px;
+transform: translateX(-100px) translateY(-100px) translateZ(-100px);
 
-
-
-right:100px;
-
-height:2500px;
-
-background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
-
-border-radius: 15px;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
+background: black;
 
 
 
 }
 
+.b-right{
 
+transform: translateY(-100px) rotateY(90deg);
 
+background:black;
 
+}
 
-.old{
+.b-left{
 
-position: absolute;
+transform: translatey(-100px) translateX(-200px) rotateY(90deg);
 
-width: 360px;
+background: black;
 
-height: 373px;
+}
 
-z-index: 1;
+.b-bottom{
 
-left: 0px;
+transform: translateX(-100px) rotateX(90deg);
 
-top: 3500px; 
+background: rgba(255,30,0,0.5);
 
-border-radius: 5%;
+}
+
+.b-top{
+
+transform: translateX(-100px) translateY(-200px) rotateX(90deg);
+
+background: rgba(0,6,246,0.5);
+
+}
+
+.b-area{
+
+transform: rotateX(90deg) rotateY(90deg);
+
+}
+
+body{
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
-border-radius: 2%;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
-
 }
+
+
+
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+		}
 
 .container{
+
+
 
 width: 100%;
 
@@ -326,114 +229,116 @@ transform: translateY(0px);
 
 }
 
-}
 
-.content{
-
-width: 100%;
-
-max-width: 600px;
-
-padding: 20px 40px;
-
-box-sizing: border-box;
-
-}
-
-body,html{
-
-height: 100%;
-
-margin: 0px;
-
-padding: 0px;
-
-background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
-
-position:static;
-
-}
 
 </style>
 
 <body>
 
-<div class="container">
+<div class="container" style="left:20%">
 
 <div class="avatar">
 
-<a href="#">
+<a href="https://www.yogendrayurvedic.com.np">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
 
-</a>
+</div>
 
 </div>
 
 <div class="box">
 
-<h2 >YOGENDRA <BR> AYURVEDA</h2>
+<h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
+
+</div>
+
+<div class="wrapper">
+
+<div class="b-area">
+
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
+
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
+
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg"  style="height:100%"></div>
+
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
+
+<div class="b b-top"></div>
+
+<div class="b b-bottom"></div>
 
 </div>
 
 </div>
 
-<div class="topic">
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
 
-<p class="MsoNormal" align="justify"><font size="7">Coriander</font></p>
-<p class="MsoNormal" align="justify">(S) <i>Dhanyaka</i></p>
-<p class="MsoNormal" align="justify"><b>Part</b> <b>Used</b>: Fruit, fresh plant</p>
-<p class="MsoNormal" align="justify"><b>Energetics</b>: Bitter, 
-pungent/cooling/pungent</p>
-<p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VPK=</p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<IMG src="https://www.yogendrayurvedic.com.np/img/red-blood-cells.jpg/">
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<IMG src="https://www.yogendrayurvedic.com.np/img/human-shoulder-muscles-777x777.jpg">
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, blood, muscle</p>
-<p class="MsoNormal" align="justify"><b>Systems</b>: digestive, respiratory, 
-urinary</p>
-<p class="MsoNormal" align="justify"><b>Actions</b>: alterative, diaphoretic, 
-diuretic, carminative, stimulant</p><IMG src="https://www.yogendrayurvedic.com.np/img/typical-uterus-1537472938.jpg">
+<p class="MsoNormal" align="justify">&nbsp;</p>
+<body>
 
-<IMG src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<IMG src="https://www.yogendrayurvedic.com.np/img/80480272.jpg">
-<p class="MsoNormal" align="justify"><b>Indication</b>: burning urethra, 
-cystitis, urinary track infection, urticaria, rash, burns, sore throat, 
-vomiting, indigestion, allergies, hay fever</p>
-<p class="MsoNormal" align="justify"><b>Precautions</b>: few, except high vata 
-with nerve tissue deficiency</p>
-<p class="MsoNormal" align="justify"><b>Preparation</b>: infusion (hot or cold), 
-powder(250 to 500mg), fresh juice</p>
-<p class="MsoNormal" align="justify">Coriander seeds are a good household remedy 
-for many pitta disorders, particularly those of the digestive track or urinary 
-system. It is an effective digestive agent for pitta conditions in which most 
-spices are contraindicated or used with caution. The fresh juice of the herb is 
-effective internally for allergies, hay fever and skin rashes; one teaspoon 
-three times a day, but it can also be used for external itch and inflammation.</p>
-<p class="MsoNormal" align="justify">Similar in properties is cumin, which is 
-antidote for hot, pungent food. It increases digestion and absorption, and is 
-good for diarrhea and dysentery. Coriander, cumin and fennel seeds are related 
-plants with similar properties. &nbsp;</p></DIV>
-
-<div class="old"><h3>ALOE VERA</h3>
-
-<a href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/" style="color:black"><img src="https://www.yogendrayurvedic.com.np/static/5f117223bcd128c16614c758380a50f1/26852/aloe-vera-plant-1522874831.jpg"/>
-
-<p>Aloe gel is wonderful tonic for liver and spleen, for the blood and the female reproductive...<br>
-
-more>><a/></p>
-
-</div>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
+	<tr>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
+		<p class="MsoNormal"><font size="7" color="#FFFFFF">Coriander</font></td>
+	</tr>
+	<tr>
+		<td>
+		<p class="MsoNormal">&nbsp;</p>
+		<p class="MsoNormal">(S) <i>Dhanyaka</i></p>
+		<p class="MsoNormal"><b>Part</b> <b>Used</b>: Fruit, fresh plant</p>
+		<p class="MsoNormal"><b>Energetics</b>: Bitter, pungent/cooling/pungent</p>
+		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>&nbsp; VPK=</i></p>
+		<p class="MsoNormal"><b>Tissues</b>: plasma, blood, muscle</p>
+		<p class="MsoNormal"><b>Systems</b>: digestive, respiratory, urinary</p>
+		<p class="MsoNormal"><b>Actions</b>: alterative, diaphoretic, diuretic, 
+		carminative, stimulant</p>
+		<p class="MsoNormal"><b>Indication</b>: burning urethra, cystitis, 
+		urinary track infection, urticaria, rash, burns, sore throat, vomiting, 
+		indigestion, allergies, hay fever</p>
+		<p class="MsoNormal"><b>Precautions</b>: few, except high <i>vata</i> 
+		with nerve tissue deficiency</p>
+		<p class="MsoNormal"><b>Preparation</b>: infusion (hot or cold), 
+		powder(250 to 500mg), fresh juice</p>
+		<p class="MsoNormal">Coriander seeds are a good household remedy for 
+		many <i>pitta</i> disorders, particularly those of the digestive track 
+		or urinary system. It is an effective digestive agent for pitta 
+		conditions in which most spices are contraindicated or used with 
+		caution. The fresh juice of the herb is effective internally for 
+		allergies, hay fever and skin rashes; one teaspoon three times a day, 
+		but it can also be used for external itch and inflammation.</p>
+		<p class="MsoNormal">Similar in properties is cumin, which is antidote 
+		for hot, pungent food. It increases digestion and absorption, and is 
+		good for diarrhea and dysentery. Coriander, cumin and fennel seeds are 
+		related plants with similar properties.&nbsp; </p>
+		<p class="MsoNormal">&nbsp;</p>
+		<p>&nbsp;</td>
+	</tr>
+	</table>
 
 </body>
-
-</html>
