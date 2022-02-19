@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 30%;
+top: 21%;
 
 left: 50%;
 
@@ -251,8 +251,6 @@ transform: translateY(0px);
 
 <h2 align="center">YOGENDRA <BR> AYURVEDA</h2></a>
 
-
-
 </div>
 
 <div class="wrapper">
@@ -291,110 +289,303 @@ transform: translateY(0px);
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
 
-<table border="0" width="100%" >
-	<tr>
-		<td bgcolor="#003300">
-		<p class="MsoNormal">&nbsp;</p>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<p class="MsoNormal">&nbsp;</p>
 		<p class="MsoNormal"><font size="7" color="#FFFFFF">MINT</font></p>
 		<p class="MsoNormal">&nbsp;</td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal">(<b>S</b>) <i>Pudina</i></td>
-	</tr>
-	<tr>
-		<td bgcolor="#33CC33">
-		<p class="MsoNormal"><b>Part</b> <b>Used</b>: herb</td>
-	</tr>
-	<tr>
-		<td bgcolor="#66FF66">
-		<p class="MsoNormal"><b>Energetics</b>: Pungent/cooling(slightly)/pungent</p>
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PK- V+(in excess)</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FF99">
-		<p class="MsoNormal"><b>Tissue</b>: plasma, blood, marrow and nerves</td>
-	</tr>
-	<tr>
-		<td bgcolor="#66FF99">
-		<p class="MsoNormal"><b>Systems</b>: respiratory, digestive, nervous, 
-		circulatory</td>
-	</tr>
-	<tr>
-		<td bgcolor="#00FF00">
-		<p class="MsoNormal"><b>Actions</b>: stimulant, diaphoretic, 
-		carminative, nervine, analgesic</td>
-	</tr>
-	<tr>
-		<td bgcolor="#00CC00">
-		<p class="MsoNormal"><b>Indications</b>: colds, fever, sore throat, 
-		laryngitis, earache, digestive upset, nervous agitation, headache, 
-		dysmenorrhea </td>
-	</tr>
-	<tr>
-		<td bgcolor="#006600">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Precautions</b>: severe 
-		chills, neurasthenia</font></td>
-	</tr>
-	<tr>
-		<td bgcolor="#339933">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Preparation</b>: infusion 
-		(do not boil), powder (250 to 500mg)</font></td>
-	</tr>
-	<tr>
-		<td bgcolor="#00CC66">
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF">The three 
-		mints, PEPPERMINT, SPEARMINT and HORSEMINT have a mild soothing action 
-		on the nerves and digestion, which helps relax the body and clear the 
-		mind and senses.</font></p>
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF">They are mild 
-		cooling and diaphoretics for common colds and flues and their 
-		complications. Peppermint is the most stimulating and the best one to 
-		improve digestion. Spearmint is more relaxing and better in diuretic 
-		action (<i>ie</i>. for urinary inflammation). Horsemint has stronger 
-		antispasmodic properties, as for difficult menstruation. Other mints 
-		like catnip have similar properties, but not all mints are cooling. 
-		Some, like thyme, are heating. But most are not excessively heating or 
-		cooling.</font></p>
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF">Mints contain 
-		large amounts of the element of ether, whose action is soothing, 
-		cooling, clarifying and expanding. Through their ethereal nature they 
-		help relieve mental and emotional tension and congestion. Their nature 
-		is <i>satvic</i>. their action on the body is mild and not strong enough 
-		for acute or severe aliments. They are usually used with other herbs in 
-		an auxiliary role as harmonizing agents or as <i>anupanas</i>.</font></p>
+		<td>
+		<p class="MsoNormal">&nbsp;<p class="MsoNormal"><font size="4">(<b>S</b>) 
+		</font> <i><font size="4">Pudina</font></i><p class="MsoNormal"><b>
+		<font size="4">Part</font></b><font size="4"> <b>Used</b>: </font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">herb</font></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">Pungent/cooling(slightly)/pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">PK- V+(in excess)</font></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Tissue</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">marrow</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nerves</font></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory</font></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diaphoretic</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervine</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">analgesic</font></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">colds</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">fever</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sore throat</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">laryngitis</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">earache</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive upset</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous agitation</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">headache</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dysmenorrhea </font></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">severe 
+		chills</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">neurasthenia</font></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion 
+		(do not boil)</font></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 to 500mg)</font></li>
+		</ul>
+		<p class="MsoNormal">&nbsp;</p>
+		<ul>
+			<li>
+			<address align="justify"><font size="4">The three 
+		mints,</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">&nbsp;PEPPERMINT</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">SPEARMINT</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">HORSEMINT </font>
+				</address></li>
+			</ul>
+			<address align="justify"><font size="4">have a mild soothing action 
+		on </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">nerves and </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">digestion</font></address>
+				</li>
+			</ul>
+			<address align="justify"><font size="4">which helps relax the </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">body </font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">clear the 
+		mind and </font></address></li>
+				<li>
+				<address align="justify"><font size="4">senses.</font></address>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">They are mild 
+		</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">cooling and </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">diaphoretics </font>
+				</address></li>
+			</ul>
+			<address align="justify"><font size="4">for </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">common colds </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">flues and their 
+		complications. </font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">Peppermint is </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">most stimulating </font>
+				</address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">&nbsp;the best one to 
+		improve digestion. </font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">Spearmint is </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">more relaxing </font>
+				</address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">better in diuretic 
+		action (<i>ie</i>. for urinary inflammation). </font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">Horsemint has </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">stronger 
+		antispasmodic properties, as </font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">for difficult menstruation
+					</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">Other mints 
+		like </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">catnip </font></address>
+				</li>
+			</ul>
+			<address align="justify"><font size="4">have similar properties, 
+			</font></address></li>
+			<li>
+			<address align="justify"><font size="4">Not all mints are cooling. 
+		Some, like </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">thyme</font></address>
+				</li>
+			</ul>
+			<address align="justify"><font size="4">are heating.</font></address>
+			<address align="justify"><font size="4">But most are not excessively heating or 
+		cooling.</font></address></li>
+			<li>
+			<address align="justify"><font size="4">Mints contain 
+		large amounts of </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">element of ether, whose action is 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">soothing</font></address>
+					</li>
+					<li>
+					<address align="justify"><font size="4">cooling</font></address>
+					</li>
+					<li>
+					<address align="justify"><font size="4">clarifying and 
+					</font></address></li>
+					<li>
+					<address align="justify"><font size="4">expanding. </font>
+					</address></li>
+				</ul>
+				</li>
+				<li>
+				<address align="justify"><font size="4">Through their ethereal nature they 
+		help relieve </font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">mental tension
+					</font></address></li>
+					<li>
+					<address align="justify"><font size="4">emotional tension and 
+					</font></address></li>
+					<li>
+					<address align="justify"><font size="4">congestion. </font>
+					</address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">Their nature 
+		is <i>satvic</i>. </font></address></li>
+			<li>
+			<address align="justify"><font size="4">their action on the body is mild 
+			</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">not strong enough 
+		for</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">&nbsp;acute </font>
+					</address></li>
+					<li>
+					<address align="justify"><font size="4">severe aliments. 
+					</font></address></li>
+				</ul>
+				<address align="justify"><font size="4">They are usually used with other herbs in 
+		an auxiliary role as harmonizing agents or as <i>anupanas</i>.</font></address>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p align="justify">&nbsp;</td>
 	</tr>
-</table>
+	</table>
 <p class="MsoNormal" align="justify">&nbsp;</p>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-
-</body>
