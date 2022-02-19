@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 26%;
+top: 27%;
 
 left: 50%;
 
