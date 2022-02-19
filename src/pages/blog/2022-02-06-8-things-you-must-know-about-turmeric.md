@@ -8,8 +8,6 @@ featuredimage: /img/turmeric-removebg-preview.png
 tags:
   - herb
 ---
-
-
 <style>
 .box
 
@@ -308,120 +306,238 @@ transform: translateY(0px);
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
-<table border="0" width="100%">
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">	
 	<tr>
-		<td bgcolor="#006600">
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
 		<p class="MsoNormal" align="justify">&nbsp;</p>
 		<p class="MsoNormal" align="justify"><font color="#FFFFFF" size="7">
 		TURMERIC</font></p>
 &nbsp;</td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF">(S)&nbsp; <i>
-		Haridra</i></font></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900" height="21">
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF"><b>Part</b>
-		<b>Used</b>: rhizome</font></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal" align="justify">&nbsp;</p>
-		<p class="MsoNormal" align="justify">Energetics: bitter, astringent, 
-		pungent/heating/pungent</p>
-		<p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;&nbsp; K-PV+(in excess)</i></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal" align="justify"><b>Tissues</b>: works on all 
-		tissue-element in the body</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal" align="justify"><b>Systems</b>: digestive, 
-		circulatory, respiratory </p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal" align="justify"><b>Actions</b>: stimulant, 
-		carminative, alterative, vulnerary, antibacterial</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal" align="justify"><b>Indications</b>: indigestion, 
+		<td>
+		<p class="MsoNormal" align="justify"><font size="4">(S)&nbsp; </font> <i>
+		<font size="4">Haridra</font></i></p>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Part</font></b><font size="4">
+		<b>Used</b>: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">rhizome</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal" align="justify"><b></b><font size="4"><b>Energetics</b>: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">bitter</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">astringent</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">heating/pungent</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><i><font size="4">&nbsp;K-PV+(in excess)</font></i></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal" align="justify"><b><font size="4">Tissues</font></b><font size="4">:</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">works on all 
+		tissue-element in the body</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Systems</font></b><font size="4">: </font> </p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">digestive</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">&nbsp;circulatory</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">respiratory
+			</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Actions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">stimulant</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">carminative</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">alterative</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">vulnerary</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">antibacterial</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Indications</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">indigestion, 
 		poor circulation, cough, amenorrhea,&nbsp; pharyngitis, skin disorders, 
-		diabetes, arthritis, anemia, wounds, bruises</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal" align="justify"><b>Precautions</b>: acute jaundice 
-		and hepatitis, high pitta, pregnancy</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal" align="justify"><b>Preparation</b>: infusion, 
-		decoction, milk decoction, powder (250mg to 1 gm)</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal" align="justify">TURMERIC is an excellent natural 
-		antibiotic, while at the same time it strengthens digestion and helps 
-		improve intestinal flora. As such it is a good antibacterial for those 
-		chronically weak or ill. It not only purifies the blood, but also warms 
-		it and stimulates formation of new blood tissue.</p>
-		<p class="MsoNormal" align="justify">Turmeric gives the energy of the 
-		Divine Mother and grants prosperity. It is effective for cleansing the 
-		chakras (<i>nadi</i> <i>shodhana</i>), purifying the channels of the 
-		subtle body. It helps stretch the ligaments and is, therefore, good for 
-		the practice of <i>hatha</i> yoga.</p>
-		<p class="MsoNormal" align="justify">Turmeric promotes proper metabolism 
-		in the body, correcting both excesses and deficiencies. It aids in the 
-		digestion of protein.</p>
-		<p class="MsoNormal" align="justify">Externally, it can be used with 
-		honey of sprains, strains, bruise or itch. It is tonic to the skin, for 
-		which purposes it can be taken internally as milk decoction. </p>
+		diabetes, arthritis, anemia, wounds, bruises</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Precautions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">acute jaundice 
+		and hepatitis</font></p></li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">high pitta</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">pregnancy</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Preparation</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">infusion</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">decoction</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">milk decoction</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">powder (250mg to 1 gm)</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify">
+		<font size="4">TURMERIC is an excellent natural 
+		antibiotic,</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">&nbsp;while at the same time 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">it strengthens digestion</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">helps 
+		improve intestinal flora</font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;As such it is a good antibacterial for 
+				</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">those 
+		chronically weak or ill</font></p></li>
+				</ul>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">It not only purifies the blood, 
+				but also</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">&nbsp;warms 
+		it and stimulates formation of new blood tissue</font></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">Turmeric gives the energy of the 
+		Divine Mother and grants prosperity</font></p></li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">It is effective for 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">cleansing the 
+		chakras (<i>nadi</i> <i>shodhana</i>)</font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">purifying the channels of the 
+		subtle body</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">It helps</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;stretch the ligaments 
+				</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">therefore, good for 
+		the practice of <i>hatha</i> yoga</font></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">Turmeric promotes 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">proper metabolism 
+		in the body</font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">correcting both excesses and deficiencies</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">It aids in the 
+		digestion of protein</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">Externally, 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">it can be 
+				used with honey for</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">&nbsp;sprains
+					</font></p></li>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">strains
+					</font></p></li>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">bruise&nbsp;
+					</font></p></li>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">itch</font></p>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">It is tonic to the skin, for 
+		which purposes </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">it can be taken internally as milk decoction.
+				</font></p></li>
+			</ul>
+			</li>
+		</ul>
 		<p align="justify">&nbsp;</td>
 	</tr>
 	</table>
 <p class="MsoNormal" align="justify">&nbsp;</p>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-</body>
