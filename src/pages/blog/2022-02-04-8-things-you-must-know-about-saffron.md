@@ -31,7 +31,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 30%;
+top: 24%;
 
 left: 50%;
 
@@ -305,116 +305,255 @@ transform: translateY(0px);
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#006600">
-		<p align="justify"><font color="#FFFFFF" size="7"><p class="MsoNormal">&nbsp;</p>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">	<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<p align="justify"><font color="#FFFFFF" size="7"><p class="MsoNormal"></p>
 
 SAFFRON</font></td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933" height="59">
-		<p class="MsoNormal"><i><font color="#FFFFFF">(S) Nagakeshara</font></i></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal"><b>Part</b> <b>Used</b>: flower (stigma)</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal"><b>Energetics</b>: pungent, bitter, 
-		sweet/cooling/sweet</p>
-		<p class="MsoNormal"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VPK=&nbsp;&nbsp;&nbsp;&nbsp; </i></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Tissues</b>: works on all tissue-elements but 
-		particularly the blood</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Systems</b>: circulatory, digestive, female 
-		reproductive, nervous</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Actions</b>: alterative, emmenagoggue, 
-		aphrodisiac, rejuvenative, stimulant, carminative, antispasmodic</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal"><b>Indications</b>: menstrual pain and 
-		irregularity, menopause, impotence, infertility, anemia, enlarged liver, 
-		hysteria, depression, neuralgia, lumbago, rheumatism, cough, asthma, 
-		chronic diarrhea</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Precautions</b>: pregnancy, (can promote 
-		miscarriage), in large doses is narcotic</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Preparation</b>: infusion, milk decoction, 
-		powder (100-250mg); use in low doses, a pinch full with other herbs, 
-		medicated oil, medicated ghee</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal">SAFFRON is a very potent but expensive revitalizer 
-		of the blood, circulation and female reproductive system, as well as 
-		metabolism generally. It is one of the best anti <i>pitta</i> herb and 
-		spleen-liver regulators. It is considered to be the best stimulant and 
-		aphrodisiac, primarily for women. Though not a tonic in itself, even in 
-		small amounts it catalyzes the tonic action of other herbs and promotes 
-		tissue growth in the reproductive organs and in the entire body. It can 
-		be added to milk or other tonic herbs, like <i>shatavari</i>, to 
-		facilitate their function or used as a spice to promote assimilation of 
-		food into deeper tissues. Its quality is <i>sattvic</i> and gives energy 
-		to love, devotion and compassion, to <i>bhakti</i> <i>yoga</i>.</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-</table>
-<p class="MsoNormal" align="justify">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;&nbsp;</p>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
+		<td>
+		<p class="MsoNormal"></p>
+		<p class="MsoNormal"><i><font size="4">(S) Nagakeshara</font></i></p>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">flower (stigma)</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pungent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">bitter</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">sweet/cooling/sweet</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><i><font size="4">VPK=&nbsp;&nbsp;&nbsp;&nbsp;
+					</font></i></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">works on all tissue-elements 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">particularly the blood</font></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">female 
+		reproductive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">alterative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">emmenagoggue</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">aphrodisiac</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rejuvenative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antispasmodic</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">menstrual pain and 
+		irregularity</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">menopause</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">impotence</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">infertility</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">anemia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">enlarged liver</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hysteria</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">depression</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">neuralgia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">lumbago</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rheumatism</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">asthmachronic diarrhea</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pregnancy</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">(can promote 
+		miscarriage), </font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">in large doses is narcotic</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">milk decoction</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (100-250mg)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">use in low doses</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">a pinch full with other herbs</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">medicated oil</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">medicated ghee</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<ul>
+			<li>
+			<address><font size="4">SAFFRON is a very potent but expensive revitalizer 
+		of </font></address>
+			<ul>
+				<li>
+				<address><font size="4">blood</font></address></li>
+				<li>
+				<address><font size="4">circulation</font></address></li>
+				<li>
+				<address><font size="4">female reproductive system</font></address>
+				</li>
+				<li>
+				<address><font size="4">metabolism </font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">&nbsp;It is one of the best </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">anti <i>pitta</i> herb</font></address>
+				</li>
+				<li>
+				<address><font size="4">spleen-liver regulators</font></address>
+				</li>
+				<li>
+				<address><font size="4">stimulant</font></address></li>
+				<li>
+				<address><font size="4">aphrodisiac</font></address>
+				<ul>
+					<li>
+					<address><font size="4">primarily for women</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">Though not a tonic in itself, </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">even in 
+		small amounts it catalyzes the tonic action of other herbs and </font>
+				</address></li>
+				<li>
+				<address><font size="4">promotes 
+		tissue growth in </font></address>
+				<ul>
+					<li>
+					<address><font size="4">reproductive organs </font>
+					</address></li>
+					<li>
+					<address><font size="4">entire body. </font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">It can 
+		be added to </font></address>
+			<ul>
+				<li>
+				<address><font size="4">milk </font></address></li>
+				<li>
+				<address><font size="4">other tonic herbs, like </font>
+				</address>
+				<ul>
+					<li>
+					<address><font size="4"><i>shatavari</i>,</font></address>
+					</li>
+				</ul>
+				<address><font size="4">&nbsp;to 
+		facilitate their function </font></address></li>
+				<li>
+				<address><font size="4">used as a spice to </font></address>
+				<ul>
+					<li>
+					<address><font size="4">promote assimilation of 
+		food into deeper tissues. </font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">Its quality is <i>sattvic</i> and gives energy 
+		to </font></address>
+			<ul>
+				<li>
+				<address><font size="4">love</font></address></li>
+				<li>
+				<address><font size="4">devotion</font></address></li>
+				<li>
+				<address><font size="4">compassion, </font></address></li>
+			</ul>
+			<address><font size="4">to <i>bhakti</i> <i>yoga</i>.</font></address>
+			</li>
+		</ul>
 		</td>
 	</tr>
-</table>
+	
 
-</body>
+</table>
