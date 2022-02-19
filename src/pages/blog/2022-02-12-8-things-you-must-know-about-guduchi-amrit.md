@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 37%;
+top: 26%;
 
 left: 50%;
 
@@ -311,114 +311,218 @@ border-radius:10px;">
 	<tr>
 		<td>
 		<p class="MsoNormal"><i><font size="4">(S) Guduchi , Amrita</font></i></p>
-		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: stem and root, powdered 
-		starchy extract</font></p>
-		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: bitter, astringent, sweet/ 
-		hot/sweet</font></p>
-		<p class="MsoNormal"><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>VPK</i>=</font></p>
-		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: blood, fat, reproductive</font></p>
-		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: circulatory, digestive, 
-		reproductive</font></p>
-		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: bitter tonic, febrifuge, 
-		alterative, diuretic, aphrodisiac, rejuvenative, antirheumatic </font> </p>
-		<p class="MsoNormal"><font size="4">&nbsp;<b>Indications</b>: fever, convalescence from 
-		febrile diseases, malaria, hyperacidity, hepatitis, jaundice, diabetes, 
-		heart disease, tuberculosis, arthritis, gout, skin diseases, 
-		hemorrhoids,</font></p>
-		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: use with care during pregnancy</font></p>
-		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: powder (250 to 500mg), extract 
-		(<i>guduchi</i> or <i>Giloy</i> <i>Sattva</i>)</font></p>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: </font></p>
 		<ul>
 			<li>
-			<address><i><font size="4">Guduchi</font></i><font size="4"> is 
-			</font></address>
+			<p class="MsoNormal"><font size="4">stem and root</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powdered 
+		starchy extract</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">bitter</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">astringent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sweet</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">&nbsp;hot/sweet</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">&nbsp;<i>VPK</i>=</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">fat</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">reproductive</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">reproductive</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: </font> </p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">bitter tonic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">febrifuge</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">alterative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diuretic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">aphrodisiac</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rejuvenative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antirheumatic </font></p></li>
+		</ul>
+		<p class="MsoNormal"><font size="4">&nbsp;<b>Indications</b>: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">fever</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">convalescence from 
+		febrile diseases</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">malaria</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hyperacidity</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hepatitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">jaundice</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diabetes</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">heart disease</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">tuberculosis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">arthritis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">gout</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">skin diseases</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hemorrhoids</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">use with care during pregnancy</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 to 500mg)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">extract 
+		</font></p>
 			<ul>
 				<li>
-				<address><font size="4">a rejuvenative for pitta and 
-		</font></address></li>
+				<p class="MsoNormal"><font size="4"><i>guduchi</i> or </font>
+				</p></li>
 				<li>
-				<address><font size="4">powerful nutritive herb to take during recovery period from</font></address>
-				<ul>
-					<li>
-					<address><font size="4">&nbsp;fevers or 
-		</font></address></li>
-					<li>
-					<address><font size="4">infectious diseases. </font>
-					</address></li>
-				</ul>
-				</li>
-				<li>
-				<address><font size="4">Its hot nature is </font></address>
-				<ul>
-					<li>
-					<address><font size="4">anti-<i>Ama</i>, </font></address>
-					</li>
-					<li>
-					<address><font size="4">non <i>Pitta</i> 
-		aggravating and </font></address></li>
-					<li>
-					<address><font size="4">destroys toxins without aggravating heat or fire in the 
-		body. </font></address></li>
-				</ul>
+				<p class="MsoNormal"><font size="4"><i>Giloy</i> <i>Sattva</i></font></p>
 				</li>
 			</ul>
 			</li>
+		</ul>
+		<address><i><font size="4">Guduchi</font></i><font size="4"> is 
+			</font>
+		</address>
+		<ul>
 			<li>
-			<address><font size="4"><i>Guduchi</i>, like </font></address>
+			<address><font size="4">a rejuvenative for pitta and </font>
+			</address></li>
+			<li>
+			<address><font size="4">powerful nutritive herb to take during recovery period from</font></address>
 			<ul>
 				<li>
-				<address><font size="4"><i>ashwagandha</i> and </font></address>
-				</li>
+				<address><font size="4">&nbsp;fevers or 
+		</font>
+				</address></li>
 				<li>
-				<address><font size="4"><i>Shatavari</i>, </font></address></li>
+				<address><font size="4">infectious diseases. </font>
+				</address></li>
+			</ul></li>
+			<li>
+			<address><font size="4">Its hot nature is </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">anti-<i>Ama</i>, </font>
+				</address></li>
+				<li>
+				<address><font size="4">non <i>Pitta</i> 
+		aggravating and </font>
+				</address></li>
+				<li>
+				<address><font size="4">destroys toxins without aggravating heat or fire in the 
+		body. </font>
+				</address></li>
+			</ul></li>
+		</ul>
+		<ul>
+			<li>
+			<address><font size="4"><i>Guduchi</i>, like </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4"><i>ashwagandha</i> and </font>
+				</address></li>
+				<li>
+				<address><font size="4"><i>Shatavari</i>, </font>
+				</address></li>
 			</ul>
 			<address><font size="4">is 
-		an excellent tonic for </font></address>
+		an excellent tonic for </font>
+			</address>
 			<ul>
 				<li>
-				<address><font size="4">the immune system, and </font></address>
-				</li>
+				<address><font size="4">the immune system, and </font>
+				</address></li>
 				<li>
 				<address><font size="4">therefore one of the best 
-		herb to treat infections from </font></address>
+		herb to treat infections from </font>
+				</address>
 				<ul>
 					<li>
-					<address><font size="4">Epstein bar virus </font></address>
-					</li>
+					<address><font size="4">Epstein bar virus </font>
+					</address></li>
 					<li>
-					<address><font size="4">&nbsp;AIDS, </font></address></li>
+					<address><font size="4">&nbsp;AIDS, </font>
+					</address></li>
 				</ul>
 				<address><font size="4">such as many 
-		people today suffer from.&nbsp; </font></address></li>
+		people today suffer from.&nbsp; </font>
+				</address></li>
 			</ul>
 			<address><font size="4">It increases our positive energy </font>
 			</address>
 			<ul>
 				<li>
 				<address><font size="4">in 
-		conditions of debility </font></address>
+		conditions of debility </font>
+				</address>
 				<ul>
 					<li>
 					<address><font size="4">like chronic fatigue syndrome.</font></address>
 					</li>
-				</ul>
-				</li>
-			</ul>
-			</li>
+				</ul></li>
+			</ul></li>
 			<li>
 			<address><font size="4">The bitter starch which comes from the plant, 
-		called </font></address>
+		called </font>
+			</address>
 			<ul>
 				<li>
-				<address><font size="4"><i>Guduchi</i> or </font></address></li>
+				<address><font size="4"><i>Guduchi</i> or </font>
+				</address></li>
 				<li>
 				<address><font size="4"><i>Giloy</i> <i>Sattva</i> </font>
 				</address></li>
 			</ul>
 			<address><font size="4">is the best way to 
-		take it. </font></address></li>
+		take it. </font>
+			</address></li>
 			<li>
-			<address><font size="4">Taken with </font></address>
+			<address><font size="4">Taken with </font>
+			</address>
 			<ul>
 				<li>
 				<address><font size="4">ghee <i>Guduchi</i> reduces </font>
@@ -426,26 +530,24 @@ border-radius:10px;">
 				<ul>
 					<li>
 					<address><font size="4"><i>Vata</i>,</font></address></li>
-				</ul>
-				</li>
+				</ul></li>
 				<li>
 				<address><font size="4">&nbsp;with sugar 
-		it reduces </font></address>
+		it reduces </font>
+				</address>
 				<ul>
 					<li>
-					<address><font size="4"><i>pitta</i>, </font></address></li>
-				</ul>
-				</li>
+					<address><font size="4"><i>pitta</i>, </font>
+					</address></li>
+				</ul></li>
 				<li>
 				<address><font size="4">with honey it reduces</font></address>
 				<ul>
 					<li>
 					<address><font size="4">&nbsp;<i>Kapha</i>. </font>
 					</address></li>
-				</ul>
-				</li>
-			</ul>
-			</li>
+				</ul></li>
+			</ul></li>
 		</ul>
 		<p class="MsoNormal">&nbsp;</td>
 	</tr>
