@@ -31,7 +31,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 32%;
+top: 21%;
 
 left: 50%;
 
@@ -305,121 +305,306 @@ transform: translateY(0px);
 <body>
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#006600">
-		<p class="MsoNormal" align="justify"><font size="7" color="#FFFFFF">
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<font size="7" color="#FFFFFF">
 		<p class="MsoNormal">&nbsp;</p>
-POMEGRANATE</font></p>
-		<p align="justify">&nbsp;</td>
+POMEGRANATE</font></p>		<p align="justify">&nbsp;</td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF">(S) <i>Dadima</i></font></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal" align="justify"><b>Part</b> <b>Used</b>: rind, root 
-		bark, fruit</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal" align="justify"><b>Energetics</b>: astringent, 
-		bitter (fruit rind and root bark); sweet, sour (fruit)/cooling/ sweet</p>
-		<p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sweet variety is 
-		said to alleviate all three <i>doshas</i>, the sour variety may 
-		aggravate <i>pitta</i> ; the common pomegranate is the sweet variety and 
-		may increase Ama</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, blood, 
-		muscle, marrow and nerve</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal" align="justify"><b>System</b>: digestive, 
-		circulatory</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal" align="justify"><b>Actions</b>: astringent tonic, 
-		alterative, hemostatic, anthelmintic, refrigerant, somachic</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal" align="justify"><font color="#FFFFFF"><b>
-		Indications</b>: worms (round, pin, particularly tape), sore throat, 
-		ulcers, colitis, diarrhea, dysentery, prolapse of rectum or vagina, 
-		leucorrhea, conjunctivitis, anemia, chronic bronchitis, tuberculosis</font></p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal" align="justify"><b>Precautions</b>: constipation</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal" align="justify"><b>Preparation</b>: decoction, 
-		powder (250-500mg), fresh juice, paste</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal" align="justify">The POMEGRANATE tree is an 
-		excellent pharmacy in itself. The root bark is a strong anthelmintic, 
-		taken as decoction with little clove, followed by a purgative every 
+		<td>
+		<p class="MsoNormal" align="justify"><font size="4">(S) </font> <i>
+		<font size="4">Dadima</font></i></p>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Part</font></b><font size="4"> <b>Used</b>: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">rind</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">root 
+		bark</font></p></li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">fruit</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Energetics</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">astringent</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">bitter</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">fruit</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;rind</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;root 
+				bark</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">sweet</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">sour (fruit)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">cooling/ sweet</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;sweet variety is 
+		said to alleviate all three <i>doshas</i>,</font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;the sour variety may 
+		aggravate <i>pitta</i> </font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">the common pomegranate is the sweet variety and 
+		may increase Ama</font></p></li>
+			</ul>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Tissues</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">plasma</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">blood</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">muscle</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">marrow and nerve</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">System</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">digestive</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">circulatory</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Actions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">astringent tonic</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">alterative</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">hemostatic</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">anthelmintic</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">refrigerant</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">somachic</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Indications</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">worms</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">round</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">pin</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">particularly 
+				tape</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">sore throat</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">ulcers</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">colitis</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">diarrhea</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">dysentery</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">prolapse of 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">rectum 
+				</font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">vagina</font></p>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">leucorrhea</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">conjunctivitis</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">anemia</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">chronic bronchitis</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">tuberculosis</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Precautions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">constipation</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<p class="MsoNormal" align="justify"><b>
+		<font size="4">Preparation</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">decoction</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">powder (250-500mg)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">fresh juice</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">paste</font></p>
+			</li>
+		</ul>
+		<p align="justify">&nbsp;<ul>
+			<li>
+			<address align="justify"><font size="4">The POMEGRANATE tree is an 
+		excellent pharmacy in itself. </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">The root bark is a strong anthelmintic, 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">taken as decoction with little clove, followed by a purgative every 
 		second or third day to dispel the worms (such treatment may continue for 
-		10 days or more). The fruit rind is better for usage as an astringent 
-		and anti-inflammatory herb for the mucous membranes. The fresh juice has 
-		stronger tonic properties, particularly for the blood and for <i>pitta</i>.</p>
-		<p class="MsoNormal" align="justify">The fruit rind powder may be used 
-		as a douche for leucorrhea; the paste can be used externally for sores, 
-		ulcers, hemorrhoids. The fresh juice is good for promoting digestion and 
-		all parts have stomachic properties, which can be augmented with small 
-		amounts of cinnamon and cloves. </p>
+		10 days or more). </font></address></li>
+				</ul>
+				</li>
+				<li>
+				<address align="justify"><font size="4">The fruit rind is better for usage as an 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">astringent 
+		and </font></address></li>
+					<li>
+					<address align="justify"><font size="4">anti-inflammatory 
+					</font></address></li>
+				</ul>
+				<address align="justify"><font size="4">herb for the mucous membranes. 
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">The fresh juice has 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">stronger tonic properties,</font></address>
+					</li>
+				</ul>
+				<address align="justify"><font size="4">&nbsp;particularly for</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">blood </font>
+					</address></li>
+					<li>
+					<address align="justify"><font size="4"><i>pitta</i>.</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">The fruit rind powder </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">used 
+		as a douche for leucorrhea</font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">&nbsp;the paste can be used externally for 
+			</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">sores</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">ulcers</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">hemorrhoid. </font>
+				</address></li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">The fresh juice is good for 
+			</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">promoting digestion 
+				</font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">and 
+		all parts have stomachic properties, </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">which can be augmented with small 
+		amounts of </font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">cinnamon and </font>
+					</address></li>
+					<li>
+					<address align="justify"><font size="4">cloves. </font>
+					</address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p align="justify">&nbsp;</td>
 	</tr>
-</table>
+	</table>
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
 </body>
 <p class="MsoNormal">&nbsp;</p>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-
-<body>
