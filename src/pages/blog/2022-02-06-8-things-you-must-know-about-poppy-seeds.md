@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 22%;
+top: 26%;
 
 left: 50%;
 
@@ -307,130 +307,258 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-
-
 <p class="MsoNormal" align="justify">&nbsp;</p>
-<table border="0" width="100%">
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">
 	<tr>
-		<td bgcolor="#006600">
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
 		<p class="MsoNormal">&nbsp;</p>
 		<p class="MsoNormal"><font size="7" color="#FFFFFF">POPPY</font>
 		<font size="7" color="#FFFFFF">&nbsp;SEEDS</font></p>
 		<p>&nbsp;</td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal"><font color="#FFFFFF">(S) <i>Ahephena</i>, 
-		serpent's poison, for its narcotic properties </font></p>
+		<td>
+		<p class="MsoNormal">&nbsp;</p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">(S) <i>Ahephena</i>, 
+		</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">serpent's poison, </font>
+				</p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><font size="4">for its narcotic properties
+					</font></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">seeds (non-narcotic)</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pungent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">astringent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sweet</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">heating/sweet</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><i><font size="4">VK- P+</font></i></p>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">muscle</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">bone</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">marrow 
+		and nerves</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font> </p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory </font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">astringent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antispasmodic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sedative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">analgesic</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">diarrhea</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dysentery</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">children's diarrhea</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">abdominal pain</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">poor absorption</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">insomnia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nerve pain</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precaution</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">gastritis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">colitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">high </font><i><font size="4">pitta</font></i></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 mg to 1 
+		gm)</font></p></li>
+		</ul>
+		<p>&nbsp;<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">POPPY SEEDS are similar in 
+		properties to </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">nutmeg and are often used in conjunction with it. 
+				</font></p></li>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">They are 
+		good astringent for </font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">the intestine</font></p>
+					<ul>
+						<li>
+						<p class="MsoNormal" align="justify"><font size="4">&nbsp;possessing carminative and 
+						</font></p></li>
+						<li>
+						<p class="MsoNormal" align="justify"><font size="4">stomachic 
+		properties, </font></p></li>
+					</ul>
+					<p class="MsoNormal" align="justify"><font size="4">thus also increasing
+					<i>Agni</i> while promoting absorption. 
+		</font></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">They are effective for 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">nervous digestive disorder for children of high
+				<i>vata</i> types. </font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">They strengthen 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">the villi of the small intestine.</font></p>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">&nbsp;As 
+		a spice,</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">&nbsp;they are antidotal to the 
+				</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal" align="justify"><font size="4">gas producing properties of legumes.</font></p>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">Their quality is </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4"><i>tamasic</i>. </font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><font size="4">They induce in 
+		sleep and, in long term usage, </font></p></li>
+					<li>
+					<p class="MsoNormal"><font size="4">dull the mind and so may inhabit 
+		awareness, </font></p></li>
+				</ul>
+				</li>
+				<li>
+				<p class="MsoNormal"><font size="4">though they help bring down high
+				<i>Vata</i> psychological 
+		imbalances. </font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">As a nervine they may be used with valerian.
+				</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">One-quarter ounce of poppy seeds can be simmered in 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">one pint of water along with 
+				</font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">one teaspoon each of nutmeg and 
+				</font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">ginger 
+		powder </font></p></li>
+			</ul>
+			<p class="MsoNormal"><font size="4">and taken three times a day immediately after meals for</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">&nbsp;nervous 
+		digestion. </font></p></li>
+			</ul>
+			<p class="MsoNormal"><font size="4">A cup may also be taken before sleep to promote rest.</font></p>
+			</li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal"><b>Part</b> <b>Used</b>: seeds (non-narcotic)</p>
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; </td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal"><b>Energetics</b>: pungent, astringent, 
-		sweet/heating/sweet</p>
-		<p class="MsoNormal"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VK- P+</i></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Tissues</b>: plasma, blood, muscle, bone, marrow 
-		and nerves</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Systems</b>: nervous, digestive, respiratory, 
-		circulatory </p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Actions</b>: astringent, carminative, 
-		antispasmodic, sedative, analgesic</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Indications</b>: diarrhea, 
-		dysentery, children's diarrhea, abdominal pain, poor absorption, cough, 
-		insomnia, nerve pain</font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Precaution</b>: gastritis, colitis, high <i>
-		pitta</i></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Preparation</b>: infusion, powder (250 mg to 1 
-		gm)</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal" align="justify">POPPY SEEDS are similar in 
-		properties to nutmeg and are often used in conjunction with it. They are 
-		good astringent for the intestine, possessing carminative and stomachic 
-		properties, thus also increasing <i>Agni</i> while promoting absorption. 
-		They are effective for nervous digestive disorder for children of high
-		<i>vata</i> types. They strengthen the villi of the small intestine. As 
-		a spice, they are antidotal to the gas producing properties of legumes.</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal">Their quality is <i>tamasic</i>. They induce in 
-		sleep and, in long term usage, dull the mind and so may inhabit 
-		awareness, though they help bring down high <i>Vata</i> psychological 
-		imbalances. As a nervine they may be used with valerian. </p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal">One-quarter ounce of poppy seeds can be simmered in 
-		one pint of water along with one teaspoon each of nutmeg and ginger 
-		powder and taken three times a day immediately after meals for nervous 
-		digestion. A cup may also be taken before sleep to promote rest.</p>
-		<p>&nbsp;</td>
-	</tr>
-</table>
+	</table>
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-
-</body>
