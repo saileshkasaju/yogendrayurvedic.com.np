@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 22%;
+top: 26%;
 
 left: 50%;
 
@@ -307,110 +307,232 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-
-
 <p class="MsoNormal" align="justify">&nbsp;</p>
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#006600">
-		<font color="#FFFFFF" size="7">AJWAN</font></td>
-	</tr>
-	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal">(S) <b>Part</b> <b>Used</b>: seeds </p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal"><b>Energetics</b>: pungent/heating/pungent</p>
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KV-P+</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal"><b>Tissues</b>: plasma, marrow and nerve</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Systems</b>: digestive, respiratory, nervous</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Actions</b>: stimulant, diaphoretic, 
-		expectorant, carminative, antispasmodic, diuretic, lithotriptic</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Indications</b>: cold, flues, laryngitis, 
-		bronchitis, asthma, cough, colic, indigestion, edema, arthritis</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal"><b>Precautions</b>: hyperacidity, high <i>pitta</i></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Preparation</b>: infusion, powder (250 to 500mg)</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal" align="justify">AJWAN or wild celery seed is a 
-		strong digestive, respiratory and nerve stimulant. For those suffering 
-		from high vata, poor appetite, intestinal gas and sinus congestion, it 
-		may be taken as a powder, one to three grams three times a day before 
-		meals. It also promotes kidney function and energizes the nerves. Its 
-		uses are similar to wild carrot seeds in western herbalism. <i>Ajwan</i> 
-		is a powerful decongestant for both the respiratory and digestive 
-		tracks. It clears out deep seated Ama and revives obstructed and 
-		stagnant metabolic functioning. It relieves intestinal spasms and 
-		vitalizes <i>Prana</i>, <i>samana</i> (the <i>vata</i> governing 
-		digestion) and <i>udana</i> (the <i>vata</i> governing speech, effort 
-		and enthusiasm). As such it helps improve aspiration and catalyze the 
-		ascending energies of the psyche.&nbsp; &nbsp;&nbsp;</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p align="justify">&nbsp;</td>
-	</tr>
-</table>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	
 
-
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
+<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<font color="#FFFFFF" size="7">AJWAN</font></td>
 	</tr>
 	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
+		<td>
+		<p class="MsoNormal"><font size="4">(S) <b>Part</b> <b>Used</b>: </font> </p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">seeds </font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pungent/heating/pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">KV-P+</font></p></li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">marrow </font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nerve</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diaphoretic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">expectorant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antispasmodic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diuretic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">lithotriptic</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">cold</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">flues</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">laryngitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">bronchitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">asthma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">colic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">indigestion</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">edemayarthritis</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">hyperacidity</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">high </font><i><font size="4">pitta</font></i></p>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 to 500mg)</font></p>
+			</li>
+		</ul>
+		<p>&nbsp;<address align="justify"><font size="4">AJWAN or wild celery seed is 
+		</font></address>
+		<ul>
+			<li>
+			<address align="justify"><font size="4">a strong stimulant for</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">&nbsp;digestive</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">respiratory </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">nerve .</font></address>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">For those suffering 
+		from </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">high vata</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">poor appetite</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">intestinal gas</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">sinus congestion</font></address>
+				</li>
+			</ul>
+			<address align="justify"><font size="4">it 
+		may be taken as a powder,</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">&nbsp;one to three grams 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">three times a day before 
+		meals.</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">It also promotes </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">kidney function and 
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">energizes the nerves.</font></address>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">&nbsp;<i>Ajwan</i> 
+		is a powerful decongestant for </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">respiratory track</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">digestive 
+		track</font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">&nbsp;It clears out </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">deep seated Ama</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">revives obstructed and stagnant metabolic functioning</font></address>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4"><i>Ajwan</i> </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">relieves intestinal spasms and 
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">vitalizes </font>
+				</address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4"><i>Prana</i></font></address>
+					</li>
+					<li>
+					<address align="justify"><font size="4"><i>samana</i> (the 
+					<i>vata</i> governing 
+		digestion) and </font></address></li>
+					<li>
+					<address align="justify"><font size="4"><i>udana</i> (the <i>vata</i> governing speech, effort 
+		and enthusiasm). </font></address></li>
+				</ul>
+				</li>
+				<li>
+				<address align="justify"><font size="4">As such it helps </font>
+				</address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">improve aspiration and 
+					</font></address></li>
+					<li>
+					<address align="justify"><font size="4">catalyze the 
+		ascending energies of the psyche.&nbsp; &nbsp;&nbsp;</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;<p align="justify">&nbsp;</td>
 	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-
-
-</body>
+	</table>
