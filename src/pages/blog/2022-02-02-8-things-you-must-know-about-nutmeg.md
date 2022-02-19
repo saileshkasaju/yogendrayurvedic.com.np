@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 35%;
+top: 24%;
 
 left: 50%;
 
@@ -291,111 +291,208 @@ transform: translateY(0px);
 
 <body>
 
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#006600">
-		<p class="MsoNormal">&nbsp;</p>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<p class="MsoNormal">&nbsp;</p>
 		<p class="MsoNormal"><font size="7" color="#FFFFFF">NUTMEG</font></p>
 		<p>&nbsp;</td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal"><i><b><font color="#FFFFFF">(S) Jatiphala</font></b></i></p>
+		<td>
+		<p class="MsoNormal"><i><b><font size="4">(S) Jatiphala</font></b></i></p>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4">
+		<b>Used</b>: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">fruit (seed)</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pungent/heating/pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><i><font size="4">VK- P+</font></i></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">muscle</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">marrow and nerve</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">reproductive</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">reproductive</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Action</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">astringent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sedative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervine</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">aphrodisiac</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Indication</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">poor 
+		absorption</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">abdominal pain</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">distension</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diarrhea</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dysentery</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">intestinal gas</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">insomnia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous disorders</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">impotence </font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pregnancy</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">high </font><i><font size="4">pitta</font></i></p>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion (do not boil)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">milk 
+		decoction</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 to 500mg)</font></p>
+			</li>
+		</ul>
+		<address>&nbsp;</address>
+		<ul>
+			<li>
+			<address><font size="4">NUTMEG is one of the best spices for </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">increasing 
+		absorption, </font></address>
+				<ul>
+					<li>
+					<address><font size="4">particularly in the small intestine. 
+					</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			<address><font size="4">It works well in this 
+		aspect with such spices as </font></address>
+			<ul>
+				<li>
+				<address><font size="4">cardamom</font></address></li>
+				<li>
+				<address><font size="4">ginger</font></address></li>
+			</ul>
+			<address><font size="4">Taken in buttermilk, it 
+		improves </font></address>
+			<ul>
+				<li>
+				<address><font size="4">assimilation and </font></address></li>
+				<li>
+				<address><font size="4">stops diarrhea. </font></address></li>
+			</ul>
+			<address><font size="4">It helps reduce high <i>vata</i> 
+		in </font></address>
+			<ul>
+				<li>
+				<address><font size="4">colon and </font></address></li>
+				<li>
+				<address><font size="4">nervous system</font></address></li>
+			</ul>
+			<address><font size="4">It is one of the best medicines 
+		for </font></address>
+			<ul>
+				<li>
+				<address><font size="4">calming the mind. </font></address></li>
+			</ul>
+			<address><font size="4">For this it can be taken</font></address>
+			<ul>
+				<li>
+				<address><font size="4">500 mg in warm milk 
+		before sleep, </font></address>
+				<ul>
+					<li>
+					<address><font size="4">to promote sound sleep. </font>
+					</address></li>
+				</ul>
+				<address><font size="4">However it has <i>tamasic</i> 
+		quality, </font></address>
+				<ul>
+					<li>
+					<address><font size="4">somewhat like poppy seeds, and 
+					</font></address></li>
+					<li>
+					<address><font size="4">in excess can increase dullness 
+		of mind.</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">It is good for </font></address>
+			<ul>
+				<li>
+				<address><font size="4">incontinence of urine </font></address>
+				</li>
+				<li>
+				<address><font size="4">premature ejaculation</font></address>
+				</li>
+				<li>
+				<address><font size="4">relieve muscle-spasms</font></address>
+				<ul>
+					<li>
+					<address><font size="4">particularly of the abdomen. &nbsp;</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Part</b> <b>Used</b>: 
-		fruit (seed)</font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Energetics</b>: 
-		pungent/heating/pungent</font></p>
-		<p class="MsoNormal"><font color="#FFFFFF"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VK- P+</i></font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Tissues</b>: plasma, muscle, marrow and nerve, 
-		reproductive</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Systems</b>: digestive, nervous, reproductive</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Action</b>: astringent, carminative, sedative, 
-		nervine, aphrodisiac, stimulant</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal"><font color="#CCFFCC"><b>Indication</b>: poor 
-		absorption, abdominal pain and distension, diarrhea, dysentery, 
-		intestinal gas, insomnia, nervous disorders, impotence </font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Precautions</b>: pregnancy, high <i>pitta</i></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Preparation</b>: infusion (do not boil), milk 
-		decoction, powder (250 to 500mg)</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00" align="justify">
-		<p class="MsoNormal">NUTMEG is one of the best spices for increasing 
-		absorption, particularly in the small intestine. It works well in this 
-		aspect with such spices as cardamom and ginger. Taken in buttermilk, it 
-		improves assimilation and stops diarrhea. It helps reduce high <i>vata</i> 
-		in the colon and in the nervous system. It is one of the best medicines 
-		for calming the mind. For this it can be taken 500 mg in warm milk 
-		before sleep, to promote sound sleep. However it has <i>tamasic</i> 
-		quality, somewhat like poppy seeds, and in excess can increase dullness 
-		of mind.</p>
-		<p class="MsoNormal">It is good for incontinence of urine or for 
-		premature ejaculation. It also serves to relieve muscle-spasms, 
-		particularly of the abdomen. &nbsp;</p>
-		<p>&nbsp;</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-
-</body>
+	</table>
