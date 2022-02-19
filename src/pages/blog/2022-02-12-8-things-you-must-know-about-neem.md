@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 40%;
+top: 26%;
 
 left: 50%;
 
@@ -308,103 +308,220 @@ border-radius:10px;">
 	<tr>
 		<td>
 		<p class="MsoNormal">&nbsp;</p>
-		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: bark, leaves</font></p>
-		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: bitter/cooling/pungent</font></p>
-		<p class="MsoNormal"><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PK-V+</font></p>
-		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: plasma, blood, fat</font></p>
-		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: digestive, circulatory, 
-		respiratory, urinary</font></p>
-		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: bitter tonic, antipyretic, 
-		alterative, anthelmintic, antiseptic, antiemetic</font></p>
-		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: skin diseases (urticaria, 
-		eczema, ringworm), parasites, fever, malaria, cough, thirst, nausea, 
-		vomiting, diabetes, tumors, obesity, arthritis, rheumatism, jaundice</font></p>
-		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: disease of cold and tissue 
-		deficiency generally</font></p>
-		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: infusion (hot or cold), 
-		decoction, powder (250 to 500mg), paste, medicated ghee, medicated oil</font></p>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: 
+		</font></p>
 		<ul>
 			<li>
-			<address><i><font size="4">NEEM</font></i><font size="4"> is one of the most powerful blood 
-		purifiers and detoxifiers in <i>Ayurvedic</i> uses. </font></address>
+			<p class="MsoNormal"><font size="4">bark</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">leaves</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">bitter/cooling/pungent</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">PK-V+</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">fat</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">urinary</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">bitter tonic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antipyretic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">alterative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">anthelmintic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antiseptic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">antiemetic</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">skin diseases </font></p>
 			<ul>
 				<li>
-				<address><font size="4">It cools the </font></address>
-				<ul>
-					<li>
-					<address><font size="4">fever 
-		and </font></address></li>
-					<li>
-					<address><font size="4">clears the toxins </font></address>
-					</li>
-				</ul>
-				<address><font size="4">involved in most inflammatory skin diseases or 
-				</font></address>
-				<address><font size="4">those found in ulcerated mucous membranes . 
-				</font></address></li>
+				<p class="MsoNormal"><font size="4">urticaria</font></p></li>
 				<li>
-				<address><font size="4">It is a powerful febrifuge, 
-		effective in </font></address>
-				<ul>
-					<li>
-					<address><font size="4">malaria and </font></address></li>
-					<li>
-					<address><font size="4">other intermittent and periodic fevers 
-					</font></address>
-					<ul>
-						<li>
-						<address><font size="4">( in 
-		which case it is usually used with black pepper and gentian).</font></address>
-						</li>
-					</ul>
-					</li>
-				</ul>
-				</li>
+				<p class="MsoNormal"><font size="4">eczema</font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">ringworm</font></p></li>
 			</ul>
 			</li>
 			<li>
+			<p class="MsoNormal"><font size="4">parasites</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">fever</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">malaria</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">thirst</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nausea</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">vomiting</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diabetes</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">tumors</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">obesity</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">arthritis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rheumatism</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">jaundice</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">disease of cold and </font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">tissue 
+		deficiency generally</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">hot or cold</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">decoction</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 to 500mg)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">paste</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">medicated ghee</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">medicated oil</font></p></li>
+		</ul>
+		<address><i><font size="4">NEEM</font></i><font size="4"> is one of the most powerful blood 
+		purifiers and detoxifiers in <i>Ayurvedic</i> uses. </font>
+		</address>
+		<ul>
+			<li>
+			<address><font size="4">It cools the </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">fever 
+		and </font>
+				</address></li>
+				<li>
+				<address><font size="4">clears the toxins </font>
+				</address></li>
+			</ul>
+			<address><font size="4">involved in most inflammatory skin diseases or 
+				</font>
+			</address>
+			<address><font size="4">those found in ulcerated mucous membranes . 
+				</font>
+			</address></li>
+			<li>
+			<address><font size="4">It is a powerful febrifuge, 
+		effective in </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">malaria and </font>
+				</address></li>
+				<li>
+				<address><font size="4">other intermittent and periodic fevers 
+					</font>
+				</address>
+				<ul>
+					<li>
+					<address><font size="4">( in 
+		which case it is usually used with black pepper and gentian).</font></address>
+					</li>
+				</ul></li>
+			</ul></li>
+		</ul>
+		<ul>
+			<li>
 			<address><i><font size="4">Neem</font></i><font size="4"> can be taken 
-			</font></address>
+				</font>
+			</address>
 			<ul>
 				<li>
 				<address><font size="4">whenever a purification or 
-		reduction program is indicated. </font></address></li>
+		reduction program is indicated. </font>
+				</address></li>
 				<li>
 				<address><font size="4">It clears away all foreign and excess 
-		tissue, and </font></address></li>
+		tissue, and </font>
+				</address></li>
 				<li>
 				<address><font size="4">possesses a supplementary astringent action that promotes 
-		healing. </font></address></li>
+		healing. </font>
+				</address></li>
 				<li>
 				<address><font size="4">Yet it should be used with discretion where there is severe 
-		fatigue or emaciation. </font></address></li>
-			</ul>
-			</li>
+		fatigue or emaciation. </font>
+				</address></li>
+			</ul></li>
 			<li>
-			<address><font size="4">In a medicated oil, </font></address>
+			<address><font size="4">In a medicated oil, </font>
+			</address>
 			<ul>
 				<li>
 				<address><font size="4">it is one of the best healing 
-		and disinfectant agent for </font></address>
+		and disinfectant agent for </font>
+				</address>
 				<ul>
 					<li>
-					<address><font size="4">skin diseases, and </font></address>
-					</li>
+					<address><font size="4">skin diseases, and </font>
+					</address></li>
 					<li>
 					<address><font size="4">anti-inflammatory agent 
-		for </font></address>
+		for </font>
+					</address>
 					<ul>
 						<li>
-						<address><font size="4">joint and </font></address></li>
+						<address><font size="4">joint and </font>
+						</address></li>
 						<li>
-						<address><font size="4">muscle pain. </font></address>
-						</li>
-					</ul>
-					</li>
-				</ul>
-				</li>
-			</ul>
-			</li>
+						<address><font size="4">muscle pain. </font>
+						</address></li>
+					</ul></li>
+				</ul></li>
+			</ul></li>
 		</ul>
 		<p class="MsoNormal" align="justify">&nbsp;</p>
 		</td>
