@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 25%;
+top: 26%;
 
 left: 50%;
 
@@ -296,116 +296,238 @@ transform: translateY(0px);
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
 <p class="MsoNormal">&nbsp;</p>
-<table border="0" width="100%">
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">	
 	<tr>
-		<td bgcolor="#006600">
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
 		<p class="MsoNormal">&nbsp;</p>
 		<p class="MsoNormal"><font color="#FFFFFF" size="7">SESAME SEEDS</font></p>
 &nbsp;</td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Part</b> <b>Used</b>: 
-		seeds</font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900" height="21">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Energetics</b>: 
-		sweet/heating/sweet</font></p>
-		<p class="MsoNormal"><font color="#FFFFFF"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; V-PK or 
-		Ama+ (in excess)</i></font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal"><b>Tissues</b>: works on all tissue-elements, 
-		particularly bone</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Systems</b>: respiratory, digestive, excretory, 
-		female reproductive </p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Actions</b>: nutritive tonic, rejuvenative, 
-		demulcent, emollient, laxative</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Indications</b>: chronic cough, weal lungs, 
-		chronic constipation, hemorrhoids, dysentery, amenorrhea, dysmenorrheal, 
-		receding gums, tooth decay, hair loss, weak bones, osteoporosis, 
-		emaciation, convalescence</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Precautions</b>: obesity, 
-		high <i>pitta</i></font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Preparation</b>: decoction, powder (500mg to 2 
-		gms), paste, medicated oil</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal">SESAME SEEDS are a rejuvenative tonic for <i>vata</i> 
-		constitution and for the bones and teeth. The black seeds are best, as 
-		they consists higher amount of solar energy. A confection of the seeds 
-		can be made with one part of sesame seeds, one half part <i>shatavari</i>, 
-		with ginger and raw sugar added for taste. One ounce of this mixture may 
-		be taken daily.</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal">Sesame seeds oil can be used as same way as the 
-		seeds. It is similar in properties to the olive oil. With equal parts of 
-		lime water, it can be applied externally for burns, boils and ulcers. 
-		Prepared with small amount of camphor, cardamom and cinnamon, it can be 
-		applied to the head for migraine or vertigo. The powdered seeds can also 
-		be used externally as paste. </p>
-		<p class="MsoNormal">Sesame seeds are <i>sattvic</i> and produce <i>
-		sattvic</i> tissues in the body, and are good for yogis, one ounce per 
-		day.</p>
+		<td>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">seeds</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">sweet/heating/sweet</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><i><font size="4">V-PK or 
+		Ama+ (in excess)</font></i></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">works on all tissue-elements</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">particularly bone</font></p>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font> </p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">excretory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">female reproductive </font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">nutritive tonic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rejuvenative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">demulcent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">emollient</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">laxative</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">chronic cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">weal lungs</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">chronic constipation</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">hemorrhoids</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dysentery</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">amenorrheadysmenorrheal</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">receding gums</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">tooth decay</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hair loss</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">weak bones</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">osteoporosis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">emaciation</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">convalescence</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">obesity</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">high </font><i><font size="4">pitta</font></i></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">decoction</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (500mg to 2 gms)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">paste</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">medicated oil</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><font size="4">SESAME SEEDS are </font>
+		</p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">a rejuvenative tonic for </font>
+			</p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4"><i>vata</i> 
+		constitution </font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">bones </font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">teeth. </font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">The black seeds are best, as 
+		they consists </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">higher amount of solar energy. 
+				</font></p></li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">A confection of the seeds 
+		can be made with </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">one part of sesame seeds</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><font size="4">one half part <i>shatavari</i></font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><font size="4">&nbsp;ginger and raw sugar 
+				</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><font size="4">added for taste. </font>
+					</p></li>
+				</ul>
+				</li>
+			</ul>
+			<p class="MsoNormal"><font size="4">One ounce of this mixture may 
+		be taken daily.</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">Sesame seeds oil can be used as same way as the 
+		seeds. </font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">It is similar in properties to the olive oil. 
+			</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">With equal parts of 
+		lime water,</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">&nbsp;it can be applied externally for 
+				</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><font size="4">burns</font></p></li>
+					<li>
+					<p class="MsoNormal"><font size="4">boils and </font></p>
+					<p class="MsoNormal"><font size="4">ulcers. 
+		</font></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">Prepared with small amount of 
+			</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">camphor</font></p></li>
+				<li>
+				<p class="MsoNormal"><font size="4">cardamom and </font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><font size="4">cinnamon, </font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><font size="4">it can be 
+		applied to the head for </font></p>
+					<ul>
+						<li>
+						<p class="MsoNormal"><font size="4">migraine</font></p>
+						</li>
+						<li>
+						<p class="MsoNormal"><font size="4">vertigo. </font></p>
+						</li>
+					</ul>
+					<p class="MsoNormal"><font size="4">The powdered seeds can also 
+		be used externally as paste. </font></p></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">Sesame seeds are <i>sattvic</i> and</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">&nbsp;produce <i>sattvic</i> tissues in the body,</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><font size="4">&nbsp;good for yogis, </font>
+				</p></li>
+			</ul>
+			<p class="MsoNormal"><font size="4">one ounce per 
+		day.</font></p></li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
 	</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-</body>
