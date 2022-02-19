@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 45%;
+top: 37%;
 
 left: 50%;
 
@@ -300,46 +300,153 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;">	
 	<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
-		<p class="MsoNormal"><font size="7" color="#FFFFFF">GUDUCHI (Amrit)</font></td>
+		<p class="MsoNormal">&nbsp;<p class="MsoNormal">
+		<font size="7" color="#FFFFFF">GUDUCHI (Amrit)</font></td>
 	</tr>
 	<tr>
 		<td>
-		<p class="MsoNormal"><i>(S) Guduchi , Amrita</i></p>
-		<p class="MsoNormal"><b>Part</b> <b>Used</b>: stem and root, powdered 
-		starchy extract</p>
-		<p class="MsoNormal"><b>Energetics</b>: bitter, astringent, sweet/ 
-		hot/sweet</p>
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>VPK</i>=</p>
-		<p class="MsoNormal"><b>Tissues</b>: blood, fat, reproductive</p>
-		<p class="MsoNormal"><b>Systems</b>: circulatory, digestive, 
-		reproductive</p>
-		<p class="MsoNormal"><b>Actions</b>: bitter tonic, febrifuge, 
-		alterative, diuretic, aphrodisiac, rejuvenative, antirheumatic </p>
-		<p class="MsoNormal">&nbsp;<b>Indications</b>: fever, convalescence from 
+		<p class="MsoNormal"><i><font size="4">(S) Guduchi , Amrita</font></i></p>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: stem and root, powdered 
+		starchy extract</font></p>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: bitter, astringent, sweet/ 
+		hot/sweet</font></p>
+		<p class="MsoNormal"><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>VPK</i>=</font></p>
+		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: blood, fat, reproductive</font></p>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: circulatory, digestive, 
+		reproductive</font></p>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: bitter tonic, febrifuge, 
+		alterative, diuretic, aphrodisiac, rejuvenative, antirheumatic </font> </p>
+		<p class="MsoNormal"><font size="4">&nbsp;<b>Indications</b>: fever, convalescence from 
 		febrile diseases, malaria, hyperacidity, hepatitis, jaundice, diabetes, 
 		heart disease, tuberculosis, arthritis, gout, skin diseases, 
-		hemorrhoids,</p>
-		<p class="MsoNormal"><b>Precautions</b>: use with care during pregnancy</p>
-		<p class="MsoNormal"><b>Preparation</b>: powder (250 to 500mg), extract 
-		(<i>guduchi</i> or <i>Giloy</i> <i>Sattva</i>)</p>
-		<p class="MsoNormal"><i>Guduchi</i> is a rejuvenative for pitta and 
-		powerful nutritive herb to take during recovery period from fevers or 
-		infectious diseases. Its hot nature is anti-<i>Ama</i>, non <i>Pitta</i> 
-		aggravating and destroys toxins without aggravating heat or fire in the 
-		body. <i>Guduchi</i>, like <i>ashwagandha</i> and <i>Shatavari</i>, is 
-		an excellent tonic for the immune system, and therefore one of the best 
-		herb to treat infections from Epstein bar virus to AIDS, such as many 
-		people today suffer from.&nbsp; It increases our positive energy in 
-		conditions of debility like chronic fatigue syndrome.</p>
-		<p class="MsoNormal">The bitter starch which comes from the plant, 
-		called <i>Guduchi</i> or <i>Giloy</i> <i>Sattva</i> is the best way to 
-		take it. Taken with ghee <i>Guduchi</i> reduces <i>Vata</i>, with sugar 
-		it reduces <i>pitta</i>, and with honey it reduces <i>Kapha</i>. </p>
+		hemorrhoids,</font></p>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: use with care during pregnancy</font></p>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: powder (250 to 500mg), extract 
+		(<i>guduchi</i> or <i>Giloy</i> <i>Sattva</i>)</font></p>
+		<ul>
+			<li>
+			<address><i><font size="4">Guduchi</font></i><font size="4"> is 
+			</font></address>
+			<ul>
+				<li>
+				<address><font size="4">a rejuvenative for pitta and 
+		</font></address></li>
+				<li>
+				<address><font size="4">powerful nutritive herb to take during recovery period from</font></address>
+				<ul>
+					<li>
+					<address><font size="4">&nbsp;fevers or 
+		</font></address></li>
+					<li>
+					<address><font size="4">infectious diseases. </font>
+					</address></li>
+				</ul>
+				</li>
+				<li>
+				<address><font size="4">Its hot nature is </font></address>
+				<ul>
+					<li>
+					<address><font size="4">anti-<i>Ama</i>, </font></address>
+					</li>
+					<li>
+					<address><font size="4">non <i>Pitta</i> 
+		aggravating and </font></address></li>
+					<li>
+					<address><font size="4">destroys toxins without aggravating heat or fire in the 
+		body. </font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4"><i>Guduchi</i>, like </font></address>
+			<ul>
+				<li>
+				<address><font size="4"><i>ashwagandha</i> and </font></address>
+				</li>
+				<li>
+				<address><font size="4"><i>Shatavari</i>, </font></address></li>
+			</ul>
+			<address><font size="4">is 
+		an excellent tonic for </font></address>
+			<ul>
+				<li>
+				<address><font size="4">the immune system, and </font></address>
+				</li>
+				<li>
+				<address><font size="4">therefore one of the best 
+		herb to treat infections from </font></address>
+				<ul>
+					<li>
+					<address><font size="4">Epstein bar virus </font></address>
+					</li>
+					<li>
+					<address><font size="4">&nbsp;AIDS, </font></address></li>
+				</ul>
+				<address><font size="4">such as many 
+		people today suffer from.&nbsp; </font></address></li>
+			</ul>
+			<address><font size="4">It increases our positive energy </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">in 
+		conditions of debility </font></address>
+				<ul>
+					<li>
+					<address><font size="4">like chronic fatigue syndrome.</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">The bitter starch which comes from the plant, 
+		called </font></address>
+			<ul>
+				<li>
+				<address><font size="4"><i>Guduchi</i> or </font></address></li>
+				<li>
+				<address><font size="4"><i>Giloy</i> <i>Sattva</i> </font>
+				</address></li>
+			</ul>
+			<address><font size="4">is the best way to 
+		take it. </font></address></li>
+			<li>
+			<address><font size="4">Taken with </font></address>
+			<ul>
+				<li>
+				<address><font size="4">ghee <i>Guduchi</i> reduces </font>
+				</address>
+				<ul>
+					<li>
+					<address><font size="4"><i>Vata</i>,</font></address></li>
+				</ul>
+				</li>
+				<li>
+				<address><font size="4">&nbsp;with sugar 
+		it reduces </font></address>
+				<ul>
+					<li>
+					<address><font size="4"><i>pitta</i>, </font></address></li>
+				</ul>
+				</li>
+				<li>
+				<address><font size="4">with honey it reduces</font></address>
+				<ul>
+					<li>
+					<address><font size="4">&nbsp;<i>Kapha</i>. </font>
+					</address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p class="MsoNormal">&nbsp;</td>
 	</tr>
 	</table>
