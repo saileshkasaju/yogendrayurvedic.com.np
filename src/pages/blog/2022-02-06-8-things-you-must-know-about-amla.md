@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 25%;
+top: 24%;
 
 left: 50%;
 
@@ -308,121 +308,248 @@ transform: translateY(0px);
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#006600">
-		<font size="7" color="#FFFFFF">AMLA</font></td>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">		<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<font size="7" color="#FFFFFF">AMLA</font></td>
 	</tr>
 	<tr>
-		<td bgcolor="#009933">
-		<p class="MsoNormal"><i><font color="#FFFFFF">Emblica officinalis;</font></i></p>
-		<p><i><font color="#FFFFFF">Euphorbiaceae</font></i></td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-		<p class="MsoNormal">(S) <i>Amalaki</i> or <i>Dhatri</i>, the nurse, as 
-		it is like a nurse or mother in its healing properties</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal"><b>Part</b> Used: fruit</p>
+		<td>
+		<p class="MsoNormal"><i><font size="4">Emblica officinalis;</font></i></p>
+		<p><i><font size="4">Euphorbiaceae</font></i><p class="MsoNormal">
+		<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		</font> </p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">(S) <i>Amalaki</i> or <i>Dhatri</i>, 
+			</font>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">the nurse, </font>
+				<ul>
+					<li>
+					<p class="MsoNormal"><font size="4">as 
+		it is like a nurse or mother </font></li>
+				</ul>
+				<p class="MsoNormal"><font size="4">in its healing properties</font></li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>:</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">&nbsp;fruit</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">all taste but salty</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">&nbsp;predominately sour</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">cooling/sweet</font></p>
+				<ul>
+					<li>
+					<p class="MsoNormal"><i><font size="4">PV-K and </font></i>
+					</p></li>
+					<li>
+					<p class="MsoNormal"><i><font size="4">Ama+ (in excess)</font></i></p>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">works on all tissue-element 
+			</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">increases Ojas</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">excretory</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Action</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">nutritive tonic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rejuvenative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">aphrodisiac</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">laxative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">refrigerant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">stomachic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">astringent</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hemostatic</font></p></li>
+		</ul>
+		<p>&nbsp;<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">bleeding disorder</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">hemorrhoids</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">anemia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diabetes</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">gout</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">vertigo</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">gastritis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">colitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hepatitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">osteoporosis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">biliousness</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">weakness of liver or spleen</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">premature 
+		graying or hair loss</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">convalescence from fever</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">general debility and 
+		tissue-deficiency</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">mental disorder</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">palpitation</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">acute diarrhea</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dysentery</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">decoction</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder (250 mg to 1 
+		g)</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">conflection</font></p></li>
+		</ul>
+		<p align="justify">&nbsp;<address align="justify"><i><font size="4">AMALAKI</font></i><font size="4"> is one of the 
+		strongest rejuvenatives in <i>Ayurvedic</i> medicine. </font></address>
+		<ul>
+			<li>
+			<address align="justify"><font size="4">It is particularly 
+		effective as a <i>rasayana</i> for </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4"><i>pitta</i></font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">blood</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">bones </font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">liver</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">heart.</font></address>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">&nbsp;<i>Amalaki</i> </font>
+			</address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">rebuilds and maintains new tissues</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">increases red blood cell 
+				count</font></address></li>
+				<li>
+				<address align="justify"><font size="4">cleanses the mouth</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">strengthens the teeth</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">nourishes the bones</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">help nails to grow
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">improves the eyesight</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">stop bleeding of gums</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">&nbsp;It improves 
+				appetite</font></address></li>
+				<li>
+				<address align="justify"><font size="4">cleanses the intestines
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">regulates blood-sugar</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">relieves inflammation 
+		of </font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">stomach</font></address>
+					</li>
+					<li>
+					<address align="justify"><font size="4">colon</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			<address align="justify"><font size="4">&nbsp;It is the highest natural source of vitamin C, 
+		with </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">3000mg per fruit</font></address>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Energetics</b>: all taste but salty, 
-		predominately sour/cooling/sweet</p>
-		<p class="MsoNormal"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PV-K and Ama+ (in excess)</i></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Tissues</b>: works on all tissue-element and 
-		increases Ojas</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Systems</b>: circulatory, digestive, excretory</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#996600">
-		<p class="MsoNormal"><font color="#FFFFFF"><b>Action</b>: nutritive 
-		tonic, rejuvenative, aphrodisiac, laxative, refrigerant, stomachic, 
-		astringent, hemostatic</font></p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CC9900">
-		<p class="MsoNormal"><b>Indications</b>: bleeding disorder, hemorrhoids, 
-		anemia, diabetes, gout, vertigo, gastritis, colitis, hepatitis, 
-		osteoporosis, biliousness, weakness of liver or spleen, premature 
-		graying or hair loss, convalescence from fever, general debility and 
-		tissue-deficiency, mental disorder, palpitation</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCCC00">
-		<p class="MsoNormal"><b>Precautions</b>: acute diarrhea, dysentery</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#99CC00">
-		<p class="MsoNormal"><b>Preparation</b>: decoction, powder (250 mg to 1 
-		g), conflection</p>
-		<p align="justify">&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#669900">
-		<p class="MsoNormal" align="justify"><i>AMALAKI</i> is one of the 
-		strongest rejuvenatives in <i>Ayurvedic</i> medicine. It is particularly 
-		effective as a <i>rasayana</i> for <i>pitta</i>; for the blood, bones, 
-		the liver and the heart. It rebuilds and maintains new tissues and 
-		increases red blood cell count. <i>Amalaki</i> cleanses the mouth, 
-		strengthens the teeth, nourishes the bones, and nails to grow. It 
-		improves the eyesight, stop bleeding of gums, and relieves inflammation 
-		of the stomach and colon. It is the highest natural source of vitamin C, 
-		with 3000mg per fruit. It improves appetite, cleanses the intestines and 
-		regulates blood-sugar.</p>
-		<p>&nbsp;</td>
-	</tr>
-	<tr>
-		<td bgcolor="#009900">
-		&nbsp;</td>
-	</tr>
-</table>
+	</table>
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
-
-<table border="0" width="100%">
-	<tr>
-		<td bgcolor="#66FF99"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-31-8-things-you-must-know-about-garlic/"><img src="https://www.yogendrayurvedic.com.np/static/20830ac3fa0f404c6a7bfb2c1f181bb8/c154f/garlic.jpg">
-		<p class="MsoNormal"><b><font size="4">GARLIC</font></b></p>
-		<p class="MsoNormal">(S) <i>Rashona</i>, &quot;lacking one taste&quot; as it 
-		consist all tastes except sour taste.</p>
-		<p class="MsoNormal">Pungent reside&nbsp; in roots, bitter in leaves, 
-		astringent in its stem, saline at top of its stem, and sweet taste in 
-		its seeds. MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#99FFCC"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-30-8-things-you-must-know-about-fennel-seeds/">
-
-<img src="https://www.yogendrayurvedic.com.np/static/91e826cbdafdb03c67eee9340c0496a7/89b9c/fennel-seeds.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>FENNEL</b> <b>SEEDS</b> are one of the best for all digestion, 
-		strengthening <i>agni</i> without increasing pittia, stopping cramping 
-		and dispelling flatulence.</span>MORE>></a></td>
-	</tr>
-	<tr>
-		<td bgcolor="#CCFFFF"><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-29-8-things-you-should-know-about-cardamom/"><img src="https://www.yogendrayurvedic.com.np/static/d158a70d911f4ff7697b3f7958443ce4/ad750/cardamom.jpg">
-		<span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri,sans-serif">
-		<b>CARDAMOM</b> is of the best and safest digestive stimulants. It 
-		awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, enkindles <i>
-		Agni</i> and removes <i>kapha</i> from the stomach and the lungs. </span>MORE>></a>
-		</td>
-	</tr>
-</table>
-
-</body>
