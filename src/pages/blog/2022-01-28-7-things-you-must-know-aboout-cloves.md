@@ -8,280 +8,157 @@ featuredimage: /img/cloves.jpg
 tags:
   - HERBS
 ---
-<html>
-
-<head>
-
-<title>New Page 1</title>
-
-</head>
-
 <style>
-
-\*
-
-{
-
-margin: 0;
-
-padding: 0;
-
-box-sizing: border-box;
-
-
-
-}
-
 .box
 
 {
 
-position: relative;
+background-color: #5BBC55;
 
-width: 300px;
+box-sizing: border-box;
 
-height: 400px;
+border-radius: 50px;
 
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-background: rgba(0, 0, 0, 5);
+border: 5px solid white;
 
 overflow: hidden;
 
-border-radius: 20px;
-
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 }
 
-.box::before
-
-{
-
-content: '';
+.wrapper{
 
 position: absolute;
 
-width: 150px;
+top: 33%;
 
-height:140%;
+left: 50%;
 
-background: linear-gradient(#00ccff,#d400d4);
-
-animation: animate 4s linear infinite;
+perspective: 1500px;
 
 }
 
-.box::after
+.b-area{
 
-{
+position: relative;
 
-content: '';
+transform-style: preserve-3d;
 
-position: absolute;
+animation-name: rotate;
 
-inset: 4px;
+animation-duration: 30s;
 
-background: #0e1538;
+animation-timing-function: linear;
 
-border-radius: 16px;
+animation-iteration-count: infinite;
 
 }
 
-@keyframes animate
-
-{
+@keyframes rotate{
 
 0%{
 
-transform: rotate(0deg);
+transform: rotate3d(0,0,0,0);
 
 }
 
 100%{
 
-transform: rotate(360deg);
+transform: rotate3d(0,1,0,360deg);
 
 }
 
-
-
 }
 
-.box h2
-
-{
-
-position: relative;
-
-color: #fff;
-
-font-size: 3em;
-
-z-index: 10;
-
-}
-
-::-webkit-scrollbar{
-
-width: 10px;
-
-}
-
-::-webkit-scrollbar-track{
-
-border-radius: 5px;
-
-box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
-
-}
-
-::-webkit-scrollbar-thumb {
-
-border-radius: 5px;
-
-background-color: #009578;
-
-}
-
-::-webkit-scrollbar-thumb :hover{
-
-background-color: #6dcdb1;
-
-}
-
-
-
-
-
-.topic{
-
-
+.b{
 
 position: absolute;
 
+width: 200px;
+
+height: 200px;
+
+border: 2px solid #262626;
+
+}
+
+.b-front{
+
+transform: translateX(-100px) translateY(-100px) translateZ(100px);
+
+background: black;
+
+}
+
+.b-back{
+
+transform: translateX(-100px) translateY(-100px) translateZ(-100px);
+
+background: black;
 
 
-width: 360px;
 
+}
 
+.b-right{
 
-z-index: 2;
+transform: translateY(-100px) rotateY(90deg);
 
-left: 1px;
+background:black;
 
+}
 
+.b-left{
 
-top: px;
+transform: translatey(-100px) translateX(-200px) rotateY(90deg);
 
+background: black;
 
+}
 
-right:100px;
+.b-bottom{
 
-height:1750px;
+transform: translateX(-100px) rotateX(90deg);
+
+background: rgba(255,30,0,0.5);
+
+}
+
+.b-top{
+
+transform: translateX(-100px) translateY(-200px) rotateX(90deg);
+
+background: rgba(0,6,246,0.5);
+
+}
+
+.b-area{
+
+transform: rotateX(90deg) rotateY(90deg);
+
+}
+
+body{
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
-border-radius: 12PX;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
 }
 
 
 
-.subscribe {
-
-
-
-position: absolute;
-
-
-
-width: 100px;
-
-
-
-height: 63px;
-
-
-
-z-index: 1;
-
-
-
-left: 427px;
-
-top: 19px; border-radius: 20%;
-
-background-color:#008000;
-
-}
-
-.old{
-
-position: absolute;
-
-width: 360px;
-
-height: 373px;
-
-z-index: 1;
-
-left: 0px;
-
-top: 2950px; 
-
-border-radius: 5%;
-
-background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
-
-border-radius: 2%;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
-
-}
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+		}
 
 .container{
+
+
 
 width: 100%;
 
@@ -352,191 +229,271 @@ transform: translateY(0px);
 
 }
 
-}
 
-.content{
-
-width: 100%;
-
-max-width: 600px;
-
-padding: 20px 40px;
-
-box-sizing: border-box;
-
-}
-
-body,html{
-
-height: 100%;
-
-margin: 0px;
-
-padding: 0px;
-
-background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
-
-position:static;
-
-}
 
 </style>
 
 <body>
 
-<div class="head">
-
-<div class="container">
+<div class="container" style="left:20%">
 
 <div class="avatar">
 
-<a href="#">
+<a href="https://www.yogendrayurvedic.com.np">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
 
-</a>
+</div>
 
 </div>
 
 <div class="box">
 
-<h2 >YOGENDRA <BR> AYURVEDA</h2>
+<h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
+
+</div>
+
+<div class="wrapper">
+
+<div class="b-area">
+
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
+
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
+
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/nervous_system-removebg-preview.png" style="height:100%"></div>
+
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
+
+<div class="b b-top"></div>
+
+<div class="b b-bottom"></div>
 
 </div>
 
 </div>
 
-<div class="topic">
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
 
-<p class="MsoNormal" align="justify"><font size="7">CLOVES</font></p>
-<p class="MsoNormal" align="justify"><i>(S)Lavanga</i></p>
-<p class="MsoNormal" align="justify"><b>Part</b> <b>Used</b>: dried flower bud</p>
-<p class="MsoNormal" align="justify"><b>Energetics</b>: pungent/heating/pungent</p>
-<p class="MsoNormal" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KV- P+</p>
-<p class="MsoNormal" align="justify"><b>Tissues</b>: plasma, muscle, marrow and 
-nerve, reproductive</p>
-<p class="MsoNormal" align="justify"><b>Action</b>: stimulant, expectorant, 
-carminative, analgesic, aphrodisiac</p>
-<p class="MsoNormal" align="justify"><b>Indications</b>: cold, cough, asthma, 
-indigestion, toothache, vomiting, hiccough, laryngitis, phatyngitis, low blood 
-pressure, impotence</p>
-<p class="MsoNormal" align="justify"><b>Precautions</b>: inflammatory condition, 
-hypertension, high pitta</p>
-<p class="MsoNormal" align="justify"><b>Preparation</b>: infusion (do not boil), 
-powder (250to 500mg), milk decoction</p>
-<p class="MsoNormal" align="justify">CLOVES are an effective stimulant and 
-aromatic for the lungs and stomach. They dispel chill and disinfect the 
-lymphatics. Along with rock salt candy, they are effective in cold and cough. 
-The volatile oil is a powerful analgesic. Cloves are mildly aphrodisiac. They 
-are very heating and their energizing effect may be a little irritating owing to 
-their rajasic quality.</p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg">
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg">
+<p class="MsoNormal" align="justify">&nbsp;</p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-</div>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
 
-<div class="old"><h3>ALOE VERA</h3>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
 
-<a href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/" style="color:black"><img src="https://www.yogendrayurvedic.com.np/static/5f117223bcd128c16614c758380a50f1/26852/aloe-vera-plant-1522874831.jpg"/>
-
-<p>Aloe gel is wonderful tonic for liver and spleen, for the blood and the female reproductive...<br>
-
-more>><a/></p>
-
-</div>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br>
-
-<br>
-
-<br>
-
-</body>
-
-</html>
+<p class="MsoNormal" align="justify">&nbsp;</p>
+		<p class="MsoNormal" align="justify"><font size="7" color="#FFFFFF">CLOVES</font></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+<p class="MsoNormal" align="justify">&nbsp;</p>
+		<p class="MsoNormal" align="justify"><i><font size="4">(S)Lavanga</font></i></p>
+		<p class="MsoNormal" align="justify"><b><font size="4">Part</font></b><font size="4">
+		<b>Used</b>: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">dried flower bud</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal" align="justify"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">pungent/heating/pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">KV- P+</font></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal" align="justify"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">plasma</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">muscle</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">marrow</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">nerve</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">reproductive</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Action</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">stimulant</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">expectorant</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">carminative</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">analgesic</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">aphrodisiac</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Indications</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">cold</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">cough</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">asthma</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">indigestion</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">toothache</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">vomiting</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">hiccough</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">laryngitis</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">phatyngitis</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">low blood 
+pressure</font></p></li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">impotence</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Precautions</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">inflammatory condition</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">hypertension</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">high pitta</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Preparation</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">infusion (do not boil)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">powder (250to 500mg)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">milk decoction</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal" align="justify">&nbsp;</p>
+		<ul>
+			<li>
+			<address align="justify"><font size="4">CLOVES are an effective 
+			</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">stimulant and 
+aromatic for </font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">lungs and stomach</font></address>
+					</li>
+				</ul>
+				</li>
+				<li>
+				<address align="justify"><font size="4">&nbsp;dispel chill</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">disinfect the lymphatics</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">&nbsp;Along with rock salt candy, 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">they are effective in cold and cough</font></address>
+					</li>
+				</ul>
+				</li>
+				<li>
+				<address align="justify"><font size="4">The volatile oil is 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">powerful analgesic. 
+					</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">Cloves are </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">mildly aphrodisiac</font></address>
+				</li>
+				<li>
+				<address align="justify"><font size="4">very heating </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">their energizing effect may be a little irritating 
+				</font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">owing to 
+their rajasic quality.</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+</table>
