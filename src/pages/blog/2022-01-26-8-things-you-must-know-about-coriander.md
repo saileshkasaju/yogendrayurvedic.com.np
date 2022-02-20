@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 45%;
+top: 28%;
 
 left: 50%;
 
@@ -300,42 +300,207 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-	<tr>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
-		<p class="MsoNormal"><font size="7" color="#FFFFFF">Coriander</font></td>
+		<p class="MsoNormal">&nbsp;<p class="MsoNormal">
+		<font size="7" color="#FFFFFF">Coriander</font></td>
 	</tr>
 	<tr>
 		<td>
 		<p class="MsoNormal">&nbsp;</p>
-		<p class="MsoNormal">(S) <i>Dhanyaka</i></p>
-		<p class="MsoNormal"><b>Part</b> <b>Used</b>: Fruit, fresh plant</p>
-		<p class="MsoNormal"><b>Energetics</b>: Bitter, pungent/cooling/pungent</p>
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>&nbsp; VPK=</i></p>
-		<p class="MsoNormal"><b>Tissues</b>: plasma, blood, muscle</p>
-		<p class="MsoNormal"><b>Systems</b>: digestive, respiratory, urinary</p>
-		<p class="MsoNormal"><b>Actions</b>: alterative, diaphoretic, diuretic, 
-		carminative, stimulant</p>
-		<p class="MsoNormal"><b>Indication</b>: burning urethra, cystitis, 
-		urinary track infection, urticaria, rash, burns, sore throat, vomiting, 
-		indigestion, allergies, hay fever</p>
-		<p class="MsoNormal"><b>Precautions</b>: few, except high <i>vata</i> 
-		with nerve tissue deficiency</p>
-		<p class="MsoNormal"><b>Preparation</b>: infusion (hot or cold), 
-		powder(250 to 500mg), fresh juice</p>
-		<p class="MsoNormal">Coriander seeds are a good household remedy for 
-		many <i>pitta</i> disorders, particularly those of the digestive track 
-		or urinary system. It is an effective digestive agent for pitta 
-		conditions in which most spices are contraindicated or used with 
-		caution. The fresh juice of the herb is effective internally for 
-		allergies, hay fever and skin rashes; one teaspoon three times a day, 
-		but it can also be used for external itch and inflammation.</p>
-		<p class="MsoNormal">Similar in properties is cumin, which is antidote 
-		for hot, pungent food. It increases digestion and absorption, and is 
-		good for diarrhea and dysentery. Coriander, cumin and fennel seeds are 
-		related plants with similar properties.&nbsp; </p>
+		<p class="MsoNormal"><font size="4">(S) </font> <i><font size="4">Dhanyaka</font></i></p>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>Used</b>: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">Fruit</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">fresh plant</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">Bitter</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">pungent/cooling/pungent</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><i><font size="4">VPK=</font></i></p></li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">muscle</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">urinary</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Actions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">alterative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diaphoretic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diuretic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indication</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">burning urethra</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">cystitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">urinary track infection</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">urticaria</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rash</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">burns</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sore throat</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">vomiting</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">indigestion</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">allergies</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hay fever</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">few</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">except high <i>vata</i> 
+		with nerve tissue deficiency</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">infusion (hot or cold)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder(250 to 500mg)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">fresh juice</font></p></li>
+		</ul>
+		<p class="MsoNormal">&nbsp;</p>
+		<ul>
+			<li>
+			<address><font size="4">Coriander seeds are a good household remedy for 
+			</font></address>
+			<ul>
+				<li>
+				<address><font size="4">many <i>pitta</i> disorders</font></address>
+				</li>
+				<li>
+				<address><font size="4">particularly those of the digestive track</font></address>
+				</li>
+				<li>
+				<address><font size="4">urinary system. </font></address></li>
+			</ul>
+			<address><font size="4">It is an effective digestive agent </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">for pitta 
+		conditions </font></address>
+				<ul>
+					<li>
+					<address><font size="4">in which most spices are contraindicated or used with 
+		caution. </font></address></li>
+				</ul>
+				</li>
+			</ul>
+			<address><font size="4">The fresh juice of the herb is effective internally for 
+			</font></address>
+			<ul>
+				<li>
+				<address><font size="4">allergies</font></address></li>
+				<li>
+				<address><font size="4">hay fever </font></address></li>
+				<li>
+				<address><font size="4">skin rashes; </font></address></li>
+			</ul>
+			<address><font size="4">one teaspoon </font></address>
+			<ul>
+				<li>
+				<address><font size="4">three times a day, 
+		</font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">Coriander can also be used for external 
+			</font></address>
+			<ul>
+				<li>
+				<address><font size="4">itch </font></address></li>
+				<li>
+				<address><font size="4">inflammation.</font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">Similar in properties is cumin, which is 
+			antidote for </font></address>
+			<ul>
+				<li>
+				<address><font size="4">hot</font></address></li>
+				<li>
+				<address><font size="4">pungent food. </font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">It increases </font></address>
+			<ul>
+				<li>
+				<address><font size="4">digestion </font></address></li>
+				<li>
+				<address><font size="4">absorption</font></address></li>
+			</ul>
+			<address><font size="4">&nbsp;and is 
+		good for </font></address>
+			<ul>
+				<li>
+				<address><font size="4">diarrhea </font></address></li>
+				<li>
+				<address><font size="4">dysentery. </font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">Coriander, cumin and fennel seeds are 
+		related plants with similar properties.&nbsp; </font></address></li>
+		</ul>
 		<p class="MsoNormal">&nbsp;</p>
 		<p>&nbsp;</td>
 	</tr>
