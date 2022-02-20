@@ -30,7 +30,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 45%;
+top: 29%;
 
 left: 50%;
 
@@ -300,41 +300,212 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
+
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
-	<tr>
-		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-		<p class="MsoNormal"><font size="7" color="#FFFFFF">CARDAMOM</font></td>
+		<p class="MsoNormal">&nbsp;<p class="MsoNormal">
+		<font size="7" color="#FFFFFF">CARDAMOM</font></td>
 	</tr>
 	<tr>
 		<td>
 		<p class="MsoNormal">&nbsp;</p>
-		<p class="MsoNormal">(S) <i>Ela</i></p>
-		<p class="MsoNormal"><b>Part</b> <b>Used</b>: seed</p>
-		<p class="MsoNormal"><b>Energetics</b>: pungent, sweet/heating/pungent</p>
-		<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;&nbsp; VK- P+</i></p>
-		<p class="MsoNormal"><b>Tissues</b>: plasma, blood, marrow and nerve</p>
-		<p class="MsoNormal"><b>System</b>: digestive, respiratory, circulatory, 
-		nervous</p>
-		<p class="MsoNormal"><b>Action</b>: stimulant, expectorant, carminative, 
-		stomachic, diaphoretic</p>
-		<p class="MsoNormal"><b>Indication</b>: colds, cough, bronchitis, 
-		asthma, hoarse voice, loss of taste, poor absorption, indigestion</p>
-		<p class="MsoNormal"><b>Precautions</b>: ulcers, high <i>pitta</i></p>
-		<p class="MsoNormal"><b>Preparation</b>: Infusion (do not boil), powder 
-		(100-500mg), milk decoction</p>
-		<p class="MsoNormal">CARDAMOM is of the best and safest digestive 
-		stimulants. It awakens the spleen, stimulates <i>samana</i> <i>vayu</i>, 
-		enkindles <i>Agni</i> and removes <i>kapha</i> from the stomach and the 
-		lungs. It stimulates the mind and heart and gives clarity and joy. Added 
-		with milk it neutralizes its mucus forming properties and it detoxifies 
-		caffeine in coffee. Its quality is <i>sattvic</i> and it is particularly 
-		good for opening and soothing the flow of the <i>pranas</i> in the body.</p>
-		<p class="MsoNormal">Cardamom is good for the nervous digestion upset of 
-		children or of high <i>vata</i> and in this regard combines well with 
-		fennel. It helps stop vomiting, belching, or acid regurgitation. </p>
+		<p class="MsoNormal"><font size="4">(S) </font> <i><font size="4">Ela</font></i></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4">
+			<b>Used</b>: seed</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">sweet/heating/pungent</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><i><font size="4">VK- P+</font></i></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">marrow</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nerve</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">System</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">circulatory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nervous</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Action</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">expectorant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">carminative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">stomachic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diaphoretic</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indication</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">colds</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">bronchitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">asthma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">hoarse voice</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">loss of taste</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">poor absorption</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">indigestion</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">ulcers</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">high </font><i><font size="4">pitta</font></i></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">Infusion (do not boil)</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">powder 
+		(100-500mg)</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">milk decoction</font></p></li>
+		</ul>
 		<p class="MsoNormal">&nbsp;</p>
+		<ul>
+			<li>
+			<address><font size="4">CARDAMOM is of the best and safest digestive 
+		stimulants.</font></address>
+			<ul>
+				<li>
+				<address><font size="4">&nbsp;It awakens the spleen</font></address>
+				</li>
+				<li>
+				<address><font size="4">stimulates <i>samana</i> <i>vayu</i></font></address>
+				</li>
+				<li>
+				<address><font size="4">enkindles <i>Agni</i> and </font>
+				</address></li>
+				<li>
+				<address><font size="4">removes <i>kapha</i> from </font>
+				</address>
+				<ul>
+					<li>
+					<address><font size="4">stomach and </font></address></li>
+					<li>
+					<address><font size="4">the 
+		lungs. </font></address></li>
+				</ul>
+				<address><font size="4">It stimulates </font></address>
+				<ul>
+					<li>
+					<address><font size="4">mind and </font></address></li>
+					<li>
+					<address><font size="4">heart and </font></address></li>
+					<li>
+					<address><font size="4">gives clarity and joy</font></address>
+					</li>
+				</ul>
+				<address><font size="4">Added 
+		with milk i</font></address>
+				<ul>
+					<li>
+					<address><font size="4">t neutralizes its </font></address>
+					<ul>
+						<li>
+						<address><font size="4">mucus forming properties </font>
+						</address></li>
+						<li>
+						<address><font size="4">detoxifies 
+		caffeine in coffee. </font></address></li>
+					</ul>
+					</li>
+				</ul>
+				</li>
+				<li>
+				<address><font size="4">Its quality is <i>sattvic</i> </font>
+				</address>
+				<ul>
+					<li>
+					<address><font size="4">it is particularly 
+		good for </font></address>
+					<ul>
+						<li>
+						<address><font size="4">opening and soothing the flow of the
+						<i>pranas</i> in the body.</font></address></li>
+					</ul>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">Cardamom is good for </font></address>
+			<ul>
+				<li>
+				<address><font size="4">the nervous digestion upset of 
+		children </font></address></li>
+				<li>
+				<address><font size="4">high <i>vata</i></font></address></li>
+			</ul>
+			<address><font size="4">combines well with 
+		fennel. </font></address>
+			<ul>
+				<li>
+				<address><font size="4">It helps stop </font></address>
+				<ul>
+					<li>
+					<address><font size="4">vomiting</font></address></li>
+					<li>
+					<address><font size="4">belching</font></address></li>
+					<li>
+					<address><font size="4">acid regurgitation. </font>
+					</address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
 	</table>
