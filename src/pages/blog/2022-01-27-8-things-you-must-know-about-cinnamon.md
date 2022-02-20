@@ -9,43 +9,30 @@ tags:
   - HERBS
 ---
 <style>
+.box
 
-.topic{
+{
 
-position: absolute;
+background-color: #5BBC55;
 
-width: 360px;
+box-sizing: border-box;
 
-z-index: 2;
+border-radius: 50px;
 
-left: 1px;
-
-top: 35%;
-
-right:100px;
-
-height:1111px;
-
-background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
-
-border-radius: 22px;
-
-border: 1px solid white;
+border: 5px solid white;
 
 overflow: hidden;
 
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-align-content: center;
-
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 }
+
 .wrapper{
 
 position: absolute;
 
-top: 32%;
+top: 31%;
 
-left: 37%;
+left: 50%;
 
 perspective: 1500px;
 
@@ -99,7 +86,7 @@ border: 2px solid #262626;
 
 transform: translateX(-100px) translateY(-100px) translateZ(100px);
 
-background: rgba(255,16,107,0.5);
+background: black;
 
 }
 
@@ -107,7 +94,8 @@ background: rgba(255,16,107,0.5);
 
 transform: translateX(-100px) translateY(-100px) translateZ(-100px);
 
-background: rgba(1,251,236,0.5);
+background: black;
+
 
 
 }
@@ -116,7 +104,7 @@ background: rgba(1,251,236,0.5);
 
 transform: translateY(-100px) rotateY(90deg);
 
-background: rgba(4,255,116,0.5);
+background:black;
 
 }
 
@@ -124,7 +112,7 @@ background: rgba(4,255,116,0.5);
 
 transform: translatey(-100px) translateX(-200px) rotateY(90deg);
 
-background: rgba(216,255,0,0.5);
+background: black;
 
 }
 
@@ -150,83 +138,27 @@ transform: rotateX(90deg) rotateY(90deg);
 
 }
 
-::-webkit-scrollbar{
-
-width: 10px;
-
-}
-
-::-webkit-scrollbar-track{
-
-border-radius: 5px;
-
-box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
-
-}
-
-::-webkit-scrollbar-thumb {
-
-border-radius: 5px;
-
-background-color: #009578;
-
-}
-
-::-webkit-scrollbar-thumb :hover{
-
-background-color: #6dcdb1;
-
-}
-
-
-
-
-
-
-.old{
-
-position: absolute;
-
-width: 360px;
-
-height: 373px;
-
-z-index: 1;
-
-left: 0px;
-
-top: 2850px; 
-
-border-radius: 5%;
+body{
 
 background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
 
-border-radius: 2%;
-
-
-
-
-
-border: 1px solid white;
-
-
-
-overflow: hidden;
-
-
-
-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.6);
-
-
-
-align-content: center;
-
-
-
-
 }
 
+
+
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+		}
+
 .container{
+
+
 
 width: 100%;
 
@@ -297,51 +229,27 @@ transform: translateY(0px);
 
 }
 
-}
 
-.content{
-
-width: 100%;
-
-max-width: 600px;
-
-padding: 20px 40px;
-
-box-sizing: border-box;
-
-}
-
-body,html{
-
-height: 100%;
-
-margin: 0px;
-
-padding: 0px;
-
-background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
-
-position:static;
-
-}
 
 </style>
 
 <body>
 
-<div class="head">
-
-<div class="container">
+<div class="container" style="left:20%">
 
 <div class="avatar">
 
-<a href="#">
+<a href="https://www.yogendrayurvedic.com.np">
 
 <img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
 
-</a>
+</div>
 
 </div>
+
+<div class="box">
+
+<h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
 
 </div>
 
@@ -349,19 +257,13 @@ position:static;
 
 <div class="b-area">
 
-<div class="b b-front"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg">
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
 
-</div>
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
 
-<div class="b b-right">
-</div>
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/nervous_system-removebg-preview.png" style="height:100%"></div>
 
-<div class="b b-back">
-</div>
-
-<div class="b b-left">
-
-</div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
 
 <div class="b b-top"></div>
 
@@ -371,139 +273,236 @@ position:static;
 
 </div>
 
-<div class="topic">
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
 
-<p class="MsoNormal" align="justify"><b><font size="7">CINNAMON</font></b></p>
-<p class="MsoNormal" align="justify"><font size="3">(<b>S</b>) </font><i>
-<font size="3">Twak</font></i></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Part</font></b><font size="3">
-<b>Used</b>: bark</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Energetics</font></b><font size="3">: 
-pungent, sweet, astringent/heating/sweet</font></p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<p class="MsoNormal" align="justify"><b><font size="3">Tissues</font></b><font size="3">: 
-plasma, blood, muscles, marrow and nerves</font></p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<br>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-<p class="MsoNormal" align="justify"><b><font size="3">Systems</font></b><font size="3">: 
-circulatory, digestive, respiratory, urinary</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Actions</font></b><font size="3">: 
-stimulant, diaphoretic, carminative, alterative, expectorant, diuretic, 
-analgesic</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Indications</font></b><font size="3">: 
-colds, sinus congestion, bronchitis, dyspepsia</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Precautions</font></b><font size="3">: 
-high pitta, bleeding disorders</font></p>
-<p class="MsoNormal" align="justify"><b><font size="3">Preparation</font></b><font size="3">: 
-infusion, dececotion, powder (500mg to 1gm)</font></p>
-<p class="MsoNormal" align="justify"><font size="3">CINNAMON is an effective 
-herb for strengthening and harmonizing the flow of circulation (vyana vayu). It 
-is good diaphoretic and expectorant in colds and flues, and is specially good 
-for those of weak constitution. It is a pain reliever for tooth ache and muscle 
-tension. It strengthens the heart, warms the kidneys and promotes agni. Like 
-ginger it is universal medicine, and is less likely to aggravate pitta than 
-ginger. It is good general beverage&nbsp; (its quality is sattvic ) for vata 
-constitution.</font></p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-</div>
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
 
-<div class="old"><h3>ALOE VERA</h3>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">
 
-<a href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/" style="color:black"><img src="https://www.yogendrayurvedic.com.np/static/5f117223bcd128c16614c758380a50f1/26852/aloe-vera-plant-1522874831.jpg"/>
+<p class="MsoNormal" align="justify">&nbsp;</p>
+<p class="MsoNormal" align="justify"><b><font size="7" color="#FFFFFF">CINNAMON</font></b></p>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>
+<p class="MsoNormal" align="justify">&nbsp;</p>
+		<p class="MsoNormal" align="justify"><font size="4">(<b>S</b>) </font><i>
+<font size="4">Twak</font></i></p>
+<p class="MsoNormal" align="justify"><b><font size="4">Part</font></b><font size="4">
+<b>Used</b>: </font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">bark</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Energetics</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">pungent</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">sweet</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal" align="justify"><font size="4">astringent/heating/sweet</font></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
 
-<p>Aloe gel is wonderful tonic for liver and spleen, for the blood and the female reproductive...<br>
+<p class="MsoNormal" align="justify"><b><font size="4">Tissues</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">plasma</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">blood</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">muscles</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">marrow</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">nerves</font></p>
+			</li>
+		</ul>
 
-more>><a/></p>
-
-</div>
-
-<br>
-
-</div>
-
-</div>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br>
-
-<br>
-
-<br>
-
-</body>
+<p class="MsoNormal" align="justify"><b><font size="4">Systems</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">circulatory</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">digestive</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">respiratory</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">urinary</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Actions</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">stimulant</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">diaphoretic</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">carminative</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">alterative</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">expectorant</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">diuretic</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">analgesic</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Indications</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">colds</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">sinus congestion</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">bronchitis</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">dyspepsia</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Precautions</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">high pitta</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">bleeding disorders</font></p>
+			</li>
+		</ul>
+<p class="MsoNormal" align="justify"><b><font size="4">Preparation</font></b><font size="4">: 
+</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">infusion</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">dececotion</font></p>
+			</li>
+			<li>
+			<p class="MsoNormal" align="justify"><font size="4">powder (500mg to 1gm)</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal" align="justify">&nbsp;</p>
+		<ul>
+			<li>
+			<address align="justify"><font size="4">CINNAMON is an effective 
+			herb for </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">strengthening and 
+				harmonizing the flow of circulation (vyana vayu). </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">It is good diaphoretic 
+				and expectorant in </font></address>
+				<ul>
+					<li>
+					<address align="justify"><font size="4">colds and </font>
+					</address></li>
+					<li>
+					<address align="justify"><font size="4">flues, </font>
+					</address></li>
+				</ul>
+				<address align="justify"><font size="4">and is specially good 
+				for those of weak constitution. </font></address></li>
+			</ul>
+			<address align="justify"><font size="4">It is a pain reliever for
+			</font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">tooth ache and </font>
+				</address></li>
+				<li>
+				<address align="justify"><font size="4">muscle tension. </font>
+				</address></li>
+			</ul>
+			</li>
+			<li>
+			<address align="justify"><font size="4">CINNAMON </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">strengthens the heart,
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">warms the kidneys and
+				</font></address></li>
+				<li>
+				<address align="justify"><font size="4">promotes agni. </font>
+				</address></li>
+			</ul>
+			<address align="justify"><font size="4">Like ginger it is universal 
+			medicine, </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">less likely to aggravate 
+				pitta than ginger.</font></address></li>
+				<li>
+				<address align="justify"><font size="4">&nbsp;It is good general 
+				beverage </font></address></li>
+			</ul>
+			<address align="justify"><font size="4">&nbsp;its quality is sattvic&nbsp; 
+			for </font></address>
+			<ul>
+				<li>
+				<address align="justify"><font size="4">vata constitution.</font></address>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+</table>
