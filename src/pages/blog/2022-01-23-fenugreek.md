@@ -33,7 +33,7 @@ box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 
 position: absolute;
 
-top: 45%;
+top: 28%;
 
 left: 50%;
 
@@ -303,41 +303,215 @@ transform: translateY(0px);
 
 <p class="MsoNormal" align="justify">&nbsp;</p>
 
-<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-	<tr>
-		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">		<tr>
+
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
 		<font size="7" color="#FFFFFF">Fenugreek</font></td>
 	</tr>
 	<tr>
 		<td>
 		<p class="MsoNormal">&nbsp;</p>
-		<p class="MsoNormal"><b>Part</b> <b>used</b>: seeds</p>
-		<p class="MsoNormal"><b>Energetics</b>: bitter, pungent, 
-		sweet/heating/pungent<i> VK- P+</i></p>
-		<p class="MsoNormal"><b>Tissues</b>: plasma, blood, marrow and nerve, 
-		reproductive</p>
-		<p class="MsoNormal"><b>Systems</b>: digestive, respiratory, urinary, 
-		reproductive</p>
-		<p class="MsoNormal"><b>Action</b>: stimulant, tonic, expectorant, 
-		rejuvenative, aphrodisiac, diuretic</p>
-		<p class="MsoNormal"><b>Indications</b>: dysentery, dyspepsia, chronic 
-		cough, allergies, bronchitis, influenza, convalescence, dropsy, 
-		toothache, neurasthenia, sciatica, arthritis</p>
-		<p class="MsoNormal"><b>Precautions</b>: pregnancy (may cause abortion, 
-		promotes vaginal breeding), high <i>pitta</i> conditions</p>
-		<p class="MsoNormal"><b>Preparation</b>: decoction, power (250 mg to 1 
-		gm), paste, gruel</p>
+		<p class="MsoNormal"><b><font size="4">Part</font></b><font size="4"> <b>used</b>:</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">&nbsp;seeds</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Energetics</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">bitter</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">pungent</font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">sweet/heating/pungent</font><i><font size="4">
+				</font></i></p></li>
+				<li>
+				<p class="MsoNormal"><i><font size="4">VK- P+</font></i></p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Tissues</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">plasma</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">blood</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">marrow</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">nerve</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">reproductive</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Systems</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">digestive</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">respiratory</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">urinary</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">reproductive</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Action</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">stimulant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">tonic</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">expectorant</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">rejuvenative</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">aphrodisiac</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">diuretic</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Indications</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">dysentery</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dyspepsia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">chronic 
+		cough</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">allergies</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">bronchitis</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">influenza</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">convalescence</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">dropsy</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">toothache</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">neurasthenia</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">sciatica</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">arthritis</font></p></li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Precautions</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">pregnancy </font></p>
+			<ul>
+				<li>
+				<p class="MsoNormal"><font size="4">may cause abortion</font></p>
+				</li>
+				<li>
+				<p class="MsoNormal"><font size="4">promotes vaginal breeding</font></p>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p class="MsoNormal"><font size="4">high <i>pitta</i> conditions</font></p>
+			</li>
+		</ul>
+		<p class="MsoNormal"><b><font size="4">Preparation</font></b><font size="4">: 
+		</font></p>
+		<ul>
+			<li>
+			<p class="MsoNormal"><font size="4">decoction</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">&nbsp;power (250 mg to 1 
+		gm)</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">paste</font></p></li>
+			<li>
+			<p class="MsoNormal"><font size="4">gruel</font></p></li>
+		</ul>
 		<p class="MsoNormal">&nbsp;</p>
-		<p class="MsoNormal">fenugreek is good herbal food for convalescence and 
-		debility, particularly that of the nervous, respiratory and reproductive 
-		systems.</p>
-		<p class="MsoNormal">As a gruel it will increase milk flow and promote 
-		hair growth. The seed paste can be used externally for boils, ulcers and 
-		hard to heal sores. It can be added to curries as a digestion, 
-		hypo-function of the liver and seminal debility. As a tonic, one 
-		tablespoon of the powder can be taken daily, heated in one cup of milk.</p>
+		<ul>
+			<li>
+			<address><font size="4">fenugreek is good herbal food for </font>
+			</address>
+			<ul>
+				<li>
+				<address><font size="4">convalescence </font></address></li>
+				<li>
+				<address><font size="4">debility</font></address></li>
+				<li>
+				<address><font size="4">&nbsp;particularly that of </font>
+				</address>
+				<ul>
+					<li>
+					<address><font size="4">nervous</font></address></li>
+					<li>
+					<address><font size="4">respiratory and </font></address>
+					</li>
+					<li>
+					<address><font size="4">reproductive 
+		systems.</font></address></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">As a gruel it will </font></address>
+			<ul>
+				<li>
+				<address><font size="4">increase milk flow </font></address>
+				</li>
+				<li>
+				<address><font size="4">promote 
+		hair growth. </font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">The seed paste can be used </font></address>
+			<ul>
+				<li>
+				<address><font size="4">externally for boils</font></address>
+				</li>
+				<li>
+				<address><font size="4">ulcers </font></address></li>
+				<li>
+				<address><font size="4">hard to heal sores. </font></address>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">It can be added to curries for</font></address>
+			<ul>
+				<li>
+				<address><font size="4">digestion, 
+		hypo-function of the liver </font></address></li>
+				<li>
+				<address><font size="4">seminal debility</font></address></li>
+			</ul>
+			</li>
+			<li>
+			<address><font size="4">&nbsp;As a tonic,</font></address>
+			<ul>
+				<li>
+				<address><font size="4">one 
+		tablespoon of the powder can be taken daily, </font></address>
+				<ul>
+					<li>
+					<address><font size="4">heated in one cup of milk.</font></address>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
 	</table>
