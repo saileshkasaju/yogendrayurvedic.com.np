@@ -10,6 +10,12 @@ tags:
 ---
 ![](/img/aloe-vera-plant-1522874831.jpg)
 
+![](/img/_cut_1598326701561.png)
+
+![](/img/_cut_1598327864956.png)
+
+![](/img/_cut_1598328716779.png)
+
 ![](/img/circulatory_system-removebg-preview.png)
 
 ![](/img/respiratory-removebg-preview.png)
