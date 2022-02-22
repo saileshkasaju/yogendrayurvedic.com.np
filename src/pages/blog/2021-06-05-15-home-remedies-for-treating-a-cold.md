@@ -534,7 +534,8 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 		</ul>
 			</li>
 		</ul>
-		<p><strong><font size="5">Rest</font></strong></p>
+		<p><strong><font size="5" style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">&nbsp;Rest&nbsp;</font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
