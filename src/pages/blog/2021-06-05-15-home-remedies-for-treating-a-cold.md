@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 15 Home Remedies For Treating a Cold
 date: 2021-06-05T05:27:40.993Z
-description: Usually during Spring and winter season individuals often get cold and flu.
+description: .
 featuredpost: true
 featuredimage: /img/image.jpg
 tags:
