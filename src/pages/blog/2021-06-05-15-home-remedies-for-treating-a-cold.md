@@ -302,13 +302,13 @@ transform: translateY(0px);
 
 <table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
 border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
-		<td>
+		<td colspan="2">
 		<font size="4">
 		<iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/cZ0ZNjDyFpI" name="I1">
 		</iframe></font></td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 		<ul>
 			<li><font size="4">Usually during Spring and winter season individuals often get cold 
 		and flu.</font><ul>
@@ -345,10 +345,10 @@ border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
 	</tr>
 	<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;"><strong><font size="5" color="#FFFFFF">Combine the following herbs together:</font></strong></td>
+border-radius:10px;" colspan="2"><strong><font size="5" color="#FFFFFF">Combine the following herbs together:</font></strong></td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
 		<img src="https://lh3.googleusercontent.com/-B_XfD2O-kh4/YLCk4uwtiPI/AAAAAAAAAT0/k8DY-IpvTroFpY8Ukt_6q9H7HkCeyCp0QCNcBGAsYHQ/image.png"></font></a><ul>
@@ -386,10 +386,10 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Combine the followin
 	</tr>
 	<tr>
 	<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Remedy</font></strong></td>
+border-radius:10px;" colspan="2"><strong><font size="5" color="#FFFFFF">Another Excellent Remedy</font></strong></td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 		<ul>
 			<li><font size="4">Ginger </font>
 		<ul>
@@ -435,7 +435,9 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 		<p>&nbsp;</td>
 	</tr>
 	<tr>
-		<td><strong><font size="5">Fennel seed</font></strong><p>
+		<td colspan="2"><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Fennel Seed&nbsp;&nbsp;
+		</span></font></strong><p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
 		<img src="https://lh3.googleusercontent.com/-Z6dSAfLLv00/YLCouVRx1tI/AAAAAAAAAUA/X6YpeBrY5Zs6WGst65AEopk72Tk0uYz2gCNcBGAsYHQ/image.png"></font></a></p>
@@ -448,7 +450,9 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 		</ul>
 			<p><font size="4">2 or 3 times a day.</font></li>
 		</ul>
-		<p><strong><font size="4">4.Cinnamon</font></strong></p>
+		<p><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Cinnamon&nbsp;&nbsp;
+		</span></font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
@@ -462,7 +466,9 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 		</ul>
 			<p><font size="4">Eat this mixture toward 3 times a day.</font></li>
 		</ul>
-		<p><strong><font size="4">5.Tulsi</font></strong></p>
+		<p><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Tulsi&nbsp;&nbsp;
+		</span></font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
@@ -478,13 +484,17 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 			</ul>
 			<p><font size="4">Boil for just one minute and then drink.</font></li>
 		</ul>
-		<p>&nbsp;<p><strong><font size="4">Vitamin C</font></strong></p>
+		<p>&nbsp;<p><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Vitamin C&nbsp;&nbsp;
+		</span></font></strong></p>
 		<ul>
 			<li><font size="4">Taking some vitamin C will be 
 		beneficial.</font></li>
 		</ul>
 		<p>&nbsp;</p>
-		<p><strong><font size="4">Natural Nose Drops</font></strong></p>
+		<p><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Natural Nose Drops&nbsp;&nbsp;
+		</span></font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
@@ -506,7 +516,9 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 		</ul></li>
 		</ul></li>
 		</ul>
-		<p><strong><font size="5">Hot water</font></strong></p>
+		<p><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Hot water&nbsp;&nbsp;
+		</span></font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
@@ -519,7 +531,9 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 			<p><font size="4">is an effective way to 
 			remove toxins from the system.</font></li>
 		</ul>
-		<p><strong><font size="5">Dairy Products</font></strong></p>
+		<p><strong><font size="5" color="#FFFFFF">
+		<span style="background-color: #008000">&nbsp;&nbsp; Dairy Products&nbsp;&nbsp;
+		</span></font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
@@ -535,7 +549,8 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Re
 			</li>
 		</ul>
 		<p><strong><font size="5" style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">&nbsp;Rest&nbsp;</font></strong></p>
+border-radius:10px;">&nbsp;<span style="background-color: #008000"><font color="#FFFFFF">&nbsp;&nbsp; Rest&nbsp;&nbsp;
+		</font></span>&nbsp;</font></strong></p>
 		<p>
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
@@ -547,10 +562,10 @@ border-radius:10px;">&nbsp;Rest&nbsp;</font></strong></p>
 	</tr>
 	<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;"><strong><font size="5" color="#FFFFFF">Exercise</font></strong></td>
+border-radius:10px;" colspan="2"><strong><font size="5" color="#FFFFFF">Exercise</font></strong></td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
 		<img src="https://lh3.googleusercontent.com/-rACmk-Eo274/YLCqFTbyTnI/AAAAAAAAAVI/O5815vOPt5MsCiug7_RImyCSUc9GEKZPgCNcBGAsYHQ/image.png"></font></a><ul>
@@ -586,10 +601,10 @@ border-radius:10px;"><strong><font size="5" color="#FFFFFF">Exercise</font></str
 	</tr>
 	<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;"><strong><font size="4" color="#FFFFFF">Breathing Exercise</font></strong></td>
+border-radius:10px;" colspan="2"><strong><font size="4" color="#FFFFFF">Breathing Exercise</font></strong></td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
 		<img src="https://lh3.googleusercontent.com/-rlhR5KCVl0k/YLCqNMdsnOI/AAAAAAAAAVM/swajfkNnCfQdEY5Ik96sUuuwMXkAiev-ACNcBGAsYHQ/image.png"></font></a><ul>
@@ -609,9 +624,11 @@ border-radius:10px;"><strong><font size="4" color="#FFFFFF">Breathing Exercise</
 	<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;"><strong><font size="5" color="#FFFFFF">Prevention</font></strong></td>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">&nbsp;</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
 		<font size="4">
 		<img src="https://lh3.googleusercontent.com/-oMJGkMJ6juM/YLCqTKLFUcI/AAAAAAAAAVQ/CWkcBXxspBYCFkVDMKz4DcGjr_tYtDCqwCNcBGAsYHQ/image.png"></font></a><ul>
