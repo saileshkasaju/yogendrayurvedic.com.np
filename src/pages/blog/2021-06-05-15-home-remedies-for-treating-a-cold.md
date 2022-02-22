@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 15 Home Remedies For Treating a cold
+title: 15 Home Remedies For Treating a Cold
 date: 2021-06-05T05:27:40.993Z
 description: Usually during Spring and winter season individuals often get cold and flu.
 featuredpost: true
@@ -10,164 +10,630 @@ tags:
   - flu
   - ""
 ---
-<!--StartFragment-->
-
 <style>
+.box
 
-::-webkit-scrollbar{
+{
 
-width: 10px;
+background-color: #5BBC55;
+
+box-sizing: border-box;
+
+border-radius: 50px;
+
+border: 5px solid white;
+
+overflow: hidden;
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+}
+
+.wrapper{
+
+position: absolute;
+
+top: 12%;
+
+left: 50%;
+
+perspective: 1500px;
 
 }
 
-::-webkit-scrollbar-track{
+.b-area{
 
-border-radius: 5px;
+position: relative;
 
-box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
+transform-style: preserve-3d;
+
+animation-name: rotate;
+
+animation-duration: 30s;
+
+animation-timing-function: linear;
+
+animation-iteration-count: infinite;
+
+}
+
+@keyframes rotate{
+
+0%{
+
+transform: rotate3d(0,0,0,0);
 
 }
 
-::-webkit-scrollbar-thumb {
+100%{
 
-border-radius: 5px;
-
-background-color: #009578;
+transform: rotate3d(0,1,0,360deg);
 
 }
 
-::-webkit-scrollbar-thumb :hover{
+}
 
-background-color: #6dcdb1;
+.b{
+
+position: absolute;
+
+width: 200px;
+
+height: 200px;
+
+border: 2px solid #262626;
 
 }
+
+.b-front{
+
+transform: translateX(-100px) translateY(-100px) translateZ(100px);
+
+background: black;
+
+}
+
+.b-back{
+
+transform: translateX(-100px) translateY(-100px) translateZ(-100px);
+
+background: black;
+
+
+
+}
+
+.b-right{
+
+transform: translateY(-100px) rotateY(90deg);
+
+background:black;
+
+}
+
+.b-left{
+
+transform: translatey(-100px) translateX(-200px) rotateY(90deg);
+
+background: black;
+
+}
+
+.b-bottom{
+
+transform: translateX(-100px) rotateX(90deg);
+
+background: rgba(255,30,0,0.5);
+
+}
+
+.b-top{
+
+transform: translateX(-100px) translateY(-200px) rotateX(90deg);
+
+background: rgba(0,6,246,0.5);
+
+}
+
+.b-area{
+
+transform: rotateX(90deg) rotateY(90deg);
+
+}
+
+body{
+
+background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);
+
+}
+
+
+
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+		}
+
+.container{
+
+
+
+width: 100%;
+
+height: 100%;
+
+display: flex;
+
+flex-direction: column;
+
+
+}
+
+.avatar{
+
+width: 200px;
+
+height: 200px;
+
+background-color: #5BBC55;
+
+box-sizing: border-box;
+
+border-radius: 50%;
+
+border: 5px solid white;
+
+overflow: hidden;
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+animation: float 6s ease-in-out infinite;
+
+}
+
+img{
+
+width: 100%;
+
+height: auto;
+
+}
+
+@keyframes float{
+
+0%{
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+}
+
+50%{
+
+box-shadow: 0px 25px 15px 0px rgba(0, 0, 0, 0.2);
+
+transform: translateY(-20px);
+
+}
+
+100%{
+
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+
+transform: translateY(0px);
+
+}
+
+
 
 </style>
 
-<!--EndFragment-->
+<body>
 
-<!--StartFragment-->
+<div class="container" style="left:20%">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ0ZNjDyFpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="avatar">
 
-[![](https://lh3.googleusercontent.com/-1qyxSJ6cLHI/YLCivuX6ovI/AAAAAAAAATk/CnNc_lKUwoQMmFH5AzjJbjdL6b6uzAArQCNcBGAsYHQ/w415-h279/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
+<a href="https://www.yogendrayurvedic.com.np">
 
-The symptoms are runny nose cough congestion headache an achy body and sometime fever.
+<img src="https://www.yogendrayurvedic.com.np/img/untitled.png" />
 
-And at the same time person may suffer from excess *vata* while reduces gastric fire leading to chills loss of appetite and or for digestion.
+</div>
 
-Best remedy for cold is ginger. Here are some simple home remedies using ginger that will relief your cold symptoms
+</div>
 
-**1.Combine the following herbs together:**
+<div class="box">
 
-* Ginger one part
+<h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
 
-  [![](https://lh3.googleusercontent.com/-B_XfD2O-kh4/YLCk4uwtiPI/AAAAAAAAAT0/k8DY-IpvTroFpY8Ukt_6q9H7HkCeyCp0QCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-* Cinnamon one part
-* Lemongrass two part
+</div>
 
-Step 1 teaspoon of this formula for about 10 minutes in one cup of hot water strain it and add honey for sweetness if you like. If you drink this tea several times a day, it will help you take care of cold, congestion, and flu.
+<div class="wrapper">
 
-**2.Another excellent remedy**
+<div class="b-area">
 
-* Ginger two parts
-* Cinnamon three parts
-* Cardamom just a pinch
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
 
-Step 1 teaspoon in a cup of hot water for 10 to 15 minutes. When did it has cooled down somewhat, you can add about half to one teaspoon of honey for taste.
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
 
-Boil 1 teaspoon ginger or a few eucalyptus leaves, put a towel over your head, and inhale the steam. This will relieve congestion and help you feel much better with no herbs added at all, will also be beneficial.
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/nervous_system-removebg-preview.png" style="height:100%"></div>
 
-Additional herbal remedies
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
 
-**3.Fennel seed**
+<div class="b b-top"></div>
 
-[![](https://lh3.googleusercontent.com/-Z6dSAfLLv00/YLCouVRx1tI/AAAAAAAAAUA/X6YpeBrY5Zs6WGst65AEopk72Tk0uYz2gCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
+<div class="b b-bottom"></div>
 
-* Try half teaspoon fennel seed powder mixed with 1 teaspoon natural sugar 2 or 3 times a day.
+</div>
 
-**4.Cinnamon**
+</div>
 
-[![](https://lh3.googleusercontent.com/--z0bxylZekc/YLCo3gzP-xI/AAAAAAAAAUI/XUgNvGlr-54MKckOKBOPo-8g6Ai6uvPCQCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
 
-* For cold with cough and congestion, mix half teaspoon cinnamon and one teaspoon honey. Eat this mixture toward 3 times a day.
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-**5.Tulsi**
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-[![](https://lh3.googleusercontent.com/-AOZ71vjPyiE/YLCo-vIlc5I/AAAAAAAAAUQ/z7h9x2A0sKECu4MwbwInvUThRx9UxkwkACNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-* For flu make a tea from one teaspoon tulsi (holy basil) in 1 cup water. Boil for just one minute and then drink.
+<p class="MsoNormal" align="justify">&nbsp;</p>
+<p class="MsoNormal" align="justify">&nbsp;</p>
 
-**6.An ancient Ayurvedic herbal formula that is effective for cold is the following:**
-
-[![](https://lh3.googleusercontent.com/-PrE0vfjZYro/YLCpFzrTM2I/AAAAAAAAAUU/fWXL5fLG68gg_n6TZG98QqQsRFzCcnSZQCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Sitopaladi one part
-* Maha sudarshana churnaone part
-
-Combined these herbs in equal proportion and take one fourth teaspoon with 1 teaspoon honey 2 or 3 times a day after eating.
-
-**7.Western herbology has some helpful herbs for colds**
-
-* Achinacea one part
-* Goldenseal one part
-* Cinnamon two parts
-
-Take 1/4 teaspoon of this mixture with honey twice a day.
-
-**\*Caution:** Don't combine ginger and aspirin.*
-
-*Ginger and spring or both blood thinners and should not be taken together. Therefore it is wise to drink ginger tea or to use any other ginger remedy either 2 hours before or 2 hours after you take any aspirin*
-
-.
-
-**8.Vitamin C**
-
-Taking some vitamin C will be beneficial.
-
-**9.Natural nose drops.**
-
-[![](https://lh3.googleusercontent.com/-Yl4wDcFXkds/YLCpacs3W9I/AAAAAAAAAUk/5itSXIQme9k-ooyUZ8pmoD75EFyPU7D4QCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Put some liquefied ghee 2 to 3 drops in each nostril in the morning in evening. This will lubricate the nasal passage and relieve the irritation and sneezing of a cold.
-
-**10.Hot water**
-
-[![](https://lh3.googleusercontent.com/-98FTrSnqPN0/YLCph-4ZQCI/AAAAAAAAAUo/eQuiPS8yn6UqOYCAxvXwvNU3vHRWZm3MQCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Drinking hot water several times a day is an effective way to remove toxins from the system.
-
-**11.Dairy products**
-
-[![](https://lh3.googleusercontent.com/-vwl5zNZKUjI/YLCpoY0AUzI/AAAAAAAAAUs/YPW8DyPwlgMzX3wrr0bvmQ0bYjFyOcmswCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Strictly avoid dairy products such as yoghurt cotton cheese and milk and all cold drinks.
-
-**12.Rest**
-
-[![](https://lh3.googleusercontent.com/-iEYHXOSOdGc/YLCpx0BbHFI/AAAAAAAAAU4/Xp3W58usqLQH_Bp-9VSOJM9tel_d-Kf-QCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Rest is very important for healing.
-
-**13.Exercise**
-
-[![](https://lh3.googleusercontent.com/-rACmk-Eo274/YLCqFTbyTnI/AAAAAAAAAVI/O5815vOPt5MsCiug7_RImyCSUc9GEKZPgCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Ayurveda says that when you have a cold, it is best not to do vigorous exercise, which can set up the condition for the cold to move into the chest.
-
-  * Do some general yoga asanas. Surya namaskar (sun salutation) is beneficial. The inverted posture, including shoulder stand and headstand hold for only about one minute. As well as forward bend, help to prevent post nasal drip and help to drain the mucus through the nose.
-
-**14.Breathing exercise**
-
-[![](https://lh3.googleusercontent.com/-rlhR5KCVl0k/YLCqNMdsnOI/AAAAAAAAAVM/swajfkNnCfQdEY5Ik96sUuuwMXkAiev-ACNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Use the breath of fire breathing exercises to help burn up your cold.
-* Another effective breathing exercise is is deep alternative nostril breathing.
-
-**15.Prevention**
-
-[![](https://lh3.googleusercontent.com/-oMJGkMJ6juM/YLCqTKLFUcI/AAAAAAAAAVQ/CWkcBXxspBYCFkVDMKz4DcGjr_tYtDCqwCNcBGAsYHQ/image.png)](https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#)
-
-* Take the herb amalaki or Amla. It is a rejuvenative tonic and a good source of vitamin C and iron. Taking one teaspoon of Amla daily, with warm water at night, will help to prevent the common cold.
-
-<!--EndFragment-->
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
+		<td>
+		<font size="4">
+		<iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/cZ0ZNjDyFpI" name="I1">
+		</iframe></font></td>
+	</tr>
+	<tr>
+		<td>
+		<ul>
+			<li><font size="4">Usually during Spring and winter season individuals often get cold 
+		and flu.</font><ul>
+				<li><font size="4">The symptoms are</font><ul>
+					<li><font size="4">runny nose </font></li>
+					<li><font size="4">cough </font></li>
+					<li><font size="4">congestion </font></li>
+					<li><font size="4">headache </font></li>
+					<li><font size="4">an achy 
+		body and </font></li>
+					<li><font size="4">sometime fever.</font></li>
+				</ul>
+				<p><font size="4">And at the same time person may suffer from 
+				</font></p>
+				<ul>
+					<li><font size="4">excess <em>vata</em> </font></li>
+					<li><font size="4">reduces gastric fire </font>
+					<ul>
+						<li><font size="4">leading to chills loss of appetite</font></li>
+					</ul>
+					</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li><font size="4">Best remedy for cold is </font>
+			<ul>
+				<li><font size="4">ginger. </font></li>
+				</ul>
+				<p><font size="4">Here are some simple home remedies 
+		using ginger that will relief your cold symptoms</font></li>
+			</ul>
+			</td>
+	</tr>
+	<tr>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;"><strong><font size="5" color="#FFFFFF">Combine the following herbs together:</font></strong></td>
+	</tr>
+	<tr>
+		<td>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-B_XfD2O-kh4/YLCk4uwtiPI/AAAAAAAAAT0/k8DY-IpvTroFpY8Ukt_6q9H7HkCeyCp0QCNcBGAsYHQ/image.png"></font></a><ul>
+			<li><font size="4">Ginger </font>
+		<ul>
+			<li><font size="4">one part</font></li>
+		</ul>
+			</li>
+			<li><font size="4">Cinnamon </font>
+		<ul>
+			<li><font size="4">one part</font></li>
+		</ul>
+			</li>
+			<li><font size="4">Lemongrass </font>
+			<ul>
+				<li><font size="4">two part</font></li>
+			</ul>
+			<p><font size="4">Step 1 teaspoon of this formula </font></p>
+		<ul>
+			<li><font size="4">for about 10 minutes in one cup of 
+		hot water strain it and </font></li>
+			<li><font size="4">add honey for sweetness if you like. </font></li>
+		</ul>
+			<p><font size="4">If you 
+		drink this tea several times a day, </font></p>
+			<p><font size="4">it will help you take care of </font></p>
+		<ul>
+			<li><font size="4">cold</font></li>
+			<li><font size="4">congestion and </font></li>
+			<li><font size="4">flu</font></li>
+		</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+	<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;"><strong><font size="5" color="#FFFFFF">Another Excellent Remedy</font></strong></td>
+	</tr>
+	<tr>
+		<td>
+		<ul>
+			<li><font size="4">Ginger </font>
+		<ul>
+			<li><font size="4">two parts</font></li>
+		</ul>
+			</li>
+			<li><font size="4">Cinnamon </font>
+		<ul>
+			<li><font size="4">three parts</font></li>
+		</ul>
+			</li>
+			<li><font size="4">Cardamom </font>
+		<ul>
+			<li><font size="4">just a pinch</font></li>
+		</ul>
+			<p><font size="4">Step </font></p>
+		<ul>
+			<li><font size="4">1 teaspoon in a cup of hot water </font></li>
+			<li><font size="4">for 10 to 15 minutes</font></li>
+		</ul>
+			<p><font size="4">When did 
+		it has cooled down somewhat, you can add </font></p>
+		<ul>
+			<li><font size="4">honey for taste</font><ul>
+			<li><font size="4">half to one teaspoon</font></li>
+		</ul>
+			<p>&nbsp;</p></li>
+		</ul>
+			</li>
+			<li><font size="4">Boil </font>
+		<ul>
+			<li><font size="4">1 teaspoon ginger or </font></li>
+			<li><font size="4">few eucalyptus leaves, </font></li>
+		</ul>
+			<p><font size="4">put a towel over 
+		your head, and inhale the steam. </font></p>
+		<ul>
+			<li><font size="4">This will relieve congestion and help 
+		you feel much better</font></li>
+		</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td><strong><font size="5">Fennel seed</font></strong><p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-Z6dSAfLLv00/YLCouVRx1tI/AAAAAAAAAUA/X6YpeBrY5Zs6WGst65AEopk72Tk0uYz2gCNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">Try </font>
+		<ul>
+			<li><font size="4">half teaspoon fennel seed powder </font></li>
+			<li><font size="4">mixed with 1 teaspoon 
+			natural sugar </font></li>
+		</ul>
+			<p><font size="4">2 or 3 times a day.</font></li>
+		</ul>
+		<p><strong><font size="4">4.Cinnamon</font></strong></p>
+		<p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/--z0bxylZekc/YLCo3gzP-xI/AAAAAAAAAUI/XUgNvGlr-54MKckOKBOPo-8g6Ai6uvPCQCNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">For cold with cough and congestion, </font>
+		<ul>
+			<li><font size="4">mix half teaspoon cinnamon 
+			and </font></li>
+			<li><font size="4">one teaspoon honey.</font></li>
+		</ul>
+			<p><font size="4">Eat this mixture toward 3 times a day.</font></li>
+		</ul>
+		<p><strong><font size="4">5.Tulsi</font></strong></p>
+		<p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-AOZ71vjPyiE/YLCo-vIlc5I/AAAAAAAAAUQ/z7h9x2A0sKECu4MwbwInvUThRx9UxkwkACNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">For flu make a tea from </font>
+			<ul>
+				<li><font size="4">one teaspoon tulsi (holy basil) </font>
+				<ul>
+					<li><font size="4">1 cup 
+			water. </font></li>
+				</ul></li>
+			</ul>
+			<p><font size="4">Boil for just one minute and then drink.</font></li>
+		</ul>
+		<p>&nbsp;<p><strong><font size="4">Vitamin C</font></strong></p>
+		<ul>
+			<li><font size="4">Taking some vitamin C will be 
+		beneficial.</font></li>
+		</ul>
+		<p>&nbsp;</p>
+		<p><strong><font size="4">Natural Nose Drops</font></strong></p>
+		<p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-Yl4wDcFXkds/YLCpacs3W9I/AAAAAAAAAUk/5itSXIQme9k-ooyUZ8pmoD75EFyPU7D4QCNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">Put some </font>
+		<ul>
+			<li><font size="4">liquefied ghee 2 to 3 drops in each nostril 
+			</font>
+			<ul>
+				<li><font size="4">in the 
+			morning in evening. </font></li>
+			</ul>
+			<p><font size="4">This will </font>
+		<ul>
+			<li><font size="4">lubricate the nasal passage </font></li>
+			<li><font size="4">relieve the irritation </font></li>
+			<li><font size="4">sneezing of a cold</font></li>
+		</ul></li>
+		</ul></li>
+		</ul>
+		<p><strong><font size="5">Hot water</font></strong></p>
+		<p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-98FTrSnqPN0/YLCph-4ZQCI/AAAAAAAAAUo/eQuiPS8yn6UqOYCAxvXwvNU3vHRWZm3MQCNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">Drinking hot water </font>
+		<ul>
+			<li><font size="4">several times a day </font></li>
+		</ul>
+			<p><font size="4">is an effective way to 
+			remove toxins from the system.</font></li>
+		</ul>
+		<p><strong><font size="5">Dairy Products</font></strong></p>
+		<p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-vwl5zNZKUjI/YLCpoY0AUzI/AAAAAAAAAUs/YPW8DyPwlgMzX3wrr0bvmQ0bYjFyOcmswCNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">Strictly avoid dairy products such as </font>
+		<ul>
+			<li><font size="4">yoghurt </font></li>
+			<li><font size="4">cotton cheese </font></li>
+			<li><font size="4">milk </font></li>
+			<li><font size="4">all cold drinks</font></li>
+		</ul>
+			</li>
+		</ul>
+		<p><strong><font size="5">Rest</font></strong></p>
+		<p>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-iEYHXOSOdGc/YLCpx0BbHFI/AAAAAAAAAU4/Xp3W58usqLQH_Bp-9VSOJM9tel_d-Kf-QCNcBGAsYHQ/image.png"></font></a></p>
+		<ul>
+			<li><font size="4">Rest is very important for healing.</font></li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;"><strong><font size="5" color="#FFFFFF">Exercise</font></strong></td>
+	</tr>
+	<tr>
+		<td>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-rACmk-Eo274/YLCqFTbyTnI/AAAAAAAAAVI/O5815vOPt5MsCiug7_RImyCSUc9GEKZPgCNcBGAsYHQ/image.png"></font></a><ul>
+			<li><font size="4">Ayurveda says that when you have a cold,</font><ul>
+			<li><font size="4">&nbsp;it is best not to do 
+			vigorous exercise, </font>
+			<ul>
+				<li><font size="4">which can set up the condition for the cold to 
+			move into the chest.</font></li>
+			</ul></li>
+			<li><font size="4">Do some general yoga asanas. </font><ul>
+			<li><font size="4">Surya namaskar (sun salutation) 
+				is beneficial.</font></li>
+			<li><font size="4">&nbsp;The inverted posture, including </font><ul>
+			<li><font size="4">shoulder stand 
+				and </font></li>
+			<li><font size="4">headstand hold </font></li>
+		</ul>
+			<p><font size="4">for only about one minute. </font></li>
+			<li><font size="4">As well as forward 
+				bend</font><ul>
+			<li><font size="4">help to prevent post nasal drip and </font></li>
+			<li><font size="4">help to drain the 
+				mucus through the nose</font></li>
+		</ul>
+			</li>
+		</ul>
+			</li>
+		</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;"><strong><font size="4" color="#FFFFFF">Breathing Exercise</font></strong></td>
+	</tr>
+	<tr>
+		<td>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-rlhR5KCVl0k/YLCqNMdsnOI/AAAAAAAAAVM/swajfkNnCfQdEY5Ik96sUuuwMXkAiev-ACNcBGAsYHQ/image.png"></font></a><ul>
+			<li><font size="4">Use </font><ul>
+			<li><font size="4">breath of fire breathing exercises </font></li>
+		</ul>
+			<p><font size="4">to help burn up your 
+			cold.</font></li>
+			<li><font size="4">Another effective breathing exercise is is </font><ul>
+			<li><font size="4">deep alternative 
+			nostril breathing.</font></li>
+		</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;"><strong><font size="5" color="#FFFFFF">Prevention</font></strong></td>
+	</tr>
+	<tr>
+		<td>
+		<a href="https://www.blogger.com/u/1/blog/page/edit/7168298537165131910/6110701077340575422#">
+		<font size="4">
+		<img src="https://lh3.googleusercontent.com/-oMJGkMJ6juM/YLCqTKLFUcI/AAAAAAAAAVQ/CWkcBXxspBYCFkVDMKz4DcGjr_tYtDCqwCNcBGAsYHQ/image.png"></font></a><ul>
+			<li><font size="4">Take the herb </font><ul>
+			<li><font size="4">amalaki or Amla. </font></li>
+		</ul>
+			<p><font size="4">It is a rejuvenative tonic and a 
+			good source of </font><ul>
+			<li><font size="4">vitamin C and </font></li>
+			<li><font size="4">iron. </font></li>
+		</ul>
+			<p><font size="4">Taking one teaspoon of Amla 
+			daily, </font><ul>
+			<li><font size="4">with warm water </font>
+			<ul>
+				<li><font size="4">at night</font></li>
+			</ul>
+			<p><font size="4">will help to prevent the common 
+			cold.</font></li>
+		</ul>
+			</li>
+		</ul>
+		<p>&nbsp;</td>
+	</tr>
+</table>
+<p><font size="4">.</font></p>
