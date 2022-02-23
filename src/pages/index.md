@@ -324,7 +324,7 @@ border-radius:10px;">
 	<tr>
 		<td bgcolor="#5BBC55">
 		<p align="center"><a style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 125px; padding-top: 2px; padding-bottom: 2px" href="new_page_2.htm"><font color="#FFFFFF">
-		<span style="text-decoration: none">More&gt;&gt;</span></font></a></td>
+		More&gt;&gt;</font></a></td>
 	</tr>
 	<tr>
 <td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
@@ -348,7 +348,7 @@ border-radius:10px;">		<b>
 	<tr>
 		<td bgcolor="#5BBC55">
 			<p align="center"><a style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 125px; padding-top: 2px; padding-bottom: 2px" href="new_page_2.htm"><font color="#FFFFFF">
-			<span style="text-decoration: none">More&gt;&gt;</span></font></a></td>
+			More&gt;&gt;</font></a></td>
 	</tr>
 	<tr>
 <td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
@@ -373,7 +373,7 @@ border-radius:10px;">		<b>
 	<tr>
 		<td bgcolor="#5BBC55">
 		<p align="center"><a style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 125px; padding-top: 2px; padding-bottom: 2px" href="new_page_2.htm"><font color="#FFFFFF">
-		<span style="text-decoration: none">More&gt;&gt;</span></font></a></td>
+		More&gt;&gt;</font></a></td>
 	</tr>
 	</table>
 <p class="MsoNormal">&nbsp;</p>
