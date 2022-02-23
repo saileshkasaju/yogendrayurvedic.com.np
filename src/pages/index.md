@@ -140,7 +140,7 @@ transform: translateY(0px);
 
 position: absolute;
 
-top: 46%;
+top: 22%;
 
 left: 50%;
 
@@ -284,11 +284,11 @@ transform: rotateX(90deg) rotateY(90deg);
 
 <div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598327864956.png"></div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg"></div>
 
-<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598326701561.png"></div>
+<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/static/372070c441b869d070570aa38b3f7ceb/2f1b1/pomegranate.jpg"></div>
 
-<div class="b b-bottom"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598328716779.png"></div>
+<div class="b b-bottom"></div>
 
 </div>
 
@@ -305,16 +305,17 @@ border-radius:10px;">
 	<tr>
 		<td>
 		<ul>
-			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-13-basic-principle-of-ayurveda/">
-			<span style="text-decoration: none"><font color="#000000">Basic 
-			principle</font></span></a></font></li>
-			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-seasonal-regimen/">
+			<li><font size="4">
+			<span style="text-decoration: none">
+			<a style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 65px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-13-basic-principle-of-ayurveda/"><font color="#000000">Basic 
+			principle</font></a></span></font></li>
+			<li><font size="4"><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 38px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-seasonal-regimen/">
 			<span style="text-decoration: none"><font color="#000000">Seasonal 
 			regimen</font></span></a></font></li>
-			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-dinacharya/">
+			<li><font size="4"><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 69px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-dinacharya/">
 			<span style="text-decoration: none"><font color="#000000">Daliy 
 			regimen</font></span></a></font></li>
-			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-guidelines-for-determining-your-body-type-prakruti/">
+			<li><font size="4"><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 10px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-guidelines-for-determining-your-body-type-prakruti/">
 			<span style="text-decoration: none"><font color="#000000">Determine 
 			body type</font></span></a></font></li>
 		</ul>
@@ -332,13 +333,13 @@ border-radius:10px;">		<b>
 	<tr>
 		<td>
 			<ul>
-				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/"><font size="4" color="#000000">
+				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 85px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/"><font size="4" color="#000000">
 				<span style="text-decoration: none">Fenugreek</span></font></a></li>
-				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/"><font size="4" color="#000000">
+				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 94px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/"><font size="4" color="#000000">
 				<span style="text-decoration: none">Aloe vera</span></font></a></li>
-				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-25-g/"><font size="4" color="#000000">
+				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 67px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-25-g/"><font size="4" color="#000000">
 				<span style="text-decoration: none">Black Pepper</span></font></a></li>
-				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-26-8-things-you-must-know-about-coriander/"><font size="4" color="#000000">
+				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 90px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-26-8-things-you-must-know-about-coriander/"><font size="4" color="#000000">
 				<span style="text-decoration: none">Coriander</span></font></a></li>
 				</ul>
 				<p>&nbsp;</td>
@@ -356,14 +357,14 @@ border-radius:10px;">		<b>
 	<tr>
 		<td>
 		<ul>
-			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/"><font size="4" color="#000000">
+			<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 125px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/"><font size="4" color="#000000">
 			<span style="text-decoration: none">Cold</span></font></a></li>
-			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/"><font size="4" color="#000000">
+			<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 36px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/"><font size="4" color="#000000">
 			<span style="text-decoration: none">Loss of appetite</span></font></a></li>
-			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/"><font size="4" color="#000000">
+			<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 120px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/"><font size="4" color="#000000">
 			<span style="text-decoration: none">Fever</span></font></a></li>
-			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/"><font size="4" color="#000000">
-			<span style="text-decoration: none">Cough</span></font></a></li>
+			<li><a   style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 110px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/"><font size="4" color="#000000">
+			<span >Cough</span></font></a></li>
 			</ul>
 			<p>&nbsp;</td>
 	</tr>
