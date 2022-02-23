@@ -45,33 +45,7 @@ align-content: center;
 
 
 
-::-webkit-scrollbar{
 
-width: 10px;
-
-}
-
-::-webkit-scrollbar-track{
-
-border-radius: 5px;
-
-box-shadow: inset 0 0 10px rgba(0,0,0,0.25 green, blue, alpha);
-
-}
-
-::-webkit-scrollbar-thumb {
-
-border-radius: 5px;
-
-background-color: #009578;
-
-}
-
-::-webkit-scrollbar-thumb :hover{
-
-background-color: #6dcdb1;
-
-}
 
 
 
@@ -140,7 +114,7 @@ transform: translateY(0px);
 
 position: absolute;
 
-top: 22%;
+top: 42%;
 
 left: 50%;
 
@@ -284,11 +258,11 @@ transform: rotateX(90deg) rotateY(90deg);
 
 <div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg"></div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598327864956.png"></div>
 
-<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/static/372070c441b869d070570aa38b3f7ceb/2f1b1/pomegranate.jpg"></div>
+<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598328716779.png"></div>
 
-<div class="b b-bottom"></div>
+<div class="b b-bottom"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598326701561.png"></div>
 
 </div>
 
