@@ -140,7 +140,7 @@ transform: translateY(0px);
 
 position: absolute;
 
-top: 22%;
+top: 46%;
 
 left: 50%;
 
@@ -284,140 +284,93 @@ transform: rotateX(90deg) rotateY(90deg);
 
 <div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg"></div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598327864956.png"></div>
 
-<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/static/372070c441b869d070570aa38b3f7ceb/2f1b1/pomegranate.jpg"></div>
+<div class="b b-top"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598326701561.png"></div>
 
-<div class="b b-bottom"></div>
-
-</div>
+<div class="b b-bottom"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598328716779.png"></div>
 
 </div>
 
-<table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
+</div>
+
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">
 	<tr>
 		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
-		<b><font size="5" color="#FFFFFF" face="Times New Roman">BASIC PRINCIPLE</font></b></td>
+		<b><font size="5" face="Times New Roman" color="#FFFFFF">BASIC PRINCIPLE</font></b></td>
 	</tr>
 	<tr>
 		<td>
-		<blockquote>
-			<p class="MsoNormal"><font size="4">
-			<a style="box-sizing: inherit; cursor: pointer; text-decoration: none; font-style:italic" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/">
-			<font color="#000000" face="Times New Roman">GUIDELINES FOR DETERMINING YOUR BODY TYPE(PRAKRUTI)</font></a></font></p>
-			<p class="MsoNormal"><font size="4">
-			<a style="box-sizing: inherit; cursor: pointer; text-decoration: none; font-style:italic" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/">
-			<font color="#000000" face="Times New Roman">BASIC PRINCIPLE OF AYURVEDA</font></a></font></p>
-			<p class="MsoNormal">
-			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-04-how-can-you-stay-healthy-in-summer-season/">
-			<font color="#000000" size="4">HOW CAN YOU STAY HEALTHY IN SUMMER 
-			SEASON?</font></a></p>
-		</blockquote>
-		</td>
-	</tr>
-	</table><table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-	<tr>
-		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-		<b>
-		<font size="5" color="#FFFFFF" face="Times New Roman">HERBS</font></b></td>
-	</tr>
-	<tr>
-		<td>
-			<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/">
-						<address>
-							<i>
-							<font size="3" color="#000000" face="Times New Roman">&nbsp;</font></i></address>
-					</a>
-			<blockquote>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<i>
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/">
-				<font size="3" color="#000000" face="Times New Roman">FENUGREEK</font></a></i></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<i><font size="3">
-				<a style="box-sizing: inherit; cursor: pointer; text-decoration: none" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/">
-				<font color="#000000" face="Times New Roman">AMLA</font></a></font></i></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(54, 54, 54); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-06-8-things-you-must-know-about-ajwan/">
-				<i><font size="3" color="#000000" face="Times New Roman">AJWAN</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-06-8-things-you-must-know-about-turmeric/">
-				<i><font size="3" color="#000000" face="Times New Roman">TURMERIC</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-8-things-you-must-know-about-guduchi-amrit/">
-				<i><font size="3" color="#000000" face="Times New Roman">GUDUCHI (Amrit)</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-8-things-you-must-know-about-neem/">
-				<i><font size="3" color="#000000" face="Times New Roman">NEEM</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(54, 54, 54); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-8-things-you-must-know-about-asafoetida/">
-				<i><font size="3" color="#000000" face="Times New Roman">ASAFOETIDA</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-04-8-things-you-must-know-about-saffron/">
-				<i><font size="3" color="#000000" face="Times New Roman">SAFFRON
-				</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-02-04-8-things-you-must-know-about-pomegranate/">
-				<i><font size="3" color="#000000" face="Times New Roman">POMEGRANATE</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-01-28-7-things-you-must-know-aboout-cloves/">
-				<i><font size="3" color="#000000" face="Times New Roman">CLOVES</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(54, 54, 54); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-01-27-8-things-you-must-know-about-cinnamon/">
-				<i><font size="3" color="#000000" face="Times New Roman">CINNAMON
-				</font></i></a></p>
-				<p class="is-size-2" style="box-sizing: inherit; padding: 0px; font-size: 1.75em; color: rgb(54, 54, 54); line-height: 1.125; margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0.5714em">
-				<a style="box-sizing: inherit; color: rgb(117, 194, 174); cursor: pointer; text-decoration: none;" href="https://www.yogendrayurvedic.com.np/blog/2022-01-26-8-things-you-must-know-about-coriander/">
-				<i><font size="3" color="#000000" face="Times New Roman">CORIANDER</font></i></a></p>
-			</blockquote>
-			<font face="Times New Roman">
-			</a>
-			</font>
-		<p class="MsoNormal">&nbsp;</p>
-		</td>
-	</tr>
-	</table><table border="0" width="100%" style="background-image: linear-gradient(to right top, #0af820, #81f653, #b0f47d, #d1f2a6, #e7f0d2);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-	<tr>
-		<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-		<b><font size="5" color="#FFFFFF" face="Times New Roman">HOME REMEDY</font></b></td>
-	</tr>
-	<tr>
-		<td>
-		<blockquote>
-			<p>
-			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-ways-to-deal-with-anxiety/">
-			<font color="#000000" size="4"><i>ANXIETY</i></font></a></p>
-			<p>
-			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem; font-style:italic" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-ways-to-stop-overeating/">
-			<font color="#000000" size="4">OVEREATING</font></a></p>
-			<p>
-			<a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/">
-			<span style="letter-spacing: normal"><font size="4" color="#000000">
-			<span style="font-family: Times New Roman; font-style: italic; text-decoration: none">
-			L</span></font></span></a><a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem; font-style:italic" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/"><font color="#000000" size="4">OSS OF APPETITE</font></a></p>
-			<p>
-			<a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/">
-			<span style="letter-spacing: normal"><font size="4" color="#000000">
-			<span style="font-family: Times New Roman; font-style: italic; text-decoration: none">
-			C</span></font></span></a><a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem; font-style:italic" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/"><font color="#000000" size="4">OUGH</font></a></p>
-			<p>
-			<a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/">
-			<span style="letter-spacing: normal"><font size="4" color="#000000">
-			<span style="font-family: Times New Roman; font-style: italic; text-decoration: none">
-			C</span></font></span></a><a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-style: italic; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/"><font size="4" color="#000000">OLD</font></a></p>
-			<p>
-			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: Times New Roman; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-style: italic; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-08-anger-and-hostility/">
-			<font size="4" color="#000000">ANGER AND HOSTILITY</font></a></p>
-			<p>
-			<a class="title is-size-4" style="box-sizing: inherit; color: currentcolor; cursor: pointer; word-break: break-word; font-size: 1.5rem !important; line-height: 1.125; font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-bottom: 1.5rem" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/">
-			<font color="#000000" size="4">FEVER</font></a></p>
-		</blockquote>
+		<ul>
+			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-13-basic-principle-of-ayurveda/">
+			<span style="text-decoration: none"><font color="#000000">Basic 
+			principle</font></span></a></font></li>
+			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-seasonal-regimen/">
+			<span style="text-decoration: none"><font color="#000000">Seasonal 
+			regimen</font></span></a></font></li>
+			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-dinacharya/">
+			<span style="text-decoration: none"><font color="#000000">Daliy 
+			regimen</font></span></a></font></li>
+			<li><font size="4"><a href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-guidelines-for-determining-your-body-type-prakruti/">
+			<span style="text-decoration: none"><font color="#000000">Determine 
+			body type</font></span></a></font></li>
+		</ul>
 		<p>&nbsp;</td>
 	</tr>
+	<tr>
+		<td bgcolor="#5BBC55">
+		<p align="center">More&gt;&gt;</td>
+	</tr>
+	<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<b>
+		<font size="5" face="Times New Roman" color="#FFFFFF">HERBS</font></b></td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/"><font size="4" color="#000000">
+				<span style="text-decoration: none">Fenugreek</span></font></a></li>
+				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/"><font size="4" color="#000000">
+				<span style="text-decoration: none">Aloe vera</span></font></a></li>
+				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-25-g/"><font size="4" color="#000000">
+				<span style="text-decoration: none">Black Pepper</span></font></a></li>
+				<li><a href="https://www.yogendrayurvedic.com.np/blog/2022-01-26-8-things-you-must-know-about-coriander/"><font size="4" color="#000000">
+				<span style="text-decoration: none">Coriander</span></font></a></li>
+				</ul>
+				<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor="#5BBC55">
+			<p align="center">More&gt;&gt;</td>
+	</tr>
+	<tr>
+<td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+border-radius:10px;">		<b>
+<font size="5" face="Times New Roman" color="#FFFFFF">HOME 
+		REMEDY</font></b></td>
+	</tr>
+	<tr>
+		<td>
+		<ul>
+			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/"><font size="4" color="#000000">
+			<span style="text-decoration: none">Cold</span></font></a></li>
+			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/"><font size="4" color="#000000">
+			<span style="text-decoration: none">Loss of appetite</span></font></a></li>
+			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/"><font size="4" color="#000000">
+			<span style="text-decoration: none">Fever</span></font></a></li>
+			<li><a href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/"><font size="4" color="#000000">
+			<span style="text-decoration: none">Cough</span></font></a></li>
+			</ul>
+			<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor="#5BBC55">
+		<p align="center">More&gt;&gt;</td>
+	</tr>
 	</table>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;
