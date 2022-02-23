@@ -304,7 +304,7 @@ transform: translateY(0px);
 border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
 		<td colspan="2">
 		<font size="4">
-		<iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/cZ0ZNjDyFpI" name="I1">
+		<iframe width="360" height="200" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/cZ0ZNjDyFpI" name="I1">
 		</iframe></font></td>
 	</tr>
 	<tr>
