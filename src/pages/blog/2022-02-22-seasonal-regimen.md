@@ -301,8 +301,9 @@ transform: translateY(0px);
 <table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
 border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
 <td style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;"><p align="center"><font size="6" color="#FFFFFF">Chapter 3:&nbsp;Ritucharya adhyaya&nbsp; Seasonal Regimen Ritucharya
-</font></p></td>
+border-radius:10px;"><p align="center"><b><font size="6" color="#FFFFFF">Seasonal Regimen 
+(Ritucharya)
+</font></b></p></td>
 	</tr>
 	<tr>
 		<td><font size="4">Ayurvedic Seasonal Regimen Ritucharya is the 3rd chapter of Ashtanga Hrudayam.
