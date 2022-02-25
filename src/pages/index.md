@@ -75,13 +75,6 @@ animation: float 6s ease-in-out infinite;
 
 }
 
-img{
-
-width: 100%;
-
-height: auto;
-
-}
 
 @keyframes float{
 
@@ -282,21 +275,52 @@ border-radius:10px;">
 	</tr>
 	<tr>
 		<td>
-		<ul>
-			<li><font size="4">
-			<span style="text-decoration: none">
-			<a style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 65px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-13-basic-principle-of-ayurveda/"><font color="#000000">Basic 
-			principle</font></a></span></font></li>
-			<li><font size="4"><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 38px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-seasonal-regimen/">
-			<span style="text-decoration: none"><font color="#000000">Seasonal 
-			regimen</font></span></a></font></li>
-			<li><font size="4"><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 69px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-dinacharya/">
-			<span style="text-decoration: none"><font color="#000000">Daliy 
-			regimen</font></span></a></font></li>
-			<li><font size="4"><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 10px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-guidelines-for-determining-your-body-type-prakruti/">
-			<span style="text-decoration: none"><font color="#000000">Determine 
-			body type</font></span></a></font></li>
-		</ul>
+		<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);" height="93">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/1fab4e945c426d6fdefaea1021124b56/d966b/_paste_1598433641256-removebg-preview.png" width="120" height="141"></font></td>
+				<td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p class="MsoNormal" align="center"><font size="5">
+				<span style="text-decoration: none">
+				<a style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 65px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-13-basic-principle-of-ayurveda/">
+				<font color="#000000">Basic 
+			principle</font></a></span></font><p class="MsoNormal" align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);" height="113">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/357572016c6138b099d4b1b1b5037a3c/d966b/1.png" width="120" height="180" style="width: 50%; height: 50%"></font></td>
+				<font size="5"><</font><td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p class="MsoNormal" align="center"><font size="5">
+				<a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 38px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-seasonal-regimen/">
+				<span style="text-decoration: none"><font color="#000000">Seasonal 
+			regimen</font></span></a></font><p class="MsoNormal" align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/9ea8f74b8112707ddbda55190f05daad/d966b/daily-removebg-preview.png" width="120" height="90"></font></td>
+				<td <td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p class="MsoNormal" align="center"><font size="5">
+				<a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 69px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-22-dinacharya/">
+				<span style="text-decoration: none"><font color="#000000">Daliy 
+			regimen</font></span></a></font><p class="MsoNormal" align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/img/untitled.png" width="945" height="623" style="width: 50%; height: 50%"></font></td>
+				<td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p class="MsoNormal" align="center"><font size="5">
+				<a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 10px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-02-12-guidelines-for-determining-your-body-type-prakruti/">
+				<span style="text-decoration: none"><font color="#000000">Determine 
+			body type</font></span></a></font><p class="MsoNormal" align="center">
+				<font size="5">&nbsp;</font></td>
+			</tr>
+		</table>
 		<p>&nbsp;</td>
 	</tr>
 	<tr>
@@ -311,16 +335,53 @@ border-radius:10px;">		<b>
 	</tr>
 	<tr>
 		<td>
-			<ul>
-				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 85px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/"><font size="4" color="#000000">
-				<span style="text-decoration: none">Fenugreek</span></font></a></li>
-				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 94px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/"><font size="4" color="#000000">
-				<span style="text-decoration: none">Aloe vera</span></font></a></li>
-				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 67px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-25-g/"><font size="4" color="#000000">
-				<span style="text-decoration: none">Black Pepper</span></font></a></li>
-				<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 90px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-26-8-things-you-must-know-about-coriander/"><font size="4" color="#000000">
-				<span style="text-decoration: none">Coriander</span></font></a></li>
-				</ul>
+			<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">
+				<tr>
+					<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);" height="93">
+					<font size="5">
+					<img border="0" src="https://www.yogendrayurvedic.com.np/static/e03649416fc1fa6421d0c784ed4ff645/6e81a/fenugreek-for-testosterone-1296x728-feature.jpg" width="120" height="67"></font></td>
+					<td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+					<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">
+					<font size="5">
+					<a style="border-style: outset; border-width: 3px; padding-left: 5px; padding-right: 65px; padding-top: 2px; padding-bottom: 2px;" href="https://www.yogendrayurvedic.com.np/blog/2022-01-23-fenugreek/">
+					<font color="#000000">Fenugreek</font></a></font></td>
+				</tr>
+				<tr>
+					<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);" height="113">
+					<font size="5">
+					<img border="0" src="https://www.yogendrayurvedic.com.np/static/b13c1cc89a6e2018b2f78c7360b95241/d966b/aloe-vera-white-pot_sunwand24-ss_edit-removebg-preview.png" width="120" height="80"></font></td>
+					<font size="5"><</font><td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+					<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">
+					<font size="5"><span style="text-decoration: none">
+					<a  style="border-style: outset; border-width: 3px; padding-left: 5px; padding-right: 74px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-24-aloe-vera/">
+					<font color="#000000"><span style="text-decoration: none">Aloe vera
+					</span></font></a></span></font></td>
+				</tr>
+				<tr>
+					<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">
+					<font size="5">
+					<img border="0" src="https://www.yogendrayurvedic.com.np/static/a1e7885e3f7d2e0fa79eb163c27b340c/d966b/black_pepper-removebg-preview.png" width="120" height="121"></font></td>
+					<td <td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+					<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">
+					<font size="5">
+					<a  style="border-style: outset; border-width: 3px; padding-left: 5px; padding-right: 46px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2022-01-25-g/">
+					<span style="text-decoration: none"><font color="#000000">Black pepper
+					</font></span></a></font></td>
+				</tr>
+				<tr>
+					<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">
+					<font size="5">
+					<img border="0" src="https://www.yogendrayurvedic.com.np/static/38d96792d523da0775d7aa553b833bef/d966b/coriander-cilantro-seeds-herb-1200x628-facebook-removebg-preview.png" width="120" height="63"></font></td>
+					<td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+					<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">
+					<font size="5">
+					<a style="border-style: outset; border-width: 3px; padding-left: 5px; padding-right: 71px; padding-top: 2px; padding-bottom: 2px"  href="https://www.yogendrayurvedic.com.np/blog/2022-01-26-8-things-you-must-know-about-coriander/">
+					<span style="text-decoration: none"><font color="#000000">Coriander</font></span></a>
+					</font></td>
+				</tr>
+			</table>
 				<p>&nbsp;</td>
 	</tr>
 	<tr>
@@ -336,16 +397,54 @@ border-radius:10px;">		<b>
 	</tr>
 	<tr>
 		<td>
-		<ul>
-			<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 125px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/"><font size="4" color="#000000">
-			<span style="text-decoration: none">Cold</span></font></a></li>
-			<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 36px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/"><font size="4" color="#000000">
-			<span style="text-decoration: none">Loss of appetite</span></font></a></li>
-			<li><a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 120px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/"><font size="4" color="#000000">
-			<span style="text-decoration: none">Fever</span></font></a></li>
-			<li><a   style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 110px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/"><font size="4" color="#000000">
-			<span >Cough</span></font></a></li>
-			</ul>
+		<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);" height="93">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/e4ab4d7215b1b413288a236c487de5d0/6e81a/image.jpg" width="120" height="80" style="width: 80%"></font></td>
+				<td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p align="center">&nbsp;</p>
+				<p align="center">
+				<a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 125px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-15-home-remedies-for-treating-a-cold/">
+				<font size="5" color="#000000">
+				<span style="text-decoration: none">Cold</span></font></a></p>
+				<p class="MsoNormal" align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);" height="113">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/2a3591daca280319d6baf0bc1c4b0720/6e81a/loss-of-appetite-in-teens.jpg" width="120" height="80" style="width: 80%"></font></td>
+				<font size="5"><</font><td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p align="center">&nbsp;</p>
+				<p align="center">
+				<a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 36px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/">
+				<font size="5" color="#000000">
+				<span style="text-decoration: none">Loss of appetite</span></font></a></p>
+				<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/d63d56af4ba8697f235a912c9237b2cc/6e81a/80480272.jpg" width="120" height="90" style="width: 80%"></font></td>
+				<td <td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">
+				<a  style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 120px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-5-home-remedies-for-fever/">
+				<font size="5" color="#000000">
+				<span style="text-decoration: none">Fever</span></font></a></td>
+			</tr>
+			<tr>
+				<td width="116" style="background-color: #5BBC55;border-radius: 50px; overflow: hidden; box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">
+				<font size="5">
+				<img border="0" src="https://www.yogendrayurvedic.com.np/static/318a1d916f6e5343a218ffb58dfb4adc/6e81a/n0910b16207233074913.jpg" width="120" height="80" style="width: 80%"></font></td>
+				<td height="113" style="background-color: #5BBC55;box-sizing: border-box;border-radius: 50px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6)">
+				<p class="MsoNormal" align="center">&nbsp;<p class="MsoNormal" align="center">
+				<a   style="border-style: outset; border-width: 1px; padding-left: 5px; padding-right: 110px; padding-top: 2px; padding-bottom: 2px" href="https://www.yogendrayurvedic.com.np/blog/2021-06-05-7-home-remedies-for-cough/">
+				<font size="5" color="#000000"><span >Cough</span></font></a><p class="MsoNormal" align="center">
+				<font size="5">&nbsp;</font></td>
+			</tr>
+		</table>
 			<p>&nbsp;</td>
 	</tr>
 	<tr>
@@ -354,5 +453,6 @@ border-radius:10px;">		<b>
 		More&gt;&gt;</font></a></td>
 	</tr>
 	</table>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;
+<table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
+border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+">		<p class="MsoNormal">&nbsp;
