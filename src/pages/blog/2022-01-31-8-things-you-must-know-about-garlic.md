@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/garlic.jpg
 tags:
-  - HERB
+  - HERBS
 ---
 <style>
 .box
