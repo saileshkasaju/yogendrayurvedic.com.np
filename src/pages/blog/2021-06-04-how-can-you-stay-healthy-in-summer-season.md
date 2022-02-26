@@ -252,6 +252,8 @@ transform: translateY(0px);
 
 <h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
 
+</div>
+
 <div class="wrapper">
 
 <div class="b-area">
