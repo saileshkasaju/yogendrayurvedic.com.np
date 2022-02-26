@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/1.png
 tags:
-  - ASTANGA HRYDAYAM
+  - BASICS
 ---
 <style>
 .box
