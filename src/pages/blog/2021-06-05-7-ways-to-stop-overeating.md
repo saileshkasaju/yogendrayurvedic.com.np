@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/10091394.jpg
 tags:
-  - "#overeating"
+  - Home Remedies
 ---
 <style>
 .box
