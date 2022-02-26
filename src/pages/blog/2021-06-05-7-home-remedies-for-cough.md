@@ -6,10 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/n0910b16207233074913.jpg
 tags:
-  - "#cough"
-  - "#productive cough"
-  - "#dry cough"
-  - ""
+  - Home Remedies
 ---
 <style>
 .box
