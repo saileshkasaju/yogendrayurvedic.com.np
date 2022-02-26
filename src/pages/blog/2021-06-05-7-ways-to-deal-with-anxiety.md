@@ -9,7 +9,7 @@ description: Anxiety is your body's natural response to stress. It's a feeling
 featuredpost: true
 featuredimage: /img/how-to-cope-with-anxiety-and-depression-722x406.jpg
 tags:
-  - Anxiety
+  - Home Remedies
 ---
 <style>
 .box
