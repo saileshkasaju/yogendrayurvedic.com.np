@@ -302,7 +302,7 @@ transform: translateY(0px);
 <table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
 border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);">	<tr>
 <td >		
-<iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/y3kafdKsOc8" name="I1">
+<iframe width="360" height="215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/y3kafdKsOc8" name="I1">
 </iframe></font>
 <p>&nbsp;</td>
 	</tr>
