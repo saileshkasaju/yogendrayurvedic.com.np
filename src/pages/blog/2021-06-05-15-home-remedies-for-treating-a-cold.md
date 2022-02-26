@@ -6,9 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/image.jpg
 tags:
-  - cold
-  - flu
-  - ""
+  - Home Remedies
 ---
 <style>
 .box
