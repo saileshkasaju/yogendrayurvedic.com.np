@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/daily-removebg-preview.png
 tags:
-  - ASTANGA HRYDAYAM
+  - BASICS
 ---
 <style>
 .box
