@@ -252,19 +252,17 @@ transform: translateY(0px);
 
 <h2 align="center">YOGENDRA<BR> AYURVEDA</h2></a>
 
-</div>
-
 <div class="wrapper">
 
 <div class="b-area">
 
-<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598326701561.png" style="height:100%"></a></div>
 
-<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/respiratory.jpg"></div>
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598327864956.png" style="height:100%"></div>
 
-<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/nervous_system-removebg-preview.png" style="height:100%"></div>
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598328716779.png" style="height:100%"></div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/circulatory_system.jpg"></div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598268014574.png" style="height:100%"></div>
 
 <div class="b b-top"></div>
 
@@ -273,6 +271,8 @@ transform: translateY(0px);
 </div>
 
 </div>
+
+
 
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
