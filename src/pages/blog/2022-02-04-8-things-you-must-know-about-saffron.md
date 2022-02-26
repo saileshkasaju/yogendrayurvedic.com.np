@@ -6,7 +6,6 @@ description: .
 featuredpost: true
 featuredimage: /img/saffron.jpg
 tags:
-  - HERB
   - HERBS
 ---
 <style>
