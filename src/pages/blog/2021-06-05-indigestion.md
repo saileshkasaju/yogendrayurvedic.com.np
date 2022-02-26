@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/1135057226-h-1-.jpg
 tags:
-  - indigestion
+  - Home Remedies
 ---
 <style>
 .box
