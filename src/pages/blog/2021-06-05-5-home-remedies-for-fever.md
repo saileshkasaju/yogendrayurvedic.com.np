@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/80480272.jpg
 tags:
-  - "#fever"
+  - Home Remedies
 ---
 <style>
 .box
