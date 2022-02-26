@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/poppy__seeds-removebg-preview.png
 tags:
-  - herbs
+  - HERBS
 ---
 <style>
 .box
