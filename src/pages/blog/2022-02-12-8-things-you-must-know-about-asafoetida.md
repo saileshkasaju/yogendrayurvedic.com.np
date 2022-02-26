@@ -6,7 +6,6 @@ description: .
 featuredpost: true
 featuredimage: /img/hing-removebg-preview.png
 tags:
-  - HERB
   - HERBS
 ---
 <style>
