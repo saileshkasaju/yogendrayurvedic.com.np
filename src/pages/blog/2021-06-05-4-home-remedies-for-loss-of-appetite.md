@@ -6,8 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/loss-of-appetite-in-teens.jpg
 tags:
-  - "#appetite"
-  - "#low appetite"
+  - Home Remedies
 ---
 <style>
 .box
