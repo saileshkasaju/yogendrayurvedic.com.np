@@ -260,13 +260,13 @@ transform: translateY(0px);
 
 <div class="b-area">
 
-<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/1135057226-h-1-.jpg" style="height:100%"></a></div>
+<div class="b b-front"><a href="#"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598326701561.png" style="height:100%"></a></div>
 
-<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/human-shoulder-muscles-777x777.jpg"></div>
+<div class="b b-right"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598327864956.png" style="height:100%"></div>
 
-<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/nervous-system.jpg"  style="height:100%"></div>
+<div class="b b-back"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598328716779.png" style="height:100%"></div>
 
-<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/the-urinary-system.jpg"></div>
+<div class="b b-left"><img src="https://www.yogendrayurvedic.com.np/img/_cut_1598268014574.png" style="height:100%"></div>
 
 <div class="b b-top"></div>
 
@@ -275,6 +275,8 @@ transform: translateY(0px);
 </div>
 
 </div>
+
+
 
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
@@ -304,7 +306,7 @@ transform: translateY(0px);
 border-radius:10px;box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 ">	<tr>
 		<td>
-		<iframe width="560" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/He_OTCyJ6GI" name="I1">
+		<iframe width="360" height="215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/He_OTCyJ6GI" name="I1">
 		</iframe></td>
 	</tr>
 	<tr>
