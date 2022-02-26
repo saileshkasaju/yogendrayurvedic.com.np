@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/_paste_1598433641256.png
 tags:
-  - PRAKRUTI
+  - BASICS
 ---
 <style>
 .box
