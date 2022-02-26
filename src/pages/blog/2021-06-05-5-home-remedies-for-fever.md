@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Home remedie
+title: "7 Home Remedies For Fever "
 date: 2021-06-05T05:49:06.752Z
 description: .
 featuredpost: true
