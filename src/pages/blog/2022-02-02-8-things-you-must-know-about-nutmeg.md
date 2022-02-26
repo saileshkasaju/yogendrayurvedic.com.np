@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/jatiphala.jpg
 tags:
-  - HERB
+  - HERBS
 ---
 <style>
 .box
