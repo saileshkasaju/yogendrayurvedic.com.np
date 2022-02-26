@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/ajwan-removebg-preview.png
 tags:
-  - herb
+  - HERBS
 ---
 <style>
 .box
