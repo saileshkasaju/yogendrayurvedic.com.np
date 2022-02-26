@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/sesame_seeds-removebg-preview.png
 tags:
-  - herb
+  - HERBS
 ---
 <style>
 .box
