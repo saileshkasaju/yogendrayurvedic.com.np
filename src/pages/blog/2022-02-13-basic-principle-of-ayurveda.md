@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/_paste_1598433641256-removebg-preview.png
 tags:
-  - basic
+  - BASICS
 ---
 <style>
 .box
