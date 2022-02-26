@@ -6,8 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/1.png
 tags:
-  - "#summer"
-  - "#ayurveda"
+  - BASICS
 ---
 <style>
 .box
