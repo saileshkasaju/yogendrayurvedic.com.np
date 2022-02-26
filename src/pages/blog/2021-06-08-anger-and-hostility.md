@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/anger-794697_960_720_0.jpg
 tags:
-  - Anger
+  - Home Remedies
 ---
 <style>
 .box
