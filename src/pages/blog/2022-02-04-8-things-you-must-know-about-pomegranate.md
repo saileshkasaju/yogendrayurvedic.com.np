@@ -6,7 +6,6 @@ description: .
 featuredpost: true
 featuredimage: /img/pomegranate.jpg
 tags:
-  - HERB
   - HERBS
 ---
 <style>
