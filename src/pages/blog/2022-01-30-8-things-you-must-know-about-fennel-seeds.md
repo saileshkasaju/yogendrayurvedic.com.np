@@ -6,7 +6,7 @@ description: .
 featuredpost: true
 featuredimage: /img/fennel-seeds.jpg
 tags:
-  - HERB
+  - HERBS
 ---
 <style>
 .box
