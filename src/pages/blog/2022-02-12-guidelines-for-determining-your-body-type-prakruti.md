@@ -276,8 +276,6 @@ transform: translateY(0px);
 
 </div>
 
-
-
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
 <p class="MsoNormal">&nbsp;</p>
@@ -308,7 +306,7 @@ transform: translateY(0px);
 <table border="0" width="100%" style="background-image: linear-gradient(to right top, #80ff8b, #b8fd9d, #ddfcb7, #f4fcd8, #fffffe);
 border-radius:10px; ">	
 	<tr>
-		<td width="638" colspan="5" valign="top" style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
+		<td width="638" colspan="4" valign="top" style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal">
@@ -321,10 +319,6 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><b><span style="font-family: Arial,sans-serif; color: black">
 		OBSERVATIONS</span></b></td>
-		<td width="95" valign="top" style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
-border-radius:10px;">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-family: Arial,sans-serif; color: black">V P K</span></b></td>
 		<td width="137" valign="top" style="background-image: linear-gradient(to right top, #00003d, #004596, #0087bd, #00c794, #3aff03);
 border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
@@ -345,44 +339,42 @@ border-radius:10px;">
 		</span></p>
 		<p class="MsoListParagraph" style="line-height: normal; margin-bottom: .0001pt">
 		<span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; height: 68.35pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; height: 68.35pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Irregular 
-		forms</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">gas</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">forms gas</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; height: 68.35pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Quick, 
-		Causes</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">burning</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Causes burning</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; height: 68.35pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Prolonged, 
-		Forms</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">mucus</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Prolonged</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Forms mucus</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -392,23 +384,48 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.25in;margin-bottom:.0001pt;line-height:normal">
 		<span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Sweet, Sour, 
-		Salty</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sweet</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sour </span>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Salty</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Sweet, 
-		Bitter, Astringent</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sweet</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Bitter</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Astringent</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Bitter, 
-		Pungent</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Astringent</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Bitter</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Pungent</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Astringent</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -416,27 +433,30 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Thirst</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Changeable</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Surplus</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Sparse</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -444,28 +464,38 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Elimination</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Constipation</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Loose</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thick, Oily, 
-		Sluggish</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thick</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sluggish</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -474,27 +504,30 @@ border-radius:10px;">
 		activity</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Hyperactive</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Moderate</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Sedentary</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -503,28 +536,35 @@ border-radius:10px;">
 		activity</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Always 
-		Active</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		Active</span></p></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Moderate</span></p>
+			</li>
+		</ul>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal">&nbsp;</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Dull, Slow</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dull</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slow</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -532,30 +572,62 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Emotions</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Anxiety, 
-		Fear, Uncertainty Flexible</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Anxiety
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Fear</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Uncertainty</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Flexible</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Anger, Hate, 
-		Jealousy, Deter mined</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Anger</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Hate</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Jealousy</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Determined</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Calm, 
-		Greedy. Attachment</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Calm</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Greedy</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Attachment</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -563,30 +635,46 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Faith</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Variable 
-		Changeable</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Variable</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;Changeable</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Intense, 
-		Extremist</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Intense</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Extremist</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Consistent, 
-		Deep. Mellow</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Consistent</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Deep</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Mellow</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -594,29 +682,42 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Intellect</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Quick but 
-		faulty response</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Quick </span>
+			</p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">faulty</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">response</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Accurate 
-		response</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		response</span></p></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Slow, Exact</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slow</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Exact</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -624,20 +725,34 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Recollection</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Recent good 
-		remote poor</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Recent good</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">remote poor</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Distinct</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Distinct</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Slow and 
-		sustained</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slow </span>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">sustained</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -645,22 +760,50 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Dreams</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Quick, 
-		Active, Many, Fearful</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Quick</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Active</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Many</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Fearful</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Fiery, War, 
-		Violence</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Fiery</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">War</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Violence</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Lakes. Snow,</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Romantic</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Lakes</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Snow</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Romantic</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -668,27 +811,44 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Sleep</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Scanty, 
-		Broken up Sleeplessness</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Scanty</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Broken up</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sleeplessness</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Little 
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">sound</span></p>
+			</li>
+		</ul>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Little but 
-		sound</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal">&nbsp;</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Deep. 
-		Prolonged</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Deep</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Prolonged</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -696,24 +856,38 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Speech</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Rapid, 
-		Unclear</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rapid</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Unclear</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Sharp, 
-		Penetrating</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sharp</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Penetrating</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Slow, 
-		monotonous</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slow</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">monotonous</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -721,64 +895,99 @@ border-radius:10px;">
   normal"><span style="font-family: Arial,sans-serif; color: black">Financial</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">spends on
-		</span>
-		<span style="background-position: 0% 0%; font-size: 9.5pt; font-family: Arial,sans-serif; background-image:none; background-repeat:repeat; background-attachment:scroll">
-		&nbsp;something of little value, substance, or importance.</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">
+			<font size="3">spends on
+		</font></span>
+			<span style="background-position: 0% 0%; font-family: Arial,sans-serif; background-image:none; background-repeat:repeat; background-attachment:scroll">
+			<font size="3">&nbsp;something of</font></span><ul>
+				<li>
+				<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="background-position: 0% 0%; font-family: Arial,sans-serif; background-image:none; background-repeat:repeat; background-attachment:scroll">
+				<font size="3">&nbsp;little value,</font></span></li>
+				<li>
+				<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="background-position: 0% 0%; font-family: Arial,sans-serif; background-image:none; background-repeat:repeat; background-attachment:scroll">
+				<font size="3">substance,</font></span></li>
+				<li>
+				<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="background-position: 0% 0%; font-family: Arial,sans-serif; background-image:none; background-repeat:repeat; background-attachment:scroll">
+				<font size="3">importance.</font></span></li>
+			</ul>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Spends money 
-		on luxuries</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		on luxuries</span></p></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;Good</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">money 
-		preserver</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;Good money 
+		preserver</span></p></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Body size</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Slim</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slim</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Large</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Large</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Body weight</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Low</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Low</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Overweight</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Overweight</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -787,25 +996,64 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thin, Dry, 
-		Cold, Rough, Dark</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dry</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Cold</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rough</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dark</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth, 
-		Oily,</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Warm, Rosy</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Warm</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rosy</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thick, Oily,</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Cool, White, 
-		Pale</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thick</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Cool</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">White</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Pale</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -814,34 +1062,85 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Dry Brown, 
-		Black, Knotted, Brittle, Thin</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dry Brown</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Black</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Knotted
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Brittle</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Straight, 
-		Oily,</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Blond, Gray, 
-		Red, Bald</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Straight</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Blond</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Gray</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Red</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Bald</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thick, Curly</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Oily, Wavy, 
-		Luxuriant</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">All colors</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thick</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Curly</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Wavy</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Luxuriant</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">All colors</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -850,23 +1149,47 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Protruding. 
-		Big Roomy. Thin gums</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Protruding</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Big Roomy</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin gums</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Medium, Soft 
-		Tender gums</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Soft</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Tender gums</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Healthy, 
-		White,</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Strong gums</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Healthy</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">White</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Strong gums</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -875,21 +1198,40 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Uneven shape 
-		Deviated septum</span></td>
+			</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Deviated septum</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Long pointed 
-		Red nose-tip</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Long pointed</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Red nose-tip</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Short 
-		Rounded, Button nose</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Short</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rounded</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Button nose</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -898,27 +1240,84 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Small, 
-		Sunken, Dry, Active, Black, Brown, Nervous</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Small</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sunken</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dry</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Active</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Black</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Brown</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Nervous</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Sharp, 
-		Bright, Gray, Green, Yellow/red, Sensitive to light</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sharp</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Bright</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Gray</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Green</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Yellow/red</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sensitive to light</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Big, 
-		Beautiful, Blue, Calm, Loving</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Big</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Beautiful</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Blue</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Calm</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Loving</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -927,21 +1326,54 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Dry, Rough, 
-		Brittle, Break easily</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dry</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rough</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Brittle</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Break easily</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Sharp, 
-		Flexible, Pink, Lustrous</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sharp</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Flexible</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Pink</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Lustrous</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thick, Oily, 
-		Smooth, Polished,</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thick</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Polished</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -950,46 +1382,88 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Dry, 
-		Cracked,</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Black/brown 
-		tinged</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Dry</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Cracked</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Black/brown</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">tinged</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Red, 
-		Inflamed, Yellowish</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Red</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Inflamed</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Yellowish</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth, 
-		Oily. Pale, Whitish</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oily</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Pale</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Whitish</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Chin</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thin, 
-		Angular</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Angular</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Tapering</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Rounded, 
-		Double</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rounded</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Double</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -998,29 +1472,42 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Wrinkled, 
-		Sunken</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Wrinkled</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sunken</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth Flat</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Smooth 
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Flat</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Rounded, 
-		Plump</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Rounded</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Plump</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1029,27 +1516,38 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thin, Tall</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Tall</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Big, Folded</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Big</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Folded</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1058,22 +1556,34 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Flat, Sunken</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Flat</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sunken</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Moderate</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Expanded, 
-		Round</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Expanded</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Round</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1082,29 +1592,42 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thin, Flat, 
-		Sunken</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Flat</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Sunken</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Moderate</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Big, 
-		Potbellied</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Big</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Potbellied</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1113,30 +1636,54 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Small, 
-		Irregular Hemiated</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Small</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Irregular
+			</span></p></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Hemiated</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Oval, 
-		Superficial</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Oval</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Superficial</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Big, Deep, 
-		Round, Stretched</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Big</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Deep</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Round</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Stretched</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1145,29 +1692,38 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Slender, 
-		Thin</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slender</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Thin</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Moderate
-		</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+			</span></p></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Heavy, Big</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Heavy</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Big</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1176,49 +1732,75 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
 		&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Cold, 
-		Cracking</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Cold</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Cracking</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">&nbsp;</span></p>
+			</li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Moderate</span></p>
+			</li>
+		</ul>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal">&nbsp;</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Large, 
-		Lubricated</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Large</span></p>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Lubricated</span></p>
+			</li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-family: Arial,sans-serif; color: black">Appetite</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: MS Gothic; color: black">&#12525;&#12525;&#12525;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Irregular, 
-		Scanty</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Irregular</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Scanty</span></li>
+		</ul>
+		</td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Strong, 
-		Unbearable</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Strong</span></li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Unbearable</span></li>
+		</ul>
+		</td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Slow but 
-		steady</span></td>
+		<ul>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">Slow </span>
+			</li>
+			<li>
+			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-family: Arial,sans-serif; color: black">steady</span></li>
+		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
@@ -1227,28 +1809,18 @@ border-radius:10px;">
 		<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.25in;margin-bottom:.0001pt;line-height:normal">
 		<span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
-		<td width="95" valign="top" style="width: 71.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		V=</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		P=</span></p>
-		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		K=</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		&nbsp;V=</span></td>
 		<td width="129" valign="top" style="width: 96.4pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		&nbsp;P=</span></td>
 		<td width="131" valign="top" style="width: 98.05pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+		&nbsp;K=</span></td>
 	</tr>
 </table>
 <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
