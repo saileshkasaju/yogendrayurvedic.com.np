@@ -322,15 +322,15 @@ border-radius:10px;">
 		<td width="137" valign="top" style="background-image: linear-gradient(to right top, #00003d, #004596, #0087bd, #00c794, #3aff03);
 border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-family: Arial,sans-serif; color: black">VATA</span></b></td>
+  normal"><b><span style="font-family: Arial,sans-serif; color: #FFFFFF">VATA</span></b></td>
 		<td width="129" valign="top" style="background-image: linear-gradient(to right top, #f93220, #f67300, #dca800, #abd600, #3aff03);
 border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-family: Arial,sans-serif; color: black">PITTA</span></b></td>
+  normal"><b><span style="font-family: Arial,sans-serif; color: #FFFFFF">PITTA</span></b></td>
 		<td width="131" valign="top" style="background-image: linear-gradient(to right top, #063d00, #0f6904, #1b9805, #2aca06, #3aff03);box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.6);
 border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-family: Arial,sans-serif; color: black">KAPHA</span></b></td>
+  normal"><b><span style="font-family: Arial,sans-serif; color: #FFFFFF">KAPHA</span></b></td>
 	</tr>
 	<tr style="height: 68.35pt">
 		<td width="147" valign="top"   bgcolor="#008000">
@@ -1777,7 +1777,7 @@ border-radius:10px;">
 		<ul>
 			<li>
 			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black; font-weight:700">
+  normal"><span style="font-family: Arial,sans-serif; color: black; ">
 			<font size="2">Medium</font></span></p>
 			</li>
 		</ul>
