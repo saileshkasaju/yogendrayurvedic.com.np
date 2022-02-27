@@ -107,7 +107,7 @@ transform: translateY(0px);
 
 position: absolute;
 
-top: 42%;
+top: 40%;
 
 left: 50%;
 
