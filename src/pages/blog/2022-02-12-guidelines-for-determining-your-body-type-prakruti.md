@@ -314,11 +314,11 @@ border-radius:10px;">
 		GUIDELINES FOR DETERMINING YOUR BODY TYPE(PRAKRUTI)</span></td>
 	</tr>
 	<tr>
-		<td width="147" valign="top" style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);
-border-radius:10px;">
+		<td width="147" valign="top"  bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-family: Arial,sans-serif; color: black">
-		OBSERVATIONS</span></b></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">
+		OBSERVATIONS</span></td>
 		<td width="137" valign="top" style="background-image: linear-gradient(to right top, #00003d, #004596, #0087bd, #00c794, #3aff03);
 border-radius:10px;">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
@@ -333,12 +333,13 @@ border-radius:10px;">
   normal"><b><span style="font-family: Arial,sans-serif; color: black">KAPHA</span></b></td>
 	</tr>
 	<tr style="height: 68.35pt">
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Digestion
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Digestion
 		</span></p>
 		<p class="MsoListParagraph" style="line-height: normal; margin-bottom: .0001pt">
-		<span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; height: 68.35pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -377,13 +378,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Taste, 
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Taste, 
 		healthy preference</span></p>
 		<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.25in;margin-bottom:.0001pt;line-height:normal">
-		<span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -428,11 +430,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Thirst</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Thirst</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -459,11 +463,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Elimination</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Elimination</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -498,12 +504,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Physical 
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Physical 
 		activity</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -530,12 +538,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Mental 
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Mental 
 		activity</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -567,11 +577,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Emotions</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Emotions</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -630,11 +642,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Faith</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Faith</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -677,11 +691,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Intellect</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Intellect</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -720,11 +736,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Recollection</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Recollection</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -755,11 +773,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Dreams</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Dreams</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -806,11 +826,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Sleep</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Sleep</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -851,11 +873,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Speech</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Speech</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -890,11 +914,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Financial</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Financial</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -938,9 +964,10 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Body size</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Body size</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -964,9 +991,10 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Body weight</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Body weight</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -990,12 +1018,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Skin</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Skin</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1056,12 +1086,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Hair</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Hair</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1143,12 +1175,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Teeth</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Teeth</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1192,12 +1226,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Nose</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Nose</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1234,12 +1270,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Eyes</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Eyes</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1320,12 +1358,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Nails</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Nails</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1376,12 +1416,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Lips</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Lips</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1433,9 +1475,10 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Chin</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Chin</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1466,12 +1509,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Cheeks</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Cheeks</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1510,12 +1555,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Neck</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Neck</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1532,7 +1579,7 @@ border-radius:10px;">
 		<ul>
 			<li>
 			<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Medium</span></p>
+  normal"><span style="font-family: Arial,sans-serif; color: black; font-weight:700">Medium</span></p>
 			</li>
 		</ul>
 		</td>
@@ -1550,12 +1597,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Chest</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Chest</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1586,12 +1635,14 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Belly</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Belly</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF">
+		<span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; font-weight:700">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1630,12 +1681,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Belly button</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Belly button</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1686,12 +1738,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Hips</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Hips</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1726,12 +1779,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Joints</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Joints</span></p>
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
-		&nbsp;</span></td>
+  normal"><font color="#FFFFFF"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
+		&nbsp;</span></font></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1767,9 +1821,10 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">Appetite</span></td>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">Appetite</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<ul>
 			<li>
@@ -1803,12 +1858,13 @@ border-radius:10px;">
 		</td>
 	</tr>
 	<tr>
-		<td width="147" valign="top"  style="background-image: linear-gradient(to right top, #62f920, #00dba3, #00b2ff, #007dff, #3d07d8);">
+		<td width="147" valign="top"   bgcolor="#008000">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-family: Arial,sans-serif; color: black">TOTAL</span></p>
+  normal">
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF; font-weight:700">TOTAL</span></p>
 		<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.25in;margin-bottom:.0001pt;line-height:normal">
-		<span style="font-family: Arial,sans-serif; color: black">&nbsp;</span></td>
+		<span style="font-family: Arial,sans-serif; color: #FFFFFF">&nbsp;</span></td>
 		<td width="137" valign="top" style="width: 102.7pt; border-left: medium none; border-right: 1.0pt solid black; border-top: medium none; border-bottom: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
 		<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif">
