@@ -42,15 +42,18 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean",
-    "start": "npm run develop",
+    "start": "concurrently npm:dev:*",
+    "dev:app": "gatsby develop",
+    "dev:proxy": "netlify-cms-proxy-server",
     "predeploy": "npm run clean && gatsby build",
     "deploy": "gh-pages -d public",
-    "develop": "npm run clean && gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "concurrently": "^7.0.0",
+    "netlify-cms-proxy-server": "^1.3.23",
     "prettier": "^2.0.5"
   },
   "engines": {
