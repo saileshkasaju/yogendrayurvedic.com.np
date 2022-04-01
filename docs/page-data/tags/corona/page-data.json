@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-tags-js",
-    "path": "/tags/corona/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Yogendra Ayurvedic Pharmacy"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2020-03-25-corona-with-ayurveda/"},"frontmatter":{"title":"CORONA WITH AYURVEDA"}}}]}},"pageContext":{"tag":"CORONA"}},
-    "staticQueryHashes": ["764694655"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-tags-index-js",
-    "path": "/tags/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Yogendra Ayurvedic Pharmacy"}},"allMarkdownRemark":{"group":[{"fieldValue":"BASICS","totalCount":6},{"fieldValue":"Basics","totalCount":1},{"fieldValue":"CORONA","totalCount":1},{"fieldValue":"DISEASES","totalCount":2},{"fieldValue":"HERB","totalCount":1},{"fieldValue":"HERBS","totalCount":21},{"fieldValue":"HERBS (NEPALI)","totalCount":20},{"fieldValue":"Home Remedies","totalCount":8},{"fieldValue":"ayu","totalCount":1},{"fieldValue":"herb","totalCount":1},{"fieldValue":"herbs","totalCount":1},{"fieldValue":"kk","totalCount":1},{"fieldValue":"piv","totalCount":1}]}},"pageContext":{}},
-    "staticQueryHashes": []}
