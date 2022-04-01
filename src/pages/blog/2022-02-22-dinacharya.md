@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: "Dinacharya "
+title: "Dinacharya"
 date: 2022-02-22T12:51:32.157Z
-description: .
+description: Dincharya
 featuredpost: true
 featuredimage: /img/daily-removebg-preview.png
 tags:
