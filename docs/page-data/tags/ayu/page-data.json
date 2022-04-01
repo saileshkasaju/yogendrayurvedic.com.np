@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/ayu/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Yogendra Ayurvedic Pharmacy"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2020-03-15-need-for-healing/"},"frontmatter":{"title":"Need For Healing"}}}]}},"pageContext":{"tag":"ayu"}},
+    "staticQueryHashes": ["764694655"]}

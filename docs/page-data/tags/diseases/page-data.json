@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/diseases/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Yogendra Ayurvedic Pharmacy"}},"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/2022-02-26-migraine/"},"frontmatter":{"title":"MIGRAINE"}}},{"node":{"fields":{"slug":"/blog/2022-02-11-माइग्रेन-बारेमा-तपाईंले-जान्नै-पर्ने-कुरा/"},"frontmatter":{"title":"माइग्रेन बारेमा तपाईंले जान्नै पर्ने  कुरा"}}}]}},"pageContext":{"tag":"DISEASES"}},
+    "staticQueryHashes": ["764694655"]}

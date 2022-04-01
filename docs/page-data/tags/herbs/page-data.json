@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/herbs/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Yogendra Ayurvedic Pharmacy"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2022-02-08-amla/"},"frontmatter":{"title":"amla"}}}]}},"pageContext":{"tag":"herbs"}},
+    "staticQueryHashes": ["764694655"]}
