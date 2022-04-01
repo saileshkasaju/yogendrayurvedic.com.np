@@ -67,16 +67,6 @@
   Link: </component---src-templates-product-page-js-d23f089c6b4efddccf56.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/products/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2020-03-25-corona-with-ayurveda/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2020-03-25-corona-with-ayurveda/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2020-03-15-need-for-healing/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -87,7 +77,7 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2020-03-15-need-for-healing/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2021-06-05-15-home-remedies-for-treating-a-cold/
+/blog/2020-03-25-corona-with-ayurveda/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
   Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
@@ -96,7 +86,7 @@
   Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2021-06-05-15-home-remedies-for-treating-a-cold/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2020-03-25-corona-with-ayurveda/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2021-06-04-how-can-you-stay-healthy-in-summer-season/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -107,7 +97,7 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2021-06-04-how-can-you-stay-healthy-in-summer-season/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2021-06-05-7-home-remedies-for-cough/
+/blog/2021-06-05-15-home-remedies-for-treating-a-cold/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
   Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
@@ -116,17 +106,7 @@
   Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2021-06-05-7-home-remedies-for-cough/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2021-06-05-7-ways-to-deal-with-anxiety/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2021-06-05-7-ways-to-deal-with-anxiety/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2021-06-05-15-home-remedies-for-treating-a-cold/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2021-06-05-4-home-remedies-for-loss-of-appetite/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -137,6 +117,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2021-06-05-4-home-remedies-for-loss-of-appetite/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2021-06-05-7-home-remedies-for-cough/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2021-06-05-7-home-remedies-for-cough/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2021-06-05-5-home-remedies-for-fever/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -147,6 +137,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2021-06-05-5-home-remedies-for-fever/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2021-06-05-7-ways-to-deal-with-anxiety/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2021-06-05-7-ways-to-deal-with-anxiety/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2021-06-05-7-ways-to-stop-overeating/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -157,26 +157,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2021-06-05-7-ways-to-stop-overeating/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2021-06-08-anger-and-hostility/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2021-06-08-anger-and-hostility/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-01-24-aloe-vera/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-01-24-aloe-vera/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2021-06-05-indigestion/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -197,7 +177,7 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-01-23-fenugreek/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-01-25-g/
+/blog/2021-06-08-anger-and-hostility/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
   Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
@@ -206,7 +186,17 @@
   Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-01-25-g/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2021-06-08-anger-and-hostility/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-01-24-aloe-vera/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-01-24-aloe-vera/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-01-24-photo-gallery/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -217,6 +207,26 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-01-24-photo-gallery/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-01-25-g/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-01-25-g/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-01-27-8-things-you-must-know-about-cinnamon/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-01-27-8-things-you-must-know-about-cinnamon/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-01-26-8-things-you-must-know-about-coriander/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -237,16 +247,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-01-28-7-things-you-must-know-aboout-cloves/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-01-27-8-things-you-must-know-about-cinnamon/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-01-27-8-things-you-must-know-about-cinnamon/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-01-28-jkjk/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -317,16 +317,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-03-मेथीको-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-04-8-things-you-must-know-about-saffron/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-04-8-things-you-must-know-about-saffron/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-04-8-things-you-must-know-about-pomegranate/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -337,6 +327,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-04-8-things-you-must-know-about-pomegranate/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-04-8-things-you-must-know-about-saffron/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-04-8-things-you-must-know-about-saffron/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-04-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा-घ्यु-कुमारी/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -367,16 +367,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-05-धनिया-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-06-8-things-you-must-know-about-amla/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-06-8-things-you-must-know-about-amla/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-06-8-things-you-must-know-about-ajwan/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -387,7 +377,7 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-06-8-things-you-must-know-about-ajwan/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-06-8-things-you-must-know-about-sesame-seeds/
+/blog/2022-02-06-8-things-you-must-know-about-amla/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
   Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
@@ -396,7 +386,7 @@
   Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-06-8-things-you-must-know-about-sesame-seeds/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-06-8-things-you-must-know-about-amla/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-06-8-things-you-must-know-about-poppy-seeds/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -407,6 +397,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-06-8-things-you-must-know-about-poppy-seeds/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-06-8-things-you-must-know-about-sesame-seeds/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-06-8-things-you-must-know-about-sesame-seeds/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-06-8-things-you-must-know-about-turmeric/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -517,16 +517,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-06-सौंपको-गेडा-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-08-amla/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-08-amla/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-08-अमला-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -537,6 +527,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-08-अमला-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-08-amla/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-08-amla/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-08-खसखस-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -557,16 +557,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-08-जवानो-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-08-हिङ्ग-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-08-हिङ्ग-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-09-नीम-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -577,6 +567,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-09-नीम-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-08-हिङ्ग-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-08-हिङ्ग-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-10-गुर्जु-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -587,16 +587,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-10-गुर्जु-बारेमा-तपाईंले-जान्नै-पर्ने-८-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-12-8-things-you-must-know-about-asafoetida/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-12-8-things-you-must-know-about-asafoetida/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-11-माइग्रेन-बारेमा-तपाईंले-जान्नै-पर्ने-कुरा/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -607,6 +597,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-11-माइग्रेन-बारेमा-तपाईंले-जान्नै-पर्ने-कुरा/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-12-8-things-you-must-know-about-asafoetida/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-12-8-things-you-must-know-about-asafoetida/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-12-8-things-you-must-know-about-guduchi-amrit/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -627,16 +627,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-12-8-things-you-must-know-about-neem/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-22-dinacharya/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-22-dinacharya/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-13-basic-principle-of-ayurveda/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -647,26 +637,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-13-basic-principle-of-ayurveda/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-26-migraine/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-26-migraine/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/2022-02-22-seasonal-regimen/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/2022-02-22-seasonal-regimen/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-14-दिनाचार्य-दनचया-दैनिक-दिनचर्या/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -677,6 +647,16 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-14-दिनाचार्य-दनचया-दैनिक-दिनचर्या/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-22-dinacharya/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-22-dinacharya/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/2022-02-23-herbs/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -687,6 +667,26 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-23-herbs/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-22-seasonal-regimen/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-22-seasonal-regimen/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2022-02-26-migraine/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </0942283cd3a5a7bbd1a745848285f6bc8a2fc77b-c2c3f43b70fc634a4c82.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2022-02-26-migraine/page-data.json>; rel=preload; as=fetch; crossorigin
 /about/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -716,15 +716,6 @@
   Link: </component---src-templates-blog-post-js-82db1eaa90025f06f716.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/2022-02-10-आयुर्वेदका-आधारभूत-सिद्धान्तहरू/page-data.json>; rel=preload; as=fetch; crossorigin
-/tags/corona/
-  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
-  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
-  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
-  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-4d00ac243d7a5492515e.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tags/corona/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/ayu/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -734,7 +725,7 @@
   Link: </component---src-templates-tags-js-4d00ac243d7a5492515e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/ayu/page-data.json>; rel=preload; as=fetch; crossorigin
-/tags/home-remedies/
+/tags/corona/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
   Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
@@ -742,7 +733,7 @@
   Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-4d00ac243d7a5492515e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tags/home-remedies/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/corona/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/basics/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
@@ -752,6 +743,15 @@
   Link: </component---src-templates-tags-js-4d00ac243d7a5492515e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/basics/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/home-remedies/
+  Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
+  Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
+  Link: </532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </app-6ddc5532b78159c4d285.js>; rel=preload; as=script
+  Link: </0d8c9cf909997a2ee7432875beb0b493cf96d760-17d89917d494cab6d14e.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-4d00ac243d7a5492515e.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/home-remedies/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/herbs/
   Link: </webpack-runtime-f00857735188d6d72397.js>; rel=preload; as=script
   Link: </framework-72bc01775c037848fd59.js>; rel=preload; as=script
